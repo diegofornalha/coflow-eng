@@ -65,7 +65,6 @@ metaDescription: >-
 socialImage: >-
   /images/23/01/Como construir um Dapp para cunhagem de NFT na Flow
   diegofornalha.png
-author: content/data/team/hilary-ouse.json
 titlePt: Como construir um Dapp para cunhagem de NFT na Flow
 ---
 ## Vamos colocar todo o conhecimento dos meus artigos anteriores em prática escrevendo e implantando um contrato inteligente, construindo um front-end e cunhando algumas NFTs
