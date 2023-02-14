@@ -130,7 +130,8 @@ Con todo instalado, ¡vamos a empezar!
 Antes de empezar a construir, necesitaremos configurar una cuenta en la cadena de bloques Flow para que podamos implementar nuestro contrato inteligente. Ejecuta el siguiente comando para generar un nuevo par de claves pública y privada:
 
 ```
-cssCopy code
+
+flow keys generate
 ```
 
 Asegúrate de anotar los valores que genera la consola, ya que los necesitaremos en los próximos pasos. A continuación, vamos a [Flow Faucet](https://testnet-faucet.onflow.org/) para crear una nueva dirección basada en nuestras claves y financiar nuestra cuenta con algunos tokens
@@ -167,8 +168,35 @@ Este comando crea un archivo `flow.json` dentro de la carpeta, donde colocaremos
 Abra el archivo `flow.json` en su editor de código y configuraremos una cuenta de la red de pruebas. Dentro de la sección `accounts`, agregaremos una nueva entrada llamada `testnet-account`, que contiene nuestra nueva dirección y la clave privada generada en el comando `flow keys generate` anterior.
 
 ```
-jsonCopy code
+
+{
+ "emulators": {
+  "default": {
+   "port": 3569,
+   "serviceAccount": "emulator-account"
+  }
+ },
+ "contracts": {},
+ "networks": {
+  "emulator": "127.0.0.1:3569",
+  "mainnet": "access.mainnet.nodes.onflow.org:9000",
+  "testnet": "access.devnet.nodes.onflow.org:9000"
+ },
+ "accounts": {
+  "emulator-account": {
+   "address": "f8d6e0586b0a20c7",
+   "key": "2becfbede2fb89796ab68df3ec2a23c3627235ec250a3e5da41df850a8dd4349"
+  },
+  "testnet-account": {
+   "address": "0x8e0dac5df6e8489e",
+   "key": "c91f4716a51a66683ccb090ca3eb3e213b90e9f9ae2b1edd12defffe06c57edc"
+  }
+ },
+ "deployments": {}
+}
 ```
+
+
 
 A continuación, crearemos un nuevo archivo para escribir nuestro contrato inteligente.
 Al escribir el código, puede notar algunas diferencias en la forma en que Cadence maneja la creación de NFT en comparación con Solidity. Por ejemplo, los NFT en Cadence se crean como un recurso y se acuñan directamente en la cuenta del usuario. Por otro lado, los NFT de Solidity son esencialmente solo un número de identificación referenciado en un mapeo para una dirección específica en el libro mayor.
@@ -185,3 +213,4 @@ Cosas importantes a tener en cuenta en el contrato inteligente anterior:
 *   En la sección `contracts`, agregue el contrato y su ruta.
 
 *   En la sección `deployments.testnet.testnet-account.FlowTutorialMint`, agregue la red (), la cuenta que usaremos para ejecutar la implementación () y el nombre del contrato ().
+
