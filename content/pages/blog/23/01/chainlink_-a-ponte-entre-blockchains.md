@@ -119,4 +119,5 @@ socialImage: null
 excerptBr: Conheça a história e as características desta ponte incrível.
 title: 'Chainlink: El puente entre Blockchains'
 author: content/data/team/people/diego-fornalha.json
+excerpt: Conoce la historia y características de este increíble puente.
 ---
