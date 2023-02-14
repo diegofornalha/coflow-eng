@@ -43,10 +43,18 @@ fields:
     name: text
     label: Text [BR]
     default: |-
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8eaa4e07bf3a3fb08106cb73a716b8f9008a166c
   - type: markdown
     name: textPt
     label: Text [ES]
     default: |-
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8eaa4e07bf3a3fb08106cb73a716b8f9008a166c
   - type: style
     name: styles
     styles:

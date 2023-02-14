@@ -50,7 +50,7 @@ fields:
       - ImageBlock
     default:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: ''
       altText: Item image
   - type: enum
     name: featuredIcon
