@@ -114,8 +114,8 @@ excerptBr: >-
   um uso específico, e ficar atualizado sobre as últimas tendências e
   tecnologias. Mantendo-se atualizado e especializado, você poderá aproveitar ao
   máximo as oportunidades neste campo em rápido crescimento.
-markdown_content_pt: >-
-  \## Quer fazer parte da revolução descentralizada como desenvolvedor Web3?
+markdown_content_pt: >
+  **Quer fazer parte da revolução descentralizada como desenvolvedor Web3?**
 
 
   Siga este guia para obter dicas sobre como começar e ter uma carreira
@@ -150,7 +150,7 @@ markdown_content_pt: >-
   Web3.
 
 
-  Inspirado no conteúdo original em inglês: 
+  Inspirado no conteúdo original em inglês:
 
   <https://twitter.com/Frlabs33/status/1609902138729144320>
 author: content/data/team/people/diego-fornalha.json
