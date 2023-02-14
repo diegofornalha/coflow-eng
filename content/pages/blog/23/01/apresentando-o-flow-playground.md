@@ -64,7 +64,6 @@ metaDescription: >-
   acesso exclusivo a um canal de Discord, oportunidades de co-marketing,
   recursos e consultoria para projetos qualificados.
 socialImage: /images/23/01/Apresentando o Flow Playground diego fornalha.png
-author: content/data/team/hilary-ouse.json
 date: '2023-01-10'
 titlePt: Apresentando o Flow Playground
 ---
