@@ -34,33 +34,6 @@
                 ]
             },
             {
-                "type": "DropdownLink",
-                "label": "Partnerships",
-                "altText": "Parcerias",
-                "dropdownLinks": [
-                    {
-                        "type": "Link",
-                        "label": "GeekHunter",
-                        "altText": "Recurtamento e Seleção",
-                        "url": "/2023/janeiro/parcerias/geekhunter/",
-                        "showIcon": true,
-                        "icon": "arrowRight",
-                        "iconPosition": "left",
-                        "elementId": ""
-                    },
-                    {
-                        "type": "Link",
-                        "label": "News",
-                        "altText": "Novidades",
-                        "url": "/2023/janeiro/news",
-                        "showIcon": true,
-                        "icon": "arrowRight",
-                        "iconPosition": "right",
-                        "elementId": ""
-                    }
-                ]
-            },
-            {
                 "type": "Link",
                 "label": "Blog ",
                 "altText": "Blog",
