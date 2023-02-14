@@ -70,7 +70,7 @@ metaDescription: >-
 socialImage: /images/23/01/Ecosystem Overview diegofornalha.png
 featuredImage:
   type: ImageBlock
-  url: /images/23/01/Ecosystem Overview diegofornalha.png
+  url: /images/23/01/um olhar profundo em equipes e produtos vibrantes.png
   altText: Ecosistema
   caption: Ecosistema
   width: 800
