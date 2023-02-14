@@ -70,6 +70,7 @@ markdown_content_pt: >+
 
 metaDescription: null
 socialImage: null
+excerptBr: Conheça a história e as características desta ponte incrível.
 ---
 Como a tecnologia garante transparência, confiança e eficiência em contratos inteligentes
 
