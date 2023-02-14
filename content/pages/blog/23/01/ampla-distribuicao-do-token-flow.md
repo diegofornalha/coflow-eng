@@ -75,6 +75,7 @@ metaDescription: >-
 socialImage: /images/23/01/Ampla distribuição do token flow diego fornalha.png
 author: content/data/team/hilary-ouse.json
 date: '2023-01-07'
+titlePt: Ampla distribuição do token flow
 ---
 A distribuição do token nativo é fundamental para a descentralização da rede e o sucesso a longo prazo.
 
