@@ -155,10 +155,9 @@ markdown_content_pt: >
   <https://twitter.com/Frlabs33/status/1609902138729144320>
 author: content/data/team/people/diego-fornalha.json
 ---
+**¿Quieres formar parte de la revolución descentralizada como desarrollador Web3?**&#x20;
 
-
-
-¿Quieres formar parte de la revolución descentralizada como desarrollador Web3? Sigue esta guía para obtener consejos sobre cómo comenzar y tener una carrera exitosa en este emocionante y en crecimiento campo.
+Sigue esta guía para obtener consejos sobre cómo comenzar y tener una carrera exitosa en este emocionante y en crecimiento campo.
 
 En primer lugar, es importante familiarizarse con los fundamentos del desarrollo web. Esto incluye aprender HTML, CSS y JavaScript, así como marcos de trabajo como React.
 
@@ -169,7 +168,6 @@ Para convertirse en un desarrollador Web3, también es importante tener un buen 
 A medida que continúe aprendiendo y ganando experiencia, puede ser interesante especializarse en un aspecto particular del desarrollo Web3, como front-end o back-end, o concentrarse en un uso específico, como finanzas descentralizadas (DeFi) o tokens no fungibles (NFT).
 
 Por último, manténgase al tanto de las últimas tendencias y avances en el espacio Web3 y continúe aprendiendo y manteniéndose actualizado sobre las últimas herramientas y tecnologías. Esto lo ayudará a mantenerse relevante y en demanda como desarrollador Web3.
-
 
 Inspirado en el contenido original en inglés:
 
