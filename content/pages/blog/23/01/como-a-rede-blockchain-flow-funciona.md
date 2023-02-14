@@ -151,29 +151,12 @@ title: ¿Cómo funciona la red blockchain Flow?
 excerpt: División de nodos y funciones en Flow
 ---
 
-
-
-El control centralizado sobre el suministro de tokens impide el fácil acceso de los desarrolladores, que requieren el token nativo para implementar nuevos contratos inteligentes y pagar tarifas de transacción ("gas"), además de cubrir almacenamiento y depósitos de cuenta en la red.
-
-Una estrategia de distribución segura y sostenible es fundamental: debemos poner el token FLOW en las manos de las personas adecuadas.
-
-Junto con la capacidad técnica y la seguridad de la cripto economía, reconocemos que una estrategia de distribución saludable y sostenible es esencial para hacer que el blockchain Flow tenga éxito a largo plazo.
-
-El FLOW será el catalizador para que diversas nuevas comunidades accedan a la blockchain y a las aplicaciones descentralizadas, construyendo y beneficiándose de casos de uso reales en lugar de especulaciones.
-
-Un buen diseño de experiencia de usuario hará que la propiedad y el uso del FLOW sean perfectos.
-
-En última instancia, el FLOW reunirá a todas las comunidades que construyen la red para crear y compartir valor.
-
-Flow es pionero en varios programas de compromiso a gran escala:
-
-*   **Socios Cloudburst:** organizaciones o individuos elegidos por los titulares de FLOW para operar uno o más nodos validadores de Flow y distribuir las recompensas a los desarrolladores, diseñadores, artistas, organizadores de la comunidad y empresarios que crean contenido para la red Flow.
-
-*   **Validadores Floodplain:** desarrolladores, socios de infraestructura y otros participantes del ecosistema interesados en apoyar a Flow temprano y ayudar a inicializar la masa crítica de contenido y recursos descentralizados necesarios para una red sostenible.
-
-*   **Reputación descentralizada y protocolo de incentivos (DRIP):** diseñado para la accesibilidad ayudando a las aplicaciones en Flow a encontrar una base de usuarios comprometidos, DRIP distribuye el token FLOW a los usuarios finales para fines de apuesta, delegación y participación activa en la economía de Flow.
-
-Gracias a la tecnología robusta, una comunidad increíble y un fuerte diseño de incentivos, el FLOW permitirá que los primeros usuarios de hoy construyan los mundos abiertos del mañana.
-
-
+Flow es una tecnología blockchain diseñada desde cero para integrarse en juegos y aplicaciones, convirtiéndose en una red blockchain de alta velocidad y una arquitectura modular extremadamente flexible para el desarrollo.
+Los desarrolladores de Flow crearon un sistema en el que varias funciones pueden coexistir, funciones que son desempeñadas por sus nodos, cada una con un objetivo muy específico. Esto permite dividir las tareas recibidas (las transacciones que se envían) de manera exclusiva, haciéndolas más fáciles de atender.
+Por ejemplo, si una transacción interactúa con un contrato inteligente avanzado (por ejemplo, una interacción con un DApp), la transacción se divide en dos partes: la primera, donde se encuentran los metadatos de la transacción (quién envía, direcciones, entre otros).
+Y la segunda, la interacción con el contrato inteligente en sí, que debe ser invocado (desde su dirección), ejecutado y ofrecer una respuesta a nuestro usuario (que es visible en el blockchain). Además, todo este proceso debe ser verificado, obedecer a las reglas de consenso y, finalmente, ser incluido en el blockchain. Si estuviéramos en Ethereum, estas tareas se realizan de manera lineal (lenta y costosa).
+Pero en Flow, la primera y la segunda partes se envían a un tipo de nodo (llamado nodo de ejecución), mientras que las tareas de consenso, verificación y almacenamiento se asignan a tipos de nodos específicos para cada tarea. Como cada uno de estos puntos requiere trabajo computacional específico (algunos requieren más potencia que otros), la división del trabajo facilita la entrega de grandes volúmenes de información de manera rápida y sencilla al final. Flow ha creado una red blockchain de operación heterogénea (con nodos asignados a diferentes funciones), con paralelismo y escalabilidad que crece con el número de nodos en la red.
+¿Quieres una explicación más simple que esta? Mira de la siguiente manera, no es lo mismo tener un restaurante en el que ocupas todos los puestos (chef, camarero, cajero), que tener un equipo que te apoya en cada tarea y, sobre todo, si tu restaurante tiene una gran demanda y afluencia de comensales. El primero sería el sistema actual de muchas blockchains, mientras que el segundo sería Flow.
+Explorando cómo funciona Flow en profundidad
+Ahora que sabemos cómo funciona Flow en general, es bueno saber cómo lo hace realidad. En primer lugar, Flow es un proyecto con una arquitectura multifuncional pensada en la divisibilidad de atribuciones y tareas. Esto es esencial, porque la arquitectura de red de Flow, aunque compleja, es mucho menos problemática que otras opciones que encontramos en este mercado. Dicho es
 
