@@ -17,7 +17,7 @@ export default function MyApp({ Component, pageProps }) {
     }
 
     function translateRole(role) {
-        if (role in translatedRoles) return locale === 'pt' ? translatedRoles[role].pt : translatedRoles[role].en;
+        if (role in translatedRoles) return locale === 'en' ? translatedRoles[role].pt : translatedRoles[role].en;
         return role;
     }
 
