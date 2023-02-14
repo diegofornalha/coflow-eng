@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: A revolução da programação de contratos inteligentes
 titlePt: A revolução da programação de contratos inteligentes
 colors: colors-d
 excerpt: >-
