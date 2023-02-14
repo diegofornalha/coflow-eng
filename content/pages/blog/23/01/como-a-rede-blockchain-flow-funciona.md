@@ -148,4 +148,5 @@ markdown_content_pt: >+
 
 author: content/data/team/people/diego-fornalha.json
 title: ¿Cómo funciona la red blockchain Flow?
+excerpt: División de nodos y funciones en Flow
 ---
