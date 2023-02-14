@@ -85,4 +85,5 @@ metaTags:
   - type: MetaTag
     property: 'twitter:site'
     content: '@diegofornalha'
+socialImage: /images/site/flow-coflow-logo.png
 ---
