@@ -37,7 +37,7 @@ export default function LocaleSelector() {
                             ...theme.extend['sb-component-link'],
                         }}
                     >
-                        <MenuItem value={"pt"}>PT</MenuItem>
+                        <MenuItem value={"en"}>PT</MenuItem>
                         <MenuItem value={"en"}>EN</MenuItem>
 
                     </Select>
