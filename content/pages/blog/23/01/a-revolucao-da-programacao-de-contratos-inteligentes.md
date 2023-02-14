@@ -5,9 +5,6 @@ addTitleSuffix: true
 metaTags: []
 titlePt: A revolução da programação de contratos inteligentes
 colors: colors-d
-excerpt: >-
-  Como projetar uma estrutura de dados escalável e segura para atender às
-  necessidades do negócio
 excerptFr: >-
   Como projetar uma estrutura de dados escalável e segura para atender às
   necessidades do negócio
