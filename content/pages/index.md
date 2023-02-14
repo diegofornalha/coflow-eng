@@ -18,7 +18,7 @@ sections:
   - type: CtaSection
     colors: colors-b
     elementId: ''
-    title: Create your World!
+    title: ¡Crea tu mundo!
     titlePt: Crie seu Mundo!
     text: |
       Everything and more about Flow!
