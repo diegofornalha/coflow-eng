@@ -75,4 +75,5 @@ metaDescription: null
 socialImage: null
 excerptBr: Vamos dar os primeiros passos juntos e tornar o aprendizado divertido
 author: content/data/team/people/diego-fornalha.json
+title: 'Cadence: de la teoría a la práctica'
 ---
