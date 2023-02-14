@@ -145,7 +145,7 @@ markdown_content_pt: >+
 
 author: content/data/team/people/diego-fornalha.json
 ---
-## Quer fazer parte da revolução descentralizada como desenvolvedor Web3? 
+## Quer fazer parte da revolução descentralizada como desenvolvedor Web3?
 
 Siga este guia para obter dicas sobre como começar e ter uma carreira bem-sucedida neste campo emocionante e em crescimento.
 
@@ -159,5 +159,6 @@ Conforme você continuar aprendendo e ganhando experiência, pode ser interessan
 
 Por fim, fique de olho nas últimas tendências e avanços no espaço Web3 e continue aprendendo e ficando atualizado sobre as últimas ferramentas e tecnologias. Isso o ajudará a ficar relevante e em demanda como desenvolvedor Web3.
 
-Inspirado no conteúdo original em inglês: https://twitter.com/Frlabs33/status/1609902138729144320
+Inspirado no conteúdo original em inglês:
 
+<https://twitter.com/Frlabs33/status/1609902138729144320>
