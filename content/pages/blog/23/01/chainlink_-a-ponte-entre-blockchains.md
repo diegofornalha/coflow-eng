@@ -11,7 +11,7 @@ excerpt: Conheça a história e as características desta ponte incrível.
 excerptFr: Conheça a história e as características desta ponte incrível.
 featuredImage:
   type: ImageBlock
-  url: /images/CAPAS-Chainlink A ponte entre Blockchains.png
+  url: /images/23/01/Chainlink A ponte entre Blockchains.png
   altText: 'Chainlink: A ponte entre Blockchains'
   caption: 'Chainlink: A ponte entre Blockchains'
   width: 800
