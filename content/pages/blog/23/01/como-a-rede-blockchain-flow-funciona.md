@@ -5,9 +5,6 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-d
 date: '2023-01-17'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
   url: /images/23/01/Como a rede blockchain flow funciona diegofornalha.png
