@@ -61,6 +61,9 @@ metaDescription: >-
   Cadence antes de implantar seus projetos na rede principal.
 socialImage: /images/23/01/Controle básico de acesso em Cadence diegofornalha.png
 titlePt: Controle básico de acesso em Cadence
+excerptBr: >-
+  O controle de acesso em contratos inteligentes escritos em Cadence, uma
+  linguagem de programação para a plataforma Flow. 
 ---
 ![https://miro.medium.com/max/347/1\*M7p33-EGZPFdKcX7oR6mDg.jpeg](https://miro.medium.com/max/347/1\*M7p33-EGZPFdKcX7oR6mDg.jpeg)
 
