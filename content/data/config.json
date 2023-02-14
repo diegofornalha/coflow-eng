@@ -20,18 +20,7 @@
             {
                 "type": "DropdownLink",
                 "label": "About",
-                "dropdownLinks": [
-                    {
-                        "type": "Link",
-                        "label": "Blog",
-                        "altText": "Blog",
-                        "url": "/blog",
-                        "showIcon": true,
-                        "icon": "arrowRight",
-                        "iconPosition": "right",
-                        "elementId": ""
-                    }
-                ]
+                "dropdownLinks": []
             },
             {
                 "type": "Link",
