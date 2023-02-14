@@ -74,3 +74,20 @@ excerpt: >-
   ingresar a un mercado ya valioso.
 author: content/data/team/people/diego-fornalha.json
 ---
+
+
+
+Descubre cómo aprovechar las nuevas oportunidades de negocios generadas por los bienes digitales basados en blockchain y sé uno de los primeros en ingresar a un mercado ya valorado en miles de millones de dólares.
+
+¿Has oído hablar de NBA Top Shot? Bueno, esa es la prueba de que la tecnología blockchain está creando nuevos flujos de ingresos que antes ni imaginábamos. Imagina poder vender pequeños fragmentos de video por diez dólares y tener a 338 mil personas comprando, generando más de 750 millones de dólares en ingresos. Eso es lo que está sucediendo con NBA Top Shot, y muestra cómo las marcas, creadores y desarrolladores pueden beneficiarse de esta nueva economía de bienes digitales.
+
+Pero, ¿qué son los bienes digitales? Bueno, la blockchain permite la propiedad digital. Esto significa que los datos se convierten en algo que realmente se puede poseer, algo que no se puede copiar arbitrariamente y que se puede transferir entre personas; en la blockchain, los datos se convierten en bienes digitales.
+
+Entonces, ¿por qué la gente está pagando por estos fragmentos de video? Porque son bienes digitales, habilitados por la blockchain, con escasez verificable. Esto significa que son raros y exclusivos, y por eso tienen valor. Y esta escasez es lo que genera oportunidades de negocios, tanto en las ventas primarias como en las secundarias.
+
+La red Flow es el lugar perfecto para poner en práctica tu estrategia de bienes digitales. Es escalable y de alto rendimiento, y ofrece un equipo especializado, soporte, facilidad de uso y éxito comprobado. Además, los bienes digitales también ayudan a construir comunidades en torno a una marca y a ofrecer experiencias más allá de los propios bienes digitales.
+
+En resumen, la tecnología blockchain está abriendo nuevas posibilidades de negocios y creando nuevos flujos de ingresos para marcas, creadores y desarrolladores.
+
+
+
