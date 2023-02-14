@@ -6,13 +6,13 @@ metaTags: []
 title: 5 Consejos para quienes quieran aprender sobre la blockchain Flow
 colors: colors-a
 excerpt: >-
-  O Flow é uma plataforma de blockchain que suporta contratos inteligentes e
-  tokens não fungíveis (NFTs). Para aprender sobre o Flow, é importante
-  familiarizar-se com os conceitos básicos de blockchain e como ela funciona,
-  aprender sobre os recursos e capacidades da plataforma, explorar o ambiente de
-  desenvolvimento e as ferramentas disponíveis, praticar a escrita de código na
-  linguagem de programação Cadence e participar da comunidade Flow e interagir
-  com outros desenvolvedores.
+  Flow es una plataforma de blockchain que soporta contratos inteligentes y
+  tokens no fungibles (NFT). Para aprender sobre Flow, es importante
+  familiarizarse con los conceptos básicos de la blockchain y cómo funciona,
+  aprender sobre los recursos y capacidades de la plataforma, explorar el
+  entorno de desarrollo y las herramientas disponibles, practicar la escritura
+  de código en el lenguaje de programación Cadence y participar en la comunidad
+  Flow e interactuar con otros desarrolladores.
 featuredImage:
   type: ImageBlock
   url: >-
