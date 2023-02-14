@@ -1,0 +1,21 @@
+{
+    "type": "Person",
+    "firstName": "Name",
+    "lastName": "Surname",
+    "socialLinks": [
+        {
+            "type": "Social",
+            "icon": "mail",
+            "value": "mail",
+            "label": "Mail",
+            "altText": "Mail",
+            "url": "mailto:",
+            "elementId": false,
+            "showIcon": true
+        }
+    ],
+    "image": {
+        "url": "https://assets.stackbit.com/components/images/default/default-person.png",
+        "altText": "Person photo"
+    }
+}
