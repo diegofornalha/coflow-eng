@@ -24,7 +24,7 @@ bottomSections:
     elementId: ''
     backgroundSize: full
     title: CoFlow
-    titlePt: Allons-y !
+    titlePt: CoFlow
     text: >
       Our company shares the same vision as Dapper Labs, which is to create
       industry-leading web3 experiences and develop dapps on the flow blockchain
