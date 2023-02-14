@@ -2,7 +2,7 @@ type: object
 name: DividerSection
 label: Divider
 labelField: title
-thumbnail: https://assets.stackbit.com/components/models/thumbnails/default.png
+thumbnail: 
 extends:
   - Section
 groups:

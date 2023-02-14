@@ -118,9 +118,9 @@ function PostsVariantA(props) {
         >
             {posts.map((post, index) => {
                 const getTitle = () => locale === 'pt' && post.titlePt ? post.titlePt : post.title;
-                const getExcerpt = () => locale === 'pt' && post.excerptFr ? post.excerptFr : post.excerpt;
+                const getExcerpt = () => locale === 'pt' && post.excerptBr ? post.excerptBr : post.excerpt;
                 const getTitleFieldPath = () => locale === 'pt' && post.titlePt ? 'titlePt' : 'title';
-                const getExcerptFieldPath = () => locale === 'pt' && post.excerptFr ? 'excerptFr' : 'excerpt';
+                const getExcerptFieldPath = () => locale === 'pt' && post.excerptBr ? 'excerptBr' : 'excerpt';
 
                 return (
                 <article key={index} className="sb-card overflow-hidden" data-sb-object-id={post.__metadata?.id}>
@@ -187,9 +187,9 @@ function PostsVariantB(props) {
         >
             {posts.map((post, index) => {
                 const getTitle = () => locale === 'pt' && post.titlePt ? post.titlePt : post.title;
-                const getExcerpt = () => locale === 'pt' && post.excerptFr ? post.excerptFr : post.excerpt;
+                const getExcerpt = () => locale === 'pt' && post.excerptBr ? post.excerptBr : post.excerpt;
                 const getTitleFieldPath = () => locale === 'pt' && post.titlePt ? 'titlePt' : 'title';
-                const getExcerptFieldPath = () => locale === 'pt' && post.excerptFr ? 'excerptFr' : 'excerpt';
+                const getExcerptFieldPath = () => locale === 'pt' && post.excerptBr ? 'excerptBr' : 'excerpt';
 
                 return(
                 <article key={index} className="sb-card overflow-hidden" data-sb-object-id={post.__metadata?.id}>
@@ -256,9 +256,9 @@ function PostsVariantC(props) {
         >
             {posts.map((post, index) => {
                 const getTitle = () => locale === 'pt' && post.titlePt ? post.titlePt : post.title;
-                const getExcerpt = () => locale === 'pt' && post.excerptFr ? post.excerptFr : post.excerpt;
+                const getExcerpt = () => locale === 'pt' && post.excerptBr ? post.excerptBr : post.excerpt;
                 const getTitleFieldPath = () => locale === 'pt' && post.titlePt ? 'titlePt' : 'title';
-                const getExcerptFieldPath = () => locale === 'pt' && post.excerptFr ? 'excerptFr' : 'excerpt';
+                const getExcerptFieldPath = () => locale === 'pt' && post.excerptBr ? 'excerptBr' : 'excerpt';
 
                 return (
                 <article
@@ -329,9 +329,9 @@ function PostsVariantD(props) {
         >
             {posts.map((post, index) => {
                 const getTitle = () => locale === 'pt' && post.titlePt ? post.titlePt : post.title;
-                const getExcerpt = () => locale === 'pt' && post.excerptFr ? post.excerptFr : post.excerpt;
+                const getExcerpt = () => locale === 'pt' && post.excerptBr ? post.excerptBr : post.excerpt;
                 const getTitleFieldPath = () => locale === 'pt' && post.titlePt ? 'titlePt' : 'title';
-                const getExcerptFieldPath = () => locale === 'pt' && post.excerptFr ? 'excerptFr' : 'excerpt';
+                const getExcerptFieldPath = () => locale === 'pt' && post.excerptBr ? 'excerptBr' : 'excerpt';
 
                 return (
                 <article key={index} data-sb-object-id={post.__metadata?.id} className="sb-card overflow-hidden">

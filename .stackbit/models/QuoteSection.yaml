@@ -2,7 +2,7 @@ type: object
 name: QuoteSection
 label: Quote
 labelField: name
-thumbnail: https://assets.stackbit.com/components/models/thumbnails/default.png
+thumbnail: 
 extends:
   - Section
 groups:

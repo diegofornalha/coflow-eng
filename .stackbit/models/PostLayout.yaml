@@ -1,7 +1,7 @@
 name: PostLayout
 label: Post
 layout: PostLayout
-thumbnail: https://assets.stackbit.com/components/models/thumbnails/default.png
+thumbnail: 
 extends:
   - Seo
 fieldGroups:
@@ -64,7 +64,7 @@ fields:
     label: Excerpt [ES]
     default: 
   - type: string
-    name: excerptFr
+    name: excerptBr
     label: Excerpt [BR]
     default: 
   - type: model
@@ -74,7 +74,7 @@ fields:
       - ImageBlock
     default:
       type: ImageBlock
-      url: https://assets.stackbit.com/components/images/default/post-4.jpeg
+      url: 
       altText: Post thumbnail image
       caption: ''
   - type: model
@@ -85,7 +85,7 @@ fields:
       - VideoBlock
     default:
       type: ImageBlock
-      url: https://assets.stackbit.com/components/images/default/post-4.jpeg
+      url: 
       altText: Post image
   - type: list
     name: bottomSections
