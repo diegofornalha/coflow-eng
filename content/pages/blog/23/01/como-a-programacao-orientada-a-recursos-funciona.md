@@ -71,6 +71,7 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 author: content/data/team/hilary-ouse.json
+titlePt: 'Como a programação orientada a recursos funciona? '
 ---
 Entre as opções que EVM ou WASM e são um ajuste perfeito para ativos digitais.
 
