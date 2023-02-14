@@ -7,7 +7,7 @@ import '../css/main.css';
 import Analytics from '../components/Analytics';
 
 export default function MyApp({ Component, pageProps }) {
-    const [locale, setLocale] = React.useState('en');
+    const [locale, setLocale] = React.useState('pt');
     const [displayMode, setDisplayMode] = React.useState('light');
     const [linksTranslations] = React.useState(translatedLinks);
 
