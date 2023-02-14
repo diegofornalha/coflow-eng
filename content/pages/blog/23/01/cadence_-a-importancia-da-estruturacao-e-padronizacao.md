@@ -145,18 +145,3 @@ Es importante que la comunidad de desarrolladores se alinee con estándares de f
 Mientras tanto, tenemos que gestionar esto solos, y creo que encontré una forma de hacerlo. Una de las maneras de gestionar esta situación es aplicando técnicas de gestión de proyectos, como la definición de objetivos claros, la creación de un cronograma detallado y el establecimiento de responsabilidades claras para cada miembro del equipo.
 
 Además, es importante establecer una comunicación clara y eficiente para garantizar que todos estén alineados y trabajando hacia el mismo objetivo.
-
-
-
-```
-
-// HelloWorld.cdc//// Welcome to Cadence! This is one of the simplest programs you can deploy on Flow.//// The HelloWorld contract contains a single string field and a public getter function.//// Follow the "Hello, World!" tutorial to learn more: https://developers.flow.com/cadence/tutorial/02-hello-world
-pub contract HelloWorld {
-    // Declare a public field of type String.    //    // All fields must be initialized in the init() function.    pub let greeting: String
-    // The init() function is required if the contract contains any fields.    init() {        self.greeting = "Hello, World!"    }
-    // Public function that returns our friendly greeting!    pub fun hello(): String {        return self.greeting    }}
-
-
-
-```
-
