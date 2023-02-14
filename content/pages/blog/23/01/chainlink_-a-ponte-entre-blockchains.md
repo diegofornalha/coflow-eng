@@ -18,7 +18,7 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: /images/CAPAS-Chainlink A ponte entre Blockchains.png
+  url: /images/23/01/Chainlink A ponte entre Blockchains.png
   altText: 'Chainlink: A ponte entre Blockchains'
   caption: 'Chainlink: A ponte entre Blockchains'
   width: 800
