@@ -6,7 +6,7 @@ metaTags: []
 title: 'Cadence: da teoria à prática'
 titlePt: 'Cadence: da teoria à prática'
 colors: colors-d
-date: '2023-01-28'
+date: '2023-01-13'
 excerpt: Vamos dar os primeiros passos juntos e tornar o aprendizado divertido
 excerptFr: Vamos dar os primeiros passos juntos e tornar o aprendizado divertido
 featuredImage:
