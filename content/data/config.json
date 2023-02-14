@@ -161,5 +161,6 @@
         }
     ],
     "titleSuffix": "Coflow",
-    "favicon": "/images/padrao/flow-coflow-logo.png"
+    "favicon": "/images/padrao/flow-coflow-logo.png",
+    "defaultSocialImage": "/images/padrao/flow-coflow-logo.png"
 }
