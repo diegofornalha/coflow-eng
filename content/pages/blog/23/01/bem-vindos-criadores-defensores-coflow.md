@@ -132,6 +132,9 @@ markdown_content_pt: >
   suas monetizações e suas conexões com sua audiência
 metaDescription: null
 socialImage: null
+excerptBr: >-
+  Descubra novas formas de monetizar e se conectar com o seu público através de
+  tecnologia descentralizada
 ---
 Criadores são mais do que simples desenvolvedores de conteúdo que amamos consumir, eles definem a cultura em uma variedade de verticais. Mas infelizmente, eles nem sempre conseguiram perceber o valor do seu trabalho. Acreditamos que a tecnologia descentralizada pode dar poder aos criadores para criar experiências inovadoras, monetizar seu conteúdo e criar conexões mais profundas através de um mundo digital.
 
