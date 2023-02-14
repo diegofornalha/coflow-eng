@@ -132,4 +132,5 @@ socialImage: null
 excerptBr: >-
   Descubra novas formas de monetizar e se conectar com o seu público através de
   tecnologia descentralizada
+author: content/data/team/people/diego-fornalha.json
 ---
