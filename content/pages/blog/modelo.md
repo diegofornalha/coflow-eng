@@ -25,9 +25,12 @@ bottomSections:
     backgroundSize: full
     title: CoFlow
     titlePt: Allons-y !
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Our company shares the same vision as Dapper Labs, which is to create
+      industry-leading web3 experiences and develop dapps on the flow blockchain
+      that provide users with a simple way to manage their assets and use the
+      blockchain. Our mission is to make the world a more accessible and
+      enjoyable place through consumer adoption of decentralized technologies.
     textPt: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
