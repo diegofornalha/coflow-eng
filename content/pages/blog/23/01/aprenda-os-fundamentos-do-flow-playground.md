@@ -31,6 +31,9 @@ markdown_content_pt: "O Flow Playground é um editor e emulador construído dire
 metaDescription: null
 socialImage: null
 date: '2023-01-09'
+excerptBr: >-
+  Como implantar um contrato e como interagir com contratos implantados usando
+  transações e scripts.
 ---
 O Flow Playground é um editor e emulador construído diretamente no navegador. Com o playground, os desenvolvedores podem começar a aprender a escrever contratos inteligentes Cadence e interagir com uma blockchain local Flow emulada usando scripts e transações.
 
