@@ -72,7 +72,6 @@ metaDescription: >-
 socialImage: >-
   /images/23/01/Chainmonsters Um Crypto Game da Flow Blockchain Diego
   Fornalha.png
-author: content/data/team/hilary-ouse.json
 date: '2023-01-15'
 titlePt: Chainmonsters Um Crypto Game da Flow Blockchain
 ---
