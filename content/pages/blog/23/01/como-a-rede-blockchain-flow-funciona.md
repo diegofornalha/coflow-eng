@@ -48,18 +48,3 @@ metaDescription: >-
 socialImage: /images/23/01/Como a rede blockchain flow funciona diegofornalha.png
 titlePt: Como a rede blockchain flow funciona?
 ---
-Flow é um da tecnologia blockchain projetada do início ao fim com o objetivo de ser integrado em jogos e aplicativos, tornando-se uma rede blockchain de alta velocidade e uma arquitetura modular extremamente flexível para o desenvolvimento.
-
-Os devs da Flow criaram um sistema no qual várias funções podem coexistir, funções que são desempenhadas por seus nós, cada uma com um objetivo muito específico. Isso permite que você divida suas tarefas recebidas (as transações que você envia) de maneiras exclusivas, tornando-as mais fáceis de atender.
-
-Então, por exemplo, se uma transação interage com um contrato inteligente avançada (ex: uma interação com um DApp), a referida transação é dividida em duas partes: a primeira, onde estão os metadados da transação (quem envia, endereços, entre outros).
-
-E, a segunda, a interação com o contato inteligente como tal, que deve ser invocado (a partir de seu endereço), executado e oferecer uma resposta ao nosso usuário (que é visível no blockchain). Além disso, todo esse processo deve ser verificado, obedecer às regras de consenso e, finalmente, ser incluído no blockchain. Se estivéssemos no Ethereum, essas tarefas são realizadas de forma linear (lenta e cara).
-
-Mas no Flow, a primeira e a segunda partes vão para um tipo de nó (chamado de nó de execução), enquanto as tarefas de consenso, verificação e armazenamento são atribuídas a tipos de nós específicos para cada tarefa. Como cada um desses pontos requer trabalho computacional específico (alguns requerem mais potência do que outros), a divisão do trabalho torna o fornecimento de grandes volumes de informações mais fácil e rápido de fazer no final. A Flow criou uma rede blockchain de operação heterogênea (com nós atribuídos para diferentes funções), com paralelismo e escalabilidade que cresce com o número de nós na rede.
-
-Você quer uma explicação mais simples do que esta? Veja da seguinte forma, não é a mesma coisa ter um restaurante em que você ocupa todos os cargos (de chef, garçom, caixa), do que ter uma equipe que o apoia em cada tarefa e, principalmente, se o seu restaurante tem uma grande procura e afluência de comensais. O primeiro seria o sistema atual de muitos blockchains, enquanto o segundo seria Flow.
-
-Explorando como o Flow funciona em profundidade
-Agora que sabemos como o Flow funciona em geral, é bom saber como ele o faz acontecer. Em primeiro lugar, Flow é um projeto com uma arquitetura multifuncional pensada na divisibilidade de atribuições e tarefas. Isso é essencial, porque a arquitetura de rede Flow, embora complexa, é muito menos problemática do que as outras opções que encontramos nesse mercado. Com isso dito, vamos primeiro explorar como seus nós são divididos e quais são suas funções.
-
