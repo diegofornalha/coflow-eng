@@ -48,7 +48,7 @@ export default function MyApp({ Component, pageProps }) {
         const storedLanguage = localStorage.getItem('language');
         const defaultFR = storedLanguage === 'en' || (storedLanguage === null && prefersFR());
         if (defaultFR) {
-            setLanguage('pt');
+            setLanguage('en');
         }
     }, [locale]);
 
