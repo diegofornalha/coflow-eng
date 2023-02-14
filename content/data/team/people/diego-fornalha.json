@@ -1,0 +1,23 @@
+{
+    "type": "Person",
+    "firstName": "Diego",
+    "lastName": "Fornalha",
+    "socialLinks": [
+        {
+            "type": "Social",
+            "altText": "LinkedIn",
+            "label": "LinkedIn",
+            "url": "https://www.linkedin.com/in/diegofornalha",
+            "icon": "linkedin"
+        }
+    ],
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/Embaixadores/avatar-diegofornalha-flow.png",
+        "altText": "Diego",
+        "caption": "Diego",
+        "width": 300,
+        "height": 300,
+        "elementId": ""
+    }
+}
