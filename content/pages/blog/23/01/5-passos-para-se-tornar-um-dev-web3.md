@@ -143,6 +143,7 @@ markdown_content_pt: >+
   https://twitter.com/Frlabs33/status/1609902138729144320
 
 
+author: content/data/team/people/diego-fornalha.json
 ---
 ## Quer fazer parte da revolução descentralizada como desenvolvedor Web3? 
 
