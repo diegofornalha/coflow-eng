@@ -74,7 +74,7 @@ metaDescription: >-
   todas as comunidades que constroem a rede para criar e compartilhar valor.
 socialImage: /images/23/01/Ampla distribuição do token flow diego fornalha.png
 author: content/data/team/hilary-ouse.json
-date: '2022-12-03'
+date: '2022-12-07'
 ---
 A distribuição do token nativo é fundamental para a descentralização da rede e o sucesso a longo prazo.
 
