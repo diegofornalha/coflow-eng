@@ -145,7 +145,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/padrao/flow-coflow-logo.png",
+            "url": "/images/site/flow-coflow-logo.png",
             "altText": "CoFlow Logo",
             "caption": "CoFlow Logo",
             "width": 114,
