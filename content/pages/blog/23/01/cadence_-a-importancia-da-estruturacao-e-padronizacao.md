@@ -124,6 +124,9 @@ markdown_content_pt: >+
 metaDescription: null
 socialImage: null
 date: '2023-01-01'
+excerptBr: >-
+  Como estabelecer objetivos claros, criar um cronograma detalhado e garantir
+  uma comunicação eficiente para superar obstáculos e atingir sucesso.
 ---
 Hoje eu quero falar sobre algo importante para todos os desenvolvedores de contratos inteligentes: a organização e padronização do seu código.
 
