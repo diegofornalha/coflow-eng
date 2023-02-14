@@ -72,4 +72,5 @@ title: 'Marcas, Creadores y Constructores'
 excerpt: >-
   Aprovecha la nueva economía de bienes digitales y sé uno de los primeros en
   ingresar a un mercado ya valioso.
+author: content/data/team/people/diego-fornalha.json
 ---
