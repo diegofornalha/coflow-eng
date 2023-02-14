@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: 'Marcas, Criadores e Construtores'
 titlePt: 'Marcas, Criadores e Construtores'
 colors: colors-d
 date: '2023-01-18'
