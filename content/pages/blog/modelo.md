@@ -31,9 +31,13 @@ bottomSections:
       that provide users with a simple way to manage their assets and use the
       blockchain. Our mission is to make the world a more accessible and
       enjoyable place through consumer adoption of decentralized technologies.
-    textPt: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    textPt: >
+      Nossa empresa compartilha a mesma visão do Dapper Labs, que é criar
+      experiências web3 líderes do setor e desenvolver dapps na blockchain da
+      Flow que possibilita aos usuários uma maneira simples de gerenciar seus
+      ativos e usar o blockchain. Nossa missão é tornar o mundo um lugar mais
+      acessível e agradável por meio da adoção pelo consumidor de tecnologias
+      descentralizadas.
     actions:
       - type: Button
         label: Try it now
