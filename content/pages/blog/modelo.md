@@ -43,7 +43,7 @@ bottomSections:
         label: Servidor no Discord
         showIcon: true
         icon: arrowRight
-        url: /
+        url: 'https://discord.com/invite/hT8EpC5mUN'
         style: primary
         altText: Entrar no Discord
     backgroundImage: null
