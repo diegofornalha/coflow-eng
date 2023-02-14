@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: Como a rede blockchain flow funciona?
 addTitleSuffix: true
 metaTags: []
-title: Como a rede blockchain flow funciona?
 colors: colors-d
 date: '2023-01-17'
 excerpt: >-
