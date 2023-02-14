@@ -95,6 +95,7 @@ metaDescription: >-
   usar criptomoedas, mas não sabe por onde começar.
 socialImage: /images/23/01/FUSD o stablecoin da flow Blockchain diegofornalha.png
 author: content/data/team/hilary-ouse.json
+date: '2023-01-08'
 ---
 ![Image description](https://web3dev-forem-production.s3.amazonaws.com/uploads/articles/7nmmkybv25z5puzg02py.png)
 
