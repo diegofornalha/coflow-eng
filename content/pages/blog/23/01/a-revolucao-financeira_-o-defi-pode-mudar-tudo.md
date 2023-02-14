@@ -114,4 +114,5 @@ date: '2023-01-06'
 excerptBr: >-
   Da agricultura ao blockchain: como a descentralização está transformando a
   indústria financeira
+title: 'La Revolución Financiera: DeFi puede cambiar todo'
 ---
