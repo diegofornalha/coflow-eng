@@ -110,4 +110,5 @@ excerptBr: >-
   non-fungible tokens (NFTs), para dar poder aos criadores e permitir que eles
   monetizem e promovam o próprio trabalho de maneira mais eficiente. 
 title: ¿Cómo funciona la programación orientada a recursos?
+author: content/data/team/people/diego-fornalha.json
 ---
