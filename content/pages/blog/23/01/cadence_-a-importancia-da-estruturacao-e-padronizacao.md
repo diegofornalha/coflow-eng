@@ -127,6 +127,7 @@ date: '2023-01-01'
 excerptBr: >-
   Como estabelecer objetivos claros, criar um cronograma detalhado e garantir
   uma comunicação eficiente para superar obstáculos e atingir sucesso.
+author: content/data/team/people/diego-fornalha.json
 ---
 Hoy quiero hablar sobre algo importante para todos los desarrolladores de contratos inteligentes: la organización y estandarización de su código.
 
