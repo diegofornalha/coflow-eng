@@ -61,7 +61,7 @@ featuredImage:
   altText: altText of the image
   caption: Caption of the image
   width: 800
-  height: 300
+  height: 450
   elementId: ''
 media:
   type: ImageBlock
