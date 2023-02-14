@@ -31,7 +31,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Join Discord",
+                "label": "Servidor no Discord",
                 "altText": "Entrar no Discord",
                 "style": "secondary",
                 "url": "https://discord.com/invite/hT8EpC5mUN",
