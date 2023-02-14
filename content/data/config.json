@@ -73,7 +73,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "Início",
                 "url": "/",
                 "altText": "Home"
             },
