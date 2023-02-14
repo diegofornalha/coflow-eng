@@ -99,4 +99,3 @@ A Flow é pioneira em vários programas de engajamento em larga escala:
 *   **Reputação Descentralizada e Protocolo de Incentivo (DRIP):** projetada para acessibilidade ajudando os aplicativos na Flow a encontrar uma base de usuários engajada, a DRIP distribui o token FLOW aos usuários finais para fins de aposta, delegação e participação ativa na economia da Flow.
 
 Graças à tecnologia robusta, uma comunidade incrível e um forte design de incentivo, a FLOW permitirá que os primeiros usuários de hoje construam os mundos abertos de amanhã.
-
