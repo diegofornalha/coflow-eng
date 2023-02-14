@@ -73,3 +73,11 @@ title: 'Animoca, MotoGP y StarGirl llegan a Flow con mucho estilo'
 excerpt: Uniendo fuerzas para construir el Metaverso
 author: content/data/team/people/diego-fornalha.json
 ---
+
+¿Has oído hablar de la constelación de creativos, desarrolladores y jugadores apasionados que están construyendo el futuro del entretenimiento digital? Son el alma del Metaverso y sin ellos nada de esto sería posible. Por eso, Animoca se adentró en el mundo de la blockchain: vieron el potencial de CryptoKitties y ayudaron a llevar ese éxito a todo el mundo.
+Desde entonces, Animoca ha sido uno de los mayores apoyos en el crecimiento de la industria de NFTs. Han invertido en proyectos importantes como OpenSea, dapp.com, Axie Infinity, Lucid Sight y, por supuesto, Dapper y Flow. Con sus adquisiciones, permitieron que empresas como Pixowl/The Sandbox y NWAY migraran a juegos descentralizados y también llevaron marcas increíbles como F1, Care Bears y MotoGP™ al blockchain.
+Animoca y Dapper Labs comparten una visión del Metaverso y ven los juegos y aplicaciones que creamos como piezas de lego que los desarrolladores y la comunidad pueden usar para crear cosas increíbles. Por eso, estamos muy emocionados de dar la bienvenida a Star Girl y MotoGP™ al nuevo blockchain Flow, como primer paso en una asociación aún más profunda con Animoca Brands.
+Con la llegada de Star Girl, MotoGP™ y la comunidad REVV a Flow, junto con otros juegos en desarrollo, estamos dando inicio a un Metaverso vibrante que atraerá a nuevas comunidades al blockchain por primera vez. Además, permite que los desarrolladores expandan la oferta de juegos y experiencias para estas comunidades.
+Star Girl, en particular, con sus 1 millón de usuarios activos por mes, traerá un importante y apasionado ecosistema de jugadoras a la industria, ampliando la diversidad de personas en crypto y rompiendo los moldes demográficos de nuestra industria. Cuando se lance, esperamos que la popularidad de Star Girl abra nuevas dimensiones para la atracción de crypto, expandiendo exponencialmente las posibilidades de aplicaciones y experiencias comerciales viables.
+"¡Vamos juntos a construir el futuro del entretenimiento digital!"
+
