@@ -69,4 +69,5 @@ media:
   width: 800
   height: 450
   elementId: ''
+title: 'Animoca, MotoGP y StarGirl llegan a Flow con mucho estilo'
 ---
