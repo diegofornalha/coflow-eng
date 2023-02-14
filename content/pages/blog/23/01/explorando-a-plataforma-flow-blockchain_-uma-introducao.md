@@ -64,6 +64,7 @@ metaDescription: null
 socialImage: null
 author: content/data/team/people/rikki-romana.json
 date: '2023-01-08'
+excerptBr: Unindo forças para construir o Metaverse
 ---
 Você já ouviu falar da constelação de criativos, desenvolvedores e jogadores apaixonados que estão construindo o futuro do entretenimento digital? Eles são a alma do Metaverse e, sem eles, nada disso seria possível. É por isso que a Animoca entrou no mundo da blockchain - eles viram o potencial da CryptoKitties e ajudaram a levar esse sucesso ao redor do mundo.
 
