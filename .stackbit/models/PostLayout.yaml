@@ -101,7 +101,7 @@ fields:
   - type: string
     name: metaDescription
     label: 'Description tag (default: excerpt)'
-    description: 'By default, the description tag for this post is taken from the Excerpt field. You can override the tag value here.'
+    description: ''
     default: null
     group: seo
   - type: image
