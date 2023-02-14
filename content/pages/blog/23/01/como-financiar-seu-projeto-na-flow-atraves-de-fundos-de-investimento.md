@@ -130,3 +130,22 @@ excerpt: >-
 ---
 
 
+
+**El blockchain juega según sus propias reglas.**
+
+El desarrollo de aplicaciones en el blockchain requiere nuevos estándares de diseño y la recaudación de fondos en una startup de blockchain requiere nuevos procesos de pensamiento. Si una startup recibe financiación en forma de criptomonedas o necesita liquidez para iniciar sus aplicaciones, debe tener un plan de gestión de riesgos en marcha. Algunas opciones para financiar startups son el crowdfunding, inversiones de capital de riesgo, incubadoras y aceleradoras. Los fondos de inversión son una opción común para las startups en la industria de blockchain.
+
+### **Fondos de inversión**
+
+Hay 804 fondos de inversión en blockchain activos en la actualidad y la cantidad de activos bajo su administración ha crecido de 190 millones de dólares en 2016 a más de 21 mil millones de dólares en 2020.
+
+**Qué buscar:**
+
+1.  **Identifica posibles inversores.** El portafolio de un fondo de inversión puede dar una buena idea si está interesado en invertir en tu startup. Es importante considerar la etapa de desarrollo de tu proyecto y buscar un fondo que tenga experiencia invirtiendo en proyectos similares. Además, verifica si el fondo tiene algún interés en la tecnología blockchain y si el historial de tu proyecto encaja en un tema relevante para el fondo.
+
+2.  **Alcance.** Después de identificar un fondo de inversión que pueda estar interesado en tu proyecto, es hora de contactarlo. Los fondos de inversión a menudo dependen fuertemente de sus redes, por lo que conocer a alguien que pueda proporcionar una presentación o un punto de contacto en el fondo puede ser muy útil.
+
+Es importante tener en cuenta que el blockchain juega según sus propias reglas, por lo que debes estar preparado para enfrentar los desafíos y aprovechar las oportunidades que esta tecnología trae. Además, es importante gestionar los riesgos de manera eficiente para garantizar la seguridad y la estabilidad del proyecto.
+
+
+
