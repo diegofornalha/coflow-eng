@@ -5,7 +5,6 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-titlePt: Titre de la page
 numOfPostsPerPage: 10
 postFeed:
   title: null
