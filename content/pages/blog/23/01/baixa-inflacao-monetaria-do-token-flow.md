@@ -62,6 +62,10 @@ metaDescription: >-
 socialImage: /images/23/01/Baixa Inflação Monetária do token flow diegofornalha.png
 titlePt: Baixa Inflação Monetária do token flow
 date: '2023-01-11'
+excerptBr: >-
+  Blockchains como a Flow são alimentadas por comunidades descentralizadas que
+  executam o hardware do computador (nós validadores) que suportam a atividade e
+  protegem o valor dos ativos na rede.
 ---
 Blockchains como a Flow são alimentados por comunidades descentralizadas que executam o hardware do computador (“nós validadores”) que suportam a atividade e protegem o valor dos ativos na rede.
 
