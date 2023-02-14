@@ -74,3 +74,22 @@ excerpt: >-
   ejecutan el hardware de la computadora (nodos validadores) que soportan la
   actividad y protegen el valor de los activos en la red.
 ---
+Otros blockchains dependen fuertemente de la creación y distribución de nuevos tokens ("inflación monetaria") para atraer a los operadores de nodos validadores a sus redes.
+
+Desafortunadamente, como en todas las economías, la inflación monetaria tiene un costo: el suministro recién creado de tokens actúa como un impuesto sobre la posesión o uso diario, diluyendo a todos los titulares de tokens.
+
+Es por eso que Flow tiene un límite para la inflación monetaria. De hecho, la inflación en Flow disminuirá a medida que las tarifas de red aumenten. En su estado estacionario, Flow garantiza un pago definido para los operadores de nodos y solo emite nuevos tokens según sea necesario para compensar la diferencia entre las tarifas de transacción y el pago garantizado. A medida que las tarifas de transacción se acercan a ese valor de pago, la nueva emisión se acerca al 0%. Si las tarifas de transacción superan el valor del pago, se mantendrán en una cuenta de garantía y se utilizarán para compensar la inflación futura indefinidamente.
+
+Así, la economía de Flow madura.
+
+Detalles técnicos
+
+Procesamiento y computación de transacciones
+
+Como una red descentralizada, Flow cobra a los usuarios - o a las aplicaciones que están usando - por los servicios por acción, similar a cómo Amazon Lambda cobra por la potencia de procesamiento hoy. Hay dos tipos de tarifas en la red de Flow:
+
+*   Tarifas de procesamiento que cubren las tarifas de una transacción que se envía e incluye en un bloque.
+
+*   Tarifas de cálculo que se agregan para operaciones más complejas que requieren cálculo más allá de la actualización de saldos.
+
+Especialmente en los primeros días de la red, las tarifas de transacción son bajas, comenzando en 0,001 FLOW o 1 mF (mili FLOW).
