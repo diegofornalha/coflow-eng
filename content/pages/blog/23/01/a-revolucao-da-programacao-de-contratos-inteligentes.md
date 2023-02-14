@@ -139,3 +139,14 @@ excerpt: >-
   Cómo diseñar una estructura de datos escalable y segura para satisfacer las
   necesidades del negocio
 ---
+
+A través del uso de recursos, el lenguaje de programación de Flow, Cadence, trae nuevas e interesantes ideas al mundo de los contratos inteligentes basados en registros.
+Sí, por supuesto que tenemos NBA Top Shot. Pero, para ser honesto, hay muchas otras razones por las cuales este proyecto parece prometedor: la filosofía amigable con el usuario y el desarrollador, el enfoque innovador de escalabilidad o simplemente el gran equipo detrás del proyecto, que ya ha dado al mundo criptográfico innovaciones maravillosas como Cryptokitties (y con ella, el estándar ERC721).
+Pero, en mi opinión, la verdadera innovación está en el núcleo de la tecnología, su lenguaje de contrato inteligente Cadence. Por eso, estoy dedicando una serie de artículos para explorar el lenguaje en profundidad, comenzando con una visión general de los principios básicos.
+Spoiler: No todo se trata de NFTs
+Antes de entrar en detalles, aclaremos algo. Cuando hablamos de Flow, la gente tiende a asociarlo intuitivamente con tokens no fungibles - no es de extrañar, dado el éxito espectacular de NBA Top Shot. Pero te perderás lo mejor si te quedas solo con eso.
+Uno de los aspectos más disruptivos de Cadence es, de hecho, la implementación de tokens fungibles. Y esta implementación de tokens fungibles resulta ser una gran ilustración de uno de los principales paradigmas disruptivos de Cadence: la orientación a recursos.
+Para comprender este concepto, veamos algo familiar y trabajemos gradualmente hacia las nuevas ideas que Cadence trae a la mesa.
+Solidity y el enfoque centrado en el registro
+Comencemos con una implementación de un token fungible en Ethereum, una implementación muy ingenua de hecho. Destaca las características de lo que yo llamo enfoque centrado en el registro o la filosofía del mapeo central.
+Tenemos un solo contrato inteligente con dos funciones: una función de creación que nos permite imprimir dinero de la nada y una función de envío, que abre la posibilidad de enviar dinero a alguien. Pero la entidad más importante de este contrato es la estructura de datos que se utilizará para almacenar información. Debe diseñarse de manera eficiente y escalable, para garantizar que el sistema pueda manejar grandes volúmenes de datos y ser fácilmente actualizado a medida que cambien las necesidades del negocio. Además, es importante considerar la seguridad de los datos, garantizando que la información solo pueda ser accedida por usuarios autorizados.
