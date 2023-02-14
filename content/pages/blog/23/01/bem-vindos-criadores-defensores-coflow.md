@@ -185,3 +185,22 @@ excerpt: >-
   Descubre nuevas formas de monetizar y conectarte con tu audiencia a través de
   la tecnología descentralizada.
 ---
+
+
+
+Los creadores son más que simples desarrolladores de contenido que amamos consumir, ellos definen la cultura en una variedad de verticales. Pero desafortunadamente, no siempre han podido percibir el valor de su trabajo. Creemos que la tecnología descentralizada puede dar poder a los creadores para crear experiencias innovadoras, monetizar su contenido y crear conexiones más profundas a través de un mundo digital.
+
+Dapper Labs ha sido líder en tecnología web3 desde 2017, cuando iniciamos la revolución de los NFTs en torno a lo que creíamos que era uno de los verdaderos superpoderes de la web3 - un mundo donde las personas pueden poseer e intercambiar sus activos digitales sin fronteras, y miles de millones de productos y servicios se intercambian predominantemente en línea, de igual a igual.
+
+Desde entonces, hemos demostrado cómo es posible redefinir la creatividad, los fans y las experiencias de consumo en la blockchain a través de experiencias increíbles como NBA Top Shot, CryptoKitties, NFL All Day, Dapper Wallet y muchos más. Estos productos cambiaron el curso de la historia de internet, abriendo una industria completamente nueva e introduciendo la web3 directamente a millones de usuarios. Esto incluye los equipos trabajando en Dapper Creator, CAST, VESSEL, Miquela y nuestro trabajo con influencers virtuales.
+
+Creemos que solo estamos rascando la superficie de lo que es posible con los NFTs. Para los creadores, esto no es solo un nuevo medio a través del cual se puede intercambiar y expresar creatividad, sino que también amplía las experiencias que se pueden crear. Además, crea nuevas y significativas oportunidades de monetización y les da una visibilidad única sobre quiénes son sus mayores fans. Para las comunidades, los NFTs son increíblemente poderosos para permitir la participación, el compromiso, la conexión y la co-creación, y se están volviendo cada vez más profundos y multifacéticos en las experiencias que están entregando.
+
+Para los fans, coleccionistas y usuarios, los NFTs les permiten apoyar a los creadores y comunidades, expresar su propia individualidad o fanatismo, y desbloquear nuevas y cautivadoras experiencias digitales.
+
+Es hora de abrir el conocimiento y la tecnología que hemos construido a lo largo de los años y hacerlos accesibles para los creadores. Sin necesidad de codificación. Sin jerga técnica compleja. Sin complicaciones. Estamos allanando el camino para los creadores para que puedan concentrarse en lo que mejor hacen, mientras reciben beneficios directos de su arte y construyen comunidades más comprometidas. No importa qué tipo de creador seas - artistas, músicos, jugadores, streamers, autores, productores de video, comediantes, diseñadores, influencers de estilo de vida y mucho más - puedes acceder a un nuevo mundo de posibilidades a través de los NFTs y construir conexiones directas con tu audiencia.
+
+Con la introducción de nuestra nueva unidad de negocios para creadores bajo Dapper, estamos anunciando que el equipo de gestión de Dapper Collectives - Trevor McFedries, Kara
+
+
+
