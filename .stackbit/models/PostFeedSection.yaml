@@ -16,15 +16,15 @@ fields:
     default: Posts
   - type: string
     name: titlePt
-    label: Title [ES]
+    label: Title [BR]
     default: Posts
   - type: string
     name: subtitle
-    label: Subtitle [BR]
+    label: Subtitle [ES]
     default: Blog posts
   - type: string
     name: subtitlePt
-    label: Subtitle [ES]
+    label: Subtitle [BR]
     default: Blog posts
   - type: boolean
     name: showDate

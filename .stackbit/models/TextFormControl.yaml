@@ -13,11 +13,11 @@ fields:
     default: home-address
   - type: string
     name: label
-    label: Label [BR]
+    label: Label [ES]
     default: Home address
   - type: string
     name: labelFr
-    label: Label [ES]
+    label: Label [BR]
     default: Home address
   - type: boolean
     name: hideLabel
@@ -25,11 +25,11 @@ fields:
     default: false
   - type: string
     name: placeholder
-    label: Placeholder text [BR]
+    label: Placeholder text [ES]
     default: Your home address
   - type: string
     name: placeholderFr
-    label: Placeholder text [ES]
+    label: Placeholder text [BR]
     default: Addresse
   - type: boolean
     name: isRequired

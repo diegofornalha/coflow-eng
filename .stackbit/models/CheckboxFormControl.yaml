@@ -13,11 +13,11 @@ fields:
     required: true
   - type: string
     name: label
-    label: Label [BR]
+    label: Label [ES]
     default: 'Sign me up to receive updates'
   - type: string
     name: labelFr
-    label: Label [ES]
+    label: Label [BR]
     default: 'Sign me up to receive updates'
   - type: boolean
     name: isRequired

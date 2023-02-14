@@ -25,10 +25,10 @@ fields:
     default: full
   - type: string
     name: title
-    label: Title [BR]
+    label: Title [ES]
   - type: string
     name: titlePt
-    label: Title [ES]
+    label: Title [BR]
   - type: markdown
     name: text
     label: Text
