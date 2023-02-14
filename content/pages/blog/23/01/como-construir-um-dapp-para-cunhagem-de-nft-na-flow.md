@@ -153,9 +153,6 @@ Con la creación de cuenta exitosa, establecemos un diálogo con nuestra nueva d
 
 Copie la dirección para su uso en el siguiente paso.
 
-
-
-
 # **2). Configurando el contrato inteligente**
 
 Antes de crear el front-end del proyecto, crearemos el contrato inteligente con el que interactuaremos más tarde.
@@ -170,9 +167,21 @@ Este comando crea un archivo `flow.json` dentro de la carpeta, donde colocaremos
 Abra el archivo `flow.json` en su editor de código y configuraremos una cuenta de la red de pruebas. Dentro de la sección `accounts`, agregaremos una nueva entrada llamada `testnet-account`, que contiene nuestra nueva dirección y la clave privada generada en el comando `flow keys generate` anterior.
 
 ```
-json
-
-
-
+jsonCopy code
 ```
 
+A continuación, crearemos un nuevo archivo para escribir nuestro contrato inteligente.
+Al escribir el código, puede notar algunas diferencias en la forma en que Cadence maneja la creación de NFT en comparación con Solidity. Por ejemplo, los NFT en Cadence se crean como un recurso y se acuñan directamente en la cuenta del usuario. Por otro lado, los NFT de Solidity son esencialmente solo un número de identificación referenciado en un mapeo para una dirección específica en el libro mayor.
+Entonces, con esto en mente, en la misma carpeta que el archivo `flow.json`, cree un nuevo archivo llamado `FlowTutorialMint.cdc`, y escriba el siguiente código:
+Cosas importantes a tener en cuenta en el contrato inteligente anterior:
+
+*   Estamos importando los contratos `NonFungibleTokenMetadataViews` y `NonFungibleToken` para crear nuestros NFT utilizando los estándares de Flow.
+
+*   Definimos nuestro recurso NFT en la función `pub resource NFT`.
+
+*   La función `mintNFT` acuña un NFT en la cuenta que llama a la función.
+    Ahora necesitamos volver a nuestro archivo `flow.json` para agregar algunas cosas:
+
+*   En la sección `contracts`, agregue el contrato y su ruta.
+
+*   En la sección `deployments.testnet.testnet-account.FlowTutorialMint`, agregue la red (), la cuenta que usaremos para ejecutar la implementación () y el nombre del contrato ().
