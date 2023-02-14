@@ -69,4 +69,7 @@ excerptBr: >-
   Aproveite a nova economia de bens digitais e seja um dos primeiros a entrar em
   um mercado já valioso
 title: 'Marcas, Creadores y Constructores'
+excerpt: >-
+  Aprovecha la nueva economía de bienes digitales y sé uno de los primeros en
+  ingresar a un mercado ya valioso.
 ---
