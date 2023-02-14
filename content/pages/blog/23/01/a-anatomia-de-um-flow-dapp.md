@@ -128,4 +128,5 @@ markdown_content_pt: >
   A Flow Client Library é uma estrutura que fornece uma interface padrão para
   conectar aplicativos clientes e carteiras de usuários.
 title: La anatomía de un Flow Dapp
+excerpt: Componentes fundamentales de un dapp en la blockchain Flow.
 ---
