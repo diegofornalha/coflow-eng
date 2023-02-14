@@ -185,9 +185,6 @@ excerpt: >-
   Descubre nuevas formas de monetizar y conectarte con tu audiencia a través de
   la tecnología descentralizada.
 ---
-
-
-
 Los creadores son más que simples desarrolladores de contenido que amamos consumir, ellos definen la cultura en una variedad de verticales. Pero desafortunadamente, no siempre han podido percibir el valor de su trabajo. Creemos que la tecnología descentralizada puede dar poder a los creadores para crear experiencias innovadoras, monetizar su contenido y crear conexiones más profundas a través de un mundo digital.
 
 Dapper Labs ha sido líder en tecnología web3 desde 2017, cuando iniciamos la revolución de los NFTs en torno a lo que creíamos que era uno de los verdaderos superpoderes de la web3 - un mundo donde las personas pueden poseer e intercambiar sus activos digitales sin fronteras, y miles de millones de productos y servicios se intercambian predominantemente en línea, de igual a igual.
@@ -200,7 +197,10 @@ Para los fans, coleccionistas y usuarios, los NFTs les permiten apoyar a los cre
 
 Es hora de abrir el conocimiento y la tecnología que hemos construido a lo largo de los años y hacerlos accesibles para los creadores. Sin necesidad de codificación. Sin jerga técnica compleja. Sin complicaciones. Estamos allanando el camino para los creadores para que puedan concentrarse en lo que mejor hacen, mientras reciben beneficios directos de su arte y construyen comunidades más comprometidas. No importa qué tipo de creador seas - artistas, músicos, jugadores, streamers, autores, productores de video, comediantes, diseñadores, influencers de estilo de vida y mucho más - puedes acceder a un nuevo mundo de posibilidades a través de los NFTs y construir conexiones directas con tu audiencia.
 
-Con la introducción de nuestra nueva unidad de negocios para creadores bajo Dapper, estamos anunciando que el equipo de gestión de Dapper Collectives - Trevor McFedries, Kara
+Con la introducción de nuestra nueva unidad de negocios para creadores bajo Dapper, estamos anunciando que el equipo de gestión de Dapper Collectives - Trevor McFedries, Kara&#x20;
 
+Weber, Nicole de Ayora, Isaac Bratzel y Amie Jordan - dejará Dapper Labs. A medida que ampliamos nuestra forma de apoyar a los creadores, agradecemos a Trevor, Kara, Nicole, Isaac y Amie por sus contribuciones pioneras mientras avanzan en sus próximos pasos.
 
+Con Dapper Creator, habrá formas completamente nuevas e interesantes de monetizar, recompensar y construir conexiones individualizadas entre usted y su audiencia, en todas las plataformas. Nuestro objetivo es impulsar la economía de los creadores en el proceso y brindarles herramientas poderosas para unirse a la revolución web3 con nosotros.
 
+Únase a nosotros y descubra cómo los NFT pueden transformar su creatividad, sus monetizaciones y sus conexiones con su audiencia.
