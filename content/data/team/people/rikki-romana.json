@@ -14,7 +14,7 @@
     "image": {
         "type": "ImageBlock",
         "url": "/images/Embaixadores/avatar-diegofornalha-flow.png",
-        "altText": "altText of the image",
+        "altText": "Diego",
         "caption": "Caption of the image",
         "width": 300,
         "height": 300,
