@@ -181,4 +181,7 @@ excerptBr: >-
   tecnologia descentralizada
 author: content/data/team/people/diego-fornalha.json
 title: 'Bienvenidos, Creadores, Defensores de CoFlow'
+excerpt: >-
+  Descubre nuevas formas de monetizar y conectarte con tu audiencia a través de
+  la tecnología descentralizada.
 ---
