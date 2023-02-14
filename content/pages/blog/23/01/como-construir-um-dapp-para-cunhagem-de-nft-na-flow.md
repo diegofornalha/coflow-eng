@@ -135,11 +135,6 @@ cssCopy code
 
 Asegúrate de anotar los valores que genera la consola, ya que los necesitaremos en los próximos pasos. A continuación, vamos a [Flow Faucet](https://testnet-faucet.onflow.org/) para crear una nueva dirección basada en nuestras claves y financiar nuestra cuenta con algunos tokens
 
-
-
-
-
-
 de prueba. Realice los siguientes pasos para crear su cuenta:
 
 1.  Pegue su clave pública en el campo de entrada especificado.
@@ -158,39 +153,26 @@ Con la creación de cuenta exitosa, establecemos un diálogo con nuestra nueva d
 
 Copie la dirección para su uso en el siguiente paso.
 
-## **2. Configuración del contrato inteligente**
 
-Antes de crear la interfaz de usuario para el proyecto, crearemos el contrato inteligente con el que interactuaremos más adelante.
-En la terminal de comando, navegue hasta la carpeta donde desea trabajar y escriba el siguiente comando para iniciar un proyecto:
 
-```
-csharpCopy code
-```
 
-Este comando crea un archivo `flow.json` en la carpeta donde pondremos la configuración de nuestro proyecto. Ejecute el siguiente comando para crear un nuevo archivo Cadence en la carpeta `cadence/contracts` y nómbrelo `NFT.cdc`:
+# **2). Configurando el contrato inteligente**
+
+Antes de crear el front-end del proyecto, crearemos el contrato inteligente con el que interactuaremos más tarde.
+En la terminal de comandos, navegue hasta la carpeta de la que le gustaría trabajar y escriba el siguiente comando para iniciar un proyecto:
 
 ```
-csharpCopy code
-```
-
-Abra el archivo `NFT.cdc` y elimine todo su contenido. Luego, agregue el siguiente código:
+flow init
 
 ```
-cadenceCopy code
-```
 
-
-
-La función "mintToken" puede ser utilizada para crear un nuevo token no fungible en la cadena de bloques. El parámetro "image" debe ser una cadena que contenga la imagen del token.
-
-Aquí hay un ejemplo de cómo podría ser la implementación de la función:
+Este comando crea un archivo `flow.json` dentro de la carpeta, donde colocaremos toda la información necesaria para desplegar nuestro contrato inteligente.
+Abra el archivo `flow.json` en su editor de código y configuraremos una cuenta de la red de pruebas. Dentro de la sección `accounts`, agregaremos una nueva entrada llamada `testnet-account`, que contiene nuestra nueva dirección y la clave privada generada en el comando `flow keys generate` anterior.
 
 ```
-kotlinCopy code
+json
+
+
+
 ```
-
-Tenga en cuenta que esta es solo una implementación de ejemplo y es posible que deba adaptarla para que se ajuste a sus necesidades específicas.
-
-
-
 
