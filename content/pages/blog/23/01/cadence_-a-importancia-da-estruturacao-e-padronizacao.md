@@ -7,8 +7,8 @@ title: 'Cadence: la importancia de la estructuración y estandarización'
 titlePt: ' Cadence: a importância da estruturação e padronização'
 colors: colors-d
 excerpt: >-
-  Como estabelecer objetivos claros, criar um cronograma detalhado e garantir
-  uma comunicação eficiente para superar obstáculos e atingir sucesso.
+  Cómo establecer objetivos claros, crear un cronograma detallado y garantizar
+  una comunicación eficiente para superar obstáculos y lograr el éxito.
 excerptFr: >-
   Como estabelecer objetivos claros, criar um cronograma detalhado e garantir
   uma comunicação eficiente para superar obstáculos e atingir sucesso.
