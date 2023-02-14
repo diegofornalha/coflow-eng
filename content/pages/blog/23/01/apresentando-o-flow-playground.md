@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: Apresentando o Flow Playground
 addTitleSuffix: true
 metaTags: []
-title: Apresentando o Flow Playground
 colors: colors-a
 excerpt: >-
   O Flow é uma plataforma de blockchain de alto desempenho projetada para
