@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: Ampla distribuição do token flow
 addTitleSuffix: true
 metaTags: []
-title: Ampla distribuição do token flow
 colors: colors-a
 excerpt: >-
   A distribuição do token nativo da Flow é importante para a descentralização da
