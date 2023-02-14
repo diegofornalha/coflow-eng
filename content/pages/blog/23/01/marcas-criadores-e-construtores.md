@@ -18,7 +18,7 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: '/images/CAPAS-Marcas, Criadores e Construtores.png'
+  url: '/images/23/01/CAPAS-Marcas, Criadores e Construtores.png'
   altText: 'Marcas, Criadores e Construtores'
   caption: 'Marcas, Criadores e Construtores'
   width: 800
