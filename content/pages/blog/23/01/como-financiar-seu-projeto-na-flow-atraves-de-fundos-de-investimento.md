@@ -6,19 +6,7 @@ metaTags: []
 colors: colors-d
 excerpt: >-
   O blockchain é uma tecnologia descentralizada que se baseia nas leis da oferta
-  e da demanda, ao invés de ser governada por uma única entidade. Isso pode
-  levar a incertezas inéditas ou surpresas inesperadas no desenvolvimento de
-  aplicativos baseados em blockchain e na captação de recursos para esses
-  aplicativos. Além disso, o financiamento de startups de blockchain pode ser
-  desafiador, já que o valor da criptomoeda pode flutuar rapidamente e o
-  armazenamento de criptomoedas traz questões de segurança que precisam ser
-  gerenciadas. Algumas opções de financiamento de startups de blockchain incluem
-  financiamento coletivo, investimentos angulares, financiamento de capital de
-  risco, incubadoras e aceleradores, além de Organizações Autônomas
-  Descentralizadas (DAO). Fundos de investimento também são uma opção para
-  startups de blockchain receberem financiamento, e existem vários programas de
-  aceleração de startups especializados em blockchain, bem como oportunidades de
-  financiamento governamental e empresarial.
+  e da demanda, ao invés de ser governada por uma única entidade. 
 featuredImage:
   type: ImageBlock
   url: >-
