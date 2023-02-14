@@ -6,9 +6,6 @@ metaTags: []
 titlePt: 'Bem-vindos, Criadores, Defensores CoFlow'
 colors: colors-d
 date: '2023-01-12'
-excerpt: >-
-  Descubra novas formas de monetizar e se conectar com o seu público através de
-  tecnologia descentralizada
 excerptFr: >-
   Criadores são mais do que simples desenvolvedores de conteúdo que amamos
   consumir, eles definem a cultura em uma variedade de verticais. Mas
