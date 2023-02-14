@@ -19,40 +19,7 @@ media:
   width: 800
   height: 450
   caption: A anatomia de um Flow Dapp
-bottomSections:
-  - type: FeaturedPostsSection
-    colors: colors-b
-    elementId: ''
-    showDate: false
-    showAuthor: false
-    showExcerpt: false
-    showReadMoreLink: false
-    readMoreLinkLabel: Saiba Mais
-    variant: variant-b
-    actions: []
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: center
-    subtitle: ''
-    posts:
-      - >-
-        content/pages/blog/escreva-contratos-inteligente-em-cadence-para-votacoes.md
-      - >-
-        content/pages/blog/como-construir-um-dapp-para-cunhagem-de-nft-na-flow.md
-      - content/pages/blog/como-a-programacao-orientada-a-recursos-funciona.md
+bottomSections: []
 metaDescription: null
 socialImage: /images/23/01/a anatomia da uma dapp diego fornalha.png
 date: '2023-01-04'
