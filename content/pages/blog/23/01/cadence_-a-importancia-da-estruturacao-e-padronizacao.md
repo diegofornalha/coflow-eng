@@ -3,7 +3,7 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: ' Cadence: a importância da estruturação e padronização'
+title: 'Cadence: la importancia de la estructuración y estandarización'
 titlePt: ' Cadence: a importância da estruturação e padronização'
 colors: colors-d
 excerpt: >-
