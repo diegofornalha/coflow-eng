@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: 'Animoca, MotoGP e StarGirl chegam ao Flow com muito estilo'
 titlePt: 'Animoca, MotoGP e StarGirl chegam ao Flow com muito estilo'
 colors: colors-d
 excerpt: Unindo forças para construir o Metaverse
