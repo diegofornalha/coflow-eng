@@ -1,0 +1,21 @@
+name: Exec
+label: Exec
+labelField: role
+fields:
+  - type: enum
+    name: role
+    label: Role
+    options:
+      - label: Ambassador
+        value: ambassador
+      - label: Advocates
+        value: advocates
+    default: cover
+    required: true
+  - type: reference
+    name: person
+    label: Person
+    models:
+      - Person
+    required: true
+    default: content/data/team/vp-comms.json

@@ -1,0 +1,10 @@
+{
+    "type": "Person",
+    "firstName": "Bianca",
+    "lastName": "Sivero",
+    "image": {
+        "url": "/images/coflowers/avatar-diegofornalha-flow.png",
+        "altText": "Mohamad Sabbagh photo"
+    },
+    "socialLinks": []
+}

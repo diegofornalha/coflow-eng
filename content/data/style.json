@@ -1,0 +1,84 @@
+{
+    "type": "ThemeStyle",
+    "fontHeadlines": "fontPrimary",
+    "h1": {
+        "size": "6xl",
+        "weight": "medium",
+        "decoration": "none",
+        "case": "none",
+        "letterSpacing": "normal"
+    },
+    "h2": {
+        "size": "5xl",
+        "weight": "normal",
+        "decoration": "none",
+        "case": "none",
+        "letterSpacing": "normal"
+    },
+    "h3": {
+        "size": "3xl",
+        "weight": "normal",
+        "decoration": "none",
+        "case": "none",
+        "letterSpacing": "normal"
+    },
+    "h4": {
+        "size": "2xl",
+        "weight": "medium",
+        "decoration": "none",
+        "case": "none",
+        "letterSpacing": "normal"
+    },
+    "h5": {
+        "size": "xl",
+        "weight": "medium",
+        "decoration": "none",
+        "case": "none",
+        "letterSpacing": "normal"
+    },
+    "h6": {
+        "size": "lg",
+        "weight": "medium",
+        "decoration": "none",
+        "case": "none",
+        "letterSpacing": "normal"
+    },
+    "main": "#ffffff",
+    "light": "#ffffff",
+    "onLight": "#1d1d24",
+    "dark": "#1d1d24",
+    "onDark": "#ffffff",
+    "primary": "#00ee8b",
+    "onPrimary": "#ffffff",
+    "secondary": "#0000f440",
+    "onSecondary": "#ffffff",
+    "complementary": "#ffffff",
+    "onComplementary": "#000000bf",
+    "complementaryAlt": "#a000ff",
+    "onComplementaryAlt": "#ffffff",
+    "buttonPrimary": {
+        "weight": "normal",
+        "case": "none",
+        "letterSpacing": "normal",
+        "borderRadius": "none",
+        "horizontalPadding": 20,
+        "verticalPadding": 10,
+        "shadow": "none"
+    },
+    "buttonSecondary": {
+        "weight": "normal",
+        "case": "none",
+        "letterSpacing": "normal",
+        "borderRadius": "none",
+        "borderStyle": "solid",
+        "horizontalPadding": 20,
+        "verticalPadding": 10,
+        "shadow": "none"
+    },
+    "link": {
+        "weight": "normal",
+        "case": "none",
+        "letterSpacing": "normal"
+    },
+    "fontBody": "fontSecondary"
+}

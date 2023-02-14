@@ -1,0 +1,40 @@
+name: Person
+label: Person
+labelField: firstName
+fields:
+  - type: string
+    name: firstName
+    label: First name
+    default: Name
+    required: true
+  - type: string
+    name: lastName
+    label: Last name
+    default: Surname
+  # - type: string
+  #   name: role
+  #   label: Role
+  #   default: Role
+  - type: list
+    name: socialLinks
+    label: Social links
+    items:
+      type: model
+      models:
+        - Social
+    default:
+      - type: Social
+        icon: mail
+        value: mail
+        label: 'Mail'
+        altText: Mail
+        url: 'mailto:'
+        elementId: false
+        showIcon: true
+  - type: model
+    name: image
+    label: Image
+    models: [ImageBlock]
+    default:
+      url: https://assets.stackbit.com/components/images/default/default-person.png
+      altText: Person photo

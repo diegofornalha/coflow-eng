@@ -1,0 +1,22 @@
+type: object
+name: DropdownLink
+label: Dropdown Link
+labelField: label
+fields:
+  - type: string
+    name: label
+    label: Label
+    default: More
+  - type: string
+    name: altText
+    label: Alt text
+    description: Alternative text for screen readers
+    default: ''
+  - type: list
+    name: dropdownLinks
+    label: Dropdown Links
+    required: true
+    items:
+      type: model
+      models:
+        - Link

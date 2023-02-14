@@ -1,0 +1,86 @@
+type: object
+name: FormBlock
+label: Form
+labelField: elementId
+fieldGroups:
+  - name: settings
+    label: Settings
+fields:
+  - type: list
+    name: fields
+    label: Fields
+    items:
+      type: model
+      models:
+        - TextFormControl
+        - EmailFormControl
+        - TextareaFormControl
+        - CheckboxFormControl
+        - SelectFormControl
+    default:
+      - type: TextFormControl
+        name: name
+        label: Name
+        labelPt: Nom
+        hideLabel: true
+        placeholder: Name
+        placeholderPt: Nom
+        isRequired: false
+        width: 1/2
+      - type: EmailFormControl
+        name: email
+        label: Email
+        labelPt: Email
+        hideLabel: true
+        placeholder: Email
+        placeholderPt: Email
+        isRequired: true
+        width: full
+      - type: TextFormControl
+        name: address
+        label: Address
+        labelPt: Addresse
+        hideLabel: true
+        placeholder: Address
+        placeholderPt: Addresse
+        isRequired: true
+        width: full
+      - type: CheckboxFormControl
+        name: updatesConsent
+        label: Sign me up to receive updates
+        labelPt: Je souhaite recevoir des mises à jour
+        isRequired: false
+        width: full
+  - type: string
+    name: submitLabel
+    label: Button
+    default: Send Message
+  - type: string
+    name: submitLabelFr
+    label: Bouton
+    default: Envoyer
+  - type: string
+    name: elementId
+    group: settings
+    label: Element ID
+    description: The unique ID used for id and name attributes in the HTML form. Must not contain whitespace.
+    default: 'contact-form'
+    required: true
+  - type: string
+    name: action
+    group: settings
+    label: Action (form submission URL)
+    default: /.netlify/functions/submission_created
+  - type: string
+    name: destination
+    label: Destination (email to redirect responses)
+    default: ''
+    group: settings
+  - type: style
+    name: styles
+    styles:
+      submitLabel:
+        textAlign: ['left', 'center', 'right']
+    default:
+      submitLabel:
+        textAlign: left

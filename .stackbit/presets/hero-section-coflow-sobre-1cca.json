@@ -1,0 +1,78 @@
+{
+    "model": "HeroSection",
+    "srcType": "git",
+    "srcProjectId": "diegofornalha/coflow-blog",
+    "presets": [
+        {
+            "label": "COFLOW SOBRE",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "PAGINA"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "colors": "colors-e",
+                "elementId": "",
+                "backgroundSize": "full",
+                "title": "CoFlow",
+                "titlePt": "CoFlow",
+                "subtitle": null,
+                "subtitlePt": null,
+                "text": "Our company shares the same vision as Dapper Labs, which is to create industry-leading web3 experiences and develop dapps on the flow blockchain that provide users with a simple way to manage their assets and use the blockchain. Our mission is to make the world a more accessible and enjoyable place through consumer adoption of decentralized technologies.\n\n",
+                "textPt": "Nossa empresa compartilha a mesma visão do Dapper Labs, que é criar experiências web3 líderes do setor e desenvolver dapps na blockchain da Flow que possibilita aos usuários uma maneira simples de gerenciar seus ativos e usar o blockchain. Nossa missão é tornar o mundo um lugar mais acessível e agradável por meio da adoção pelo consumidor de tecnologias descentralizadas.\n",
+                "actions": [
+                    {
+                        "label": "Learn More",
+                        "altText": "",
+                        "url": "https://flow.coflow.com.br/flow-brasil-embaixador-aprendiz/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "primary",
+                        "elementId": "",
+                        "$$type": "Button"
+                    }
+                ],
+                "media": null,
+                "backgroundImage": {
+                    "url": "/images/gifs/flowlabs.gif",
+                    "backgroundSize": "cover",
+                    "backgroundPosition": "center",
+                    "backgroundRepeat": "no-repeat",
+                    "opacity": 15,
+                    "$$type": "BackgroundImage"
+                },
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "padding": [
+                            "pt-36",
+                            "pb-36",
+                            "pl-4",
+                            "pr-4"
+                        ],
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                        "flexDirection": "row"
+                    },
+                    "title": {
+                        "textAlign": "left"
+                    },
+                    "subtitle": {
+                        "textAlign": "left"
+                    },
+                    "text": {
+                        "textAlign": "left"
+                    },
+                    "actions": {
+                        "justifyContent": "flex-start"
+                    }
+                }
+            },
+            "thumbnail": "images/hero-section-coflow-sobre-1cca.png"
+        }
+    ]
+}

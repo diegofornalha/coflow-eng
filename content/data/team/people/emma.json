@@ -1,0 +1,10 @@
+{
+    "type": "Person",
+    "firstName": "Daniel",
+    "lastName": "Alcantara",
+    "image": {
+        "url": "/images/coflowers/avatar-diegofornalha-flow.png",
+        "altText": "Emma"
+    },
+    "socialLinks": []
+}

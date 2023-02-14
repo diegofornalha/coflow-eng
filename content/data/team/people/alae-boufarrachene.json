@@ -1,0 +1,18 @@
+{
+    "type": "Person",
+    "firstName": "FR",
+    "lastName": "Labs",
+    "image": {
+        "url": "/images/coflowers/avatar-diegofornalha-flow.png",
+        "altText": "Alae Boufarrachene photo"
+    },
+    "socialLinks": [
+        {
+            "type": "Social",
+            "altText": "LinkedIn",
+            "label": "LinkedIn",
+            "url": "https://www.linkedin.com/in/alaebou/",
+            "icon": "linkedin"
+        }
+    ]
+}

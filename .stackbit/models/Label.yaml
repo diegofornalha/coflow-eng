@@ -1,0 +1,15 @@
+type: object
+name: Label
+label: Label
+labelField: en
+fields:
+  - type: string
+    name: en
+    label: EN
+    default: Text
+    required: true
+  - type: string
+    name: pt
+    label: PT
+    default: Texte
+    required: true

@@ -1,0 +1,18 @@
+{
+    "type": "Person",
+    "firstName": "Diego",
+    "lastName": "Fornalha",
+    "image": {
+        "url": "/images/coflowers/avatar-diegofornalha-flow.png",
+        "altText": "Diego Fornalha Avatar"
+    },
+    "socialLinks": [
+        {
+            "type": "Social",
+            "altText": "LinkedIn",
+            "label": "LinkedIn",
+            "url": "https://www.linkedin.com/in/rikkiromana",
+            "icon": "linkedin"
+        }
+    ]
+}
