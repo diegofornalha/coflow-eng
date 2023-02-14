@@ -1,5 +1,5 @@
 ---
-title: Home
+title: início
 layout: PageLayout
 sections:
   - type: DividerSection
