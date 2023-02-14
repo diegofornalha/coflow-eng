@@ -71,4 +71,5 @@ media:
   elementId: ''
 title: 'Animoca, MotoGP y StarGirl llegan a Flow con mucho estilo'
 excerpt: Uniendo fuerzas para construir el Metaverso
+author: content/data/team/people/diego-fornalha.json
 ---
