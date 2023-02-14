@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: 'Como a programação orientada a recursos funciona? '
 addTitleSuffix: true
 metaTags: []
-title: 'Como a programação orientada a recursos funciona? '
 colors: colors-d
 date: '2023-01-16'
 excerpt: >-
