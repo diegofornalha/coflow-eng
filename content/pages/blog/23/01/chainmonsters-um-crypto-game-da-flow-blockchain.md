@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: Chainmonsters Um Crypto Game da Flow Blockchain
 addTitleSuffix: true
 metaTags: []
-title: Chainmonsters Um Crypto Game da Flow Blockchain
 colors: colors-d
 excerpt: >-
   Chainmonsters é um jogo multijogador online onde os jogadores podem capturar,
