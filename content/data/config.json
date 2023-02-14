@@ -35,22 +35,6 @@
             },
             {
                 "type": "DropdownLink",
-                "label": "Volunteers",
-                "dropdownLinks": [
-                    {
-                        "type": "Link",
-                        "label": "Advocates",
-                        "altText": "Advocates",
-                        "url": "https://flow.coflow.com.br/flow-brasil-embaixador-aprendiz/",
-                        "showIcon": true,
-                        "icon": "arrowRight",
-                        "iconPosition": "right",
-                        "elementId": ""
-                    }
-                ]
-            },
-            {
-                "type": "DropdownLink",
                 "label": "Partnerships",
                 "altText": "Parcerias",
                 "dropdownLinks": [
