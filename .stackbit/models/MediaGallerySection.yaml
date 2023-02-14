@@ -15,19 +15,19 @@ fieldGroups:
 fields:
   - type: string
     name: title
-    label: Title [BR]
+    label: Title [ES]
     default: Gallery
   - type: string
     name: titlePt
-    label: Title [ES]
+    label: Title [BR]
     default: Galerie
   - type: string
     name: subtitle
-    label: Subtitle [BR]
+    label: Subtitle [ES]
     default: This is the subtitle
   - type: string
     name: subtitlePt
-    label: Subtitle [ES]
+    label: Subtitle [BR]
     default: Sous-titre
   - type: list
     name: images

@@ -10,12 +10,12 @@ fieldGroups:
 fields:
   - type: string
     name: title
-    label: Title [BR]
+    label: Title [ES]
     default: 
     required: true
   - type: string
     name: titlePt
-    label: Title [ES]
+    label: Title [BR]
     default: 
     required: true
   - type: enum
@@ -61,11 +61,11 @@ fields:
       - Person
   - type: string
     name: excerpt
-    label: Excerpt [BR]
+    label: Excerpt [ES]
     default: 
   - type: string
     name: excerptFr
-    label: Excerpt [ES]
+    label: Excerpt [BR]
     default: 
   - type: model
     name: featuredImage
@@ -96,7 +96,7 @@ fields:
         - sectionComponent
   - type: markdown
     name: markdown_content_pt
-    label: Content [ES]
+    label: Content [BR]
     default: ''
   - type: string
     name: metaDescription
