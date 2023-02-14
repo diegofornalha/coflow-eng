@@ -53,7 +53,6 @@ markdown_content_pt: >+
 
 metaDescription: null
 socialImage: null
-author: content/data/team/people/rikki-romana.json
 date: '2023-01-08'
 excerptBr: Unindo forças para construir o Metaverse
 featuredImage:
