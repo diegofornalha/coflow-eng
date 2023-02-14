@@ -40,8 +40,8 @@ fields:
       - type: FeaturedItem
         title: Item Title
         titlePt: Titre de l'article
-        text: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.'
-        textPt: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.'
+        text: ''
+        textPt: ''
         featuredImage:
           type: ImageBlock
           url: 'https://assets.stackbit.com/components/images/default/default-image.png'
