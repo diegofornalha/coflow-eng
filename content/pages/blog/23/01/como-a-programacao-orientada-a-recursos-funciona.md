@@ -116,3 +116,26 @@ excerpt: >-
   específicamente tokens no fungibles (NFT), para empoderar a los creadores y
   permitirles monetizar y promover su trabajo de manera más eficiente.
 ---
+
+
+
+Entre las opciones de EVM o WASM, son una buena opción para activos digitales.
+
+Etiquetar algo como un "recurso" le informa al ambiente de programación que esta estructura de datos representa algo de valor tangible y que todo código que interactúe con esta estructura de datos necesita seguir una serie de reglas especiales que mantendrán el valor de esa estructura de datos.
+
+Las reglas son:
+
+1.  Cada recurso existe exactamente en un lugar en cualquier momento.
+
+2.  La propiedad de un recurso está definida por dónde se almacena.
+
+3.  El acceso a los métodos en un recurso está limitado al propietario.
+
+Para aplicar correctamente estas reglas, se puede permitir que el activo más importante de la red del token nativo se almacene de manera segura dentro de estructuras de datos controladas por el código enviado por el usuario.
+
+La forma más fácil de pensar en Recursos es pensar en un ejemplo usando un token no fungible (NFT), como un CryptoKitty. Cada CryptoKitty es indivisible, no copiable y puede tener un único propietario directo, que corresponde directamente a la construcción de programación de Recursos.
+
+En un modelo de Ledger como Ethereum, todos los CryptoKitties se almacenan en un único contrato inteligente como una lista gigante. En el Modelo de Recursos, el propio Kitty se representa como un objeto de Recursos y se almacena directamente en la cuenta que lo posee.
+
+
+
