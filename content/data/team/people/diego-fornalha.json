@@ -13,7 +13,7 @@
     ],
     "image": {
         "type": "ImageBlock",
-        "url": "/images/Embaixadores/avatar-diegofornalha-flow.png",
+        "url": "/images/embaixadores/avatar-diegofornalha-flow.png",
         "altText": "Diego",
         "caption": "Diego",
         "width": 300,
