@@ -10,6 +10,6 @@ fields:
     required: true
   - type: string
     name: pt
-    label: [ES]
+    label: [BR]
     default: Texte
     required: true

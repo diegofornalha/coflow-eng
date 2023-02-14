@@ -8,11 +8,11 @@ extends:
 fields:
   - type: string
     name: title
-    label: Title [BR]
+    label: Title [ES]
     default: 
   - type: string
     name: titlePt
-    label: Title [ES]
+    label: Title [BR]
     default: 
   - type: number
     name: numOfPostsPerPage

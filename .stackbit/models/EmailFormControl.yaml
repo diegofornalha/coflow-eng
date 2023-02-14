@@ -11,11 +11,11 @@ fields:
     label: Name
   - type: string
     name: label
-    label: Label [BR]
+    label: Label [ES]
     default: Name
   - type: string
     name: labelFr
-    label: Label [ES]
+    label: Label [BR]
     default: Name
   - type: boolean
     name: hideLabel
@@ -23,11 +23,11 @@ fields:
     default: false
   - type: string
     name: placeholder
-    label: Placeholder text [BR]
+    label: Placeholder text [ES]
     default: Your name
   - type: string
     name: placeholderFr
-    label: Placeholder text [ES]
+    label: Placeholder text [BR]
     default: Nom
   - type: boolean
     name: isRequired
