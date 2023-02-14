@@ -9,7 +9,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "ínicio",
                 "altText": "Inicio",
                 "url": "/",
                 "showIcon": false,
