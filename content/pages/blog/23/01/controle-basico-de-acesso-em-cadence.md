@@ -74,6 +74,7 @@ metaDescription: >-
   os desenvolvedores tenham um entendimento completo do controle de acesso em
   Cadence antes de implantar seus projetos na rede principal.
 socialImage: /images/23/01/Controle básico de acesso em Cadence diegofornalha.png
+titlePt: Controle básico de acesso em Cadence
 ---
 ![https://miro.medium.com/max/347/1\*M7p33-EGZPFdKcX7oR6mDg.jpeg](https://miro.medium.com/max/347/1\*M7p33-EGZPFdKcX7oR6mDg.jpeg)
 
