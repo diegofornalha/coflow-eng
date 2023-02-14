@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: Controle básico de acesso em Cadence
 addTitleSuffix: true
 metaTags: []
-title: Controle básico de acesso em Cadence
 colors: colors-d
 date: '2023-01-20'
 excerpt: >-
