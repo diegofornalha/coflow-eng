@@ -1,4 +1,4 @@
 export const translatedLinks = {
-    "Início": "iniciar mais",
+    "Início": "Início",
 
 };
