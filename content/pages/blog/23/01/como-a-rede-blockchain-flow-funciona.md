@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: Como a rede blockchain flow funciona?
 colors: colors-d
-date: '2022-12-07'
+date: '2023-12-07'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
