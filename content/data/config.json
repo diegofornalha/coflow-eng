@@ -158,16 +158,6 @@
             },
             {
                 "type": "Link",
-                "label": "TERMO DE USO",
-                "altText": "TERMO DE USO",
-                "url": "/termo-de-uso",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
                 "label": "POLÍTICA DE PRIVACIDADE",
                 "altText": "POLÍTICA DE PRIVACIDADE",
                 "url": "/politica-de-privacidade",
