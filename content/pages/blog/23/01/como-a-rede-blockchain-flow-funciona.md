@@ -99,4 +99,5 @@ markdown_content_pt: >+
   dito, vamos primeiro explorar como seus nós são divididos e quais são suas
   funções.
 
+author: content/data/team/people/diego-fornalha.json
 ---
