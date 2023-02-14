@@ -111,7 +111,6 @@ markdown_content_pt: >+
 
 metaDescription: null
 socialImage: null
-date: '2023-01-03'
 ---
 Desde que o dinheiro existe, as operações financeiras que chamamos de bancárias têm ocorrido. O que começou com agricultores emprestando grãos uns aos outros, com o tempo se tornou a gigante econômica das instituições financeiras de hoje, com sua oferta servindo a um cliente individual que procura investir ou a um país moderno à beira de um colapso econômico. Para pensar em finanças descentralizadas (DeFi) com tecnologia blockchain como uma força potencialmente disruptiva em uma indústria tão solidificada parece a muitos, e com razão, como um sonho inalcançável. No entanto, a inovação é uma criatura estranha, pois as ideias ousadas e soluções inéditas às vezes tomam rumos inesperados. Veja o objetivo do Bitcoin na whitepaper de Nakamoto:
 
