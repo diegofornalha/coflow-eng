@@ -9,11 +9,11 @@ fields:
   - type: string
     name: title
     label: Title [BR]
-    default: This is a page title
+    default: 
   - type: string
     name: titlePt
     label: Title [ES]
-    default: Titre de la page
+    default: 
   - type: number
     name: numOfPostsPerPage
     label: Number of Posts per page
