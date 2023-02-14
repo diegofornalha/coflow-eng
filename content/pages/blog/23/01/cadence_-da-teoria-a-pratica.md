@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: 'Cadence: da teoria à prática'
 titlePt: 'Cadence: da teoria à prática'
 colors: colors-d
 date: '2023-01-13'
