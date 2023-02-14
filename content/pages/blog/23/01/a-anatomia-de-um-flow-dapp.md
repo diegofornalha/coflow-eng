@@ -7,7 +7,7 @@ title: A anatomia de um Flow Dapp
 colors: colors-d
 featuredImage:
   type: ImageBlock
-  url: /images/a anatomia da uma dapp diego fornalha.png
+  url: /images/23/01/A anatomia de um Flow Dapp.png
   altText: A anatomia de um Flow Dapp
   caption: ''
   width: 800
