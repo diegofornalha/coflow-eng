@@ -45,7 +45,7 @@ bottomSections:
         icon: arrowRight
         url: /
         style: primary
-        altText: Servidor no Discord
+        altText: Entrar no Discord
     backgroundImage: null
     styles:
       self:
