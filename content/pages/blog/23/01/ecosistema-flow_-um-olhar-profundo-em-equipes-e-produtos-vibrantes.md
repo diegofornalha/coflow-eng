@@ -76,7 +76,8 @@ featuredImage:
   width: 800
   height: 450
   elementId: ''
-date: '2023-01-10'
+date: '2023-01-24'
+titlePt: 'Ecosistema Flow: um olhar profundo em equipes e produtos vibrantes'
 ---
 
 

@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: 'Como a programação orientada a recursos funciona? '
 colors: colors-d
-date: '2022-12-06'
+date: '2023-01-16'
 excerpt: >-
   O objetivo da Dapper Labs é usar a tecnologia descentralizada, especificamente
   non-fungible tokens (NFTs), para dar poder aos criadores e permitir que eles
@@ -71,6 +71,7 @@ bottomSections: []
 metaDescription: null
 socialImage: null
 author: content/data/team/hilary-ouse.json
+titlePt: 'Como a programação orientada a recursos funciona? '
 ---
 Entre as opções que EVM ou WASM e são um ajuste perfeito para ativos digitais.
 

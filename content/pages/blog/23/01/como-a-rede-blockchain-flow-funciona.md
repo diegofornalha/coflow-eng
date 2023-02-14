@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: Como a rede blockchain flow funciona?
 colors: colors-d
-date: '2022-12-07'
+date: '2023-01-17'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
@@ -50,6 +50,7 @@ metaDescription: >-
   arquitetura de rede Flow é mais simples e menos problemática do que outras
   opções no mercado.
 socialImage: /images/23/01/Como a rede blockchain flow funciona diegofornalha.png
+titlePt: Como a rede blockchain flow funciona?
 ---
 Flow é um da tecnologia blockchain projetada do início ao fim com o objetivo de ser integrado em jogos e aplicativos, tornando-se uma rede blockchain de alta velocidade e uma arquitetura modular extremamente flexível para o desenvolvimento.
 

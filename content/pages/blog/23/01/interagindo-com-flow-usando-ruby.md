@@ -6,7 +6,7 @@ metaTags: []
 title: Interagindo com Flow usando Ruby
 titlePt: Interagindo com Flow usando Ruby
 colors: colors-d
-date: '2023-01-14'
+date: '2023-01-30'
 featuredImage:
   type: ImageBlock
   url: /images/23/01/CAPAS-Interagindo com Flow usando Ruby.png

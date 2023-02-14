@@ -92,7 +92,7 @@ markdown_content_pt: >+
 
 metaDescription: null
 socialImage: null
-date: '2023-01-11'
+date: '2023-01-25'
 ---
 Hoje, vou falar sobre um aspecto do Cadence com o qual muitas pessoas têm dificuldade de se familiarizar: os Optionais!
 

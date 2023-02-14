@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: Escreva Contratos Inteligente em Cadence Para Votações
 colors: colors-d
-date: '2022-12-12'
+date: '2023-01-26'
 excerpt: >-
   O smart contract em Cadence é um código que é executado em uma rede
   blockchain, que é uma tecnologia de banco de dados descentralizada. Ele é
@@ -75,6 +75,7 @@ socialImage: >-
   /images/23/01/Escreva Contratos Inteligente em Cadence Para Votações
   diegofornalha.png
 author: content/data/team/hilary-ouse.json
+titlePt: Escreva Contratos Inteligente em Cadence Para Votações
 ---
 Hoje nós vamos ver como é fácil programar seu primeiro smart contract em Cadence de votação, ele sem dúvidas é o verdadeiro mestre das eleições!
 

@@ -5,7 +5,6 @@ addTitleSuffix: true
 metaTags: []
 title: FUSD o stablecoin da flow Blockchain
 colors: colors-d
-date: '2022-12-13'
 excerpt: >-
   O FUSD é um stablecoin nativo da plataforma de blockchain Flow. Ele é
   lastreado pelo dólar americano em 1:1, o que significa que cada FUSD é
@@ -96,6 +95,8 @@ metaDescription: >-
   usar criptomoedas, mas não sabe por onde começar.
 socialImage: /images/23/01/FUSD o stablecoin da flow Blockchain diegofornalha.png
 author: content/data/team/hilary-ouse.json
+date: '2023-01-28'
+titlePt: FUSD o stablecoin da flow Blockchain
 ---
 ![Image description](https://web3dev-forem-production.s3.amazonaws.com/uploads/articles/7nmmkybv25z5puzg02py.png)
 

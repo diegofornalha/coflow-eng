@@ -7,13 +7,13 @@ socialImage: null
 metaTags: []
 title: BLOG
 titlePt: BLOG
-numOfPostsPerPage: 90
+numOfPostsPerPage: 30
 postFeed:
   title: null
   subtitle: null
   showDate: true
   showAuthor: true
-  variant: variant-a
+  variant: variant-b
   colors: colors-a
   actions: []
 topSections: []

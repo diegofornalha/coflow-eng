@@ -6,19 +6,22 @@ metaTags: []
 title: 'Animoca, MotoGP e StarGirl chegam ao Flow com muito estilo'
 titlePt: 'Animoca, MotoGP e StarGirl chegam ao Flow com muito estilo'
 colors: colors-d
-date: '2023-01-04'
 excerpt: Unindo forças para construir o Metaverse
 excerptFr: Unindo forças para construir o Metaverse
 featuredImage:
   type: ImageBlock
-  url: /images/23/01/CAPAS-Animoca MotoGP e StarGirl chegam ao Flow com muito estilo.png
+  url: >-
+    /images/23/01/CAPAS-Animoca MotoGP e StarGirl chegam ao Flow com muito
+    estilo.png
   altText: Unindo forças para construir o Metaverse
   caption: Unindo forças para construir o Metaverse
   width: 800
   height: 450
 media:
   type: ImageBlock
-  url: /images/23/01/CAPAS-Animoca MotoGP e StarGirl chegam ao Flow com muito estilo.png
+  url: >-
+    /images/23/01/CAPAS-Animoca MotoGP e StarGirl chegam ao Flow com muito
+    estilo.png
   altText: Unindo forças para construir o Metaverse
   caption: Unindo forças para construir o Metaverse
   width: 800
@@ -69,6 +72,7 @@ markdown_content_pt: >+
 metaDescription: null
 socialImage: null
 author: content/data/team/people/rikki-romana.json
+date: '2023-01-08'
 ---
 Você já ouviu falar da constelação de criativos, desenvolvedores e jogadores apaixonados que estão construindo o futuro do entretenimento digital? Eles são a alma do Metaverse e, sem eles, nada disso seria possível. É por isso que a Animoca entrou no mundo da blockchain - eles viram o potencial da CryptoKitties e ajudaram a levar esse sucesso ao redor do mundo.
 

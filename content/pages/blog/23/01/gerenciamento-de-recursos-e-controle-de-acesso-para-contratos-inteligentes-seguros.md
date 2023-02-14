@@ -10,12 +10,12 @@ titlePt: >-
   Gerenciamento de recursos e controle de acesso para contratos inteligentes
   seguros
 colors: colors-d
-date: '2023-01-13'
+date: '2023-01-29'
 featuredImage:
   type: ImageBlock
   url: >-
-    /images/23/01/CAPAS-Gerenciamento de recursos e controle de acesso para contratos
-    inteligentes seguros.png
+    /images/23/01/CAPAS-Gerenciamento de recursos e controle de acesso para
+    contratos inteligentes seguros.png
   altText: >-
     Gerenciamento de recursos e controle de acesso para contratos inteligentes
     seguros
@@ -27,8 +27,8 @@ featuredImage:
 media:
   type: ImageBlock
   url: >-
-    /images/23/01/CAPAS-Gerenciamento de recursos e controle de acesso para contratos
-    inteligentes seguros.png
+    /images/23/01/CAPAS-Gerenciamento de recursos e controle de acesso para
+    contratos inteligentes seguros.png
   altText: >-
     Gerenciamento de recursos e controle de acesso para contratos inteligentes
     seguros
