@@ -93,6 +93,7 @@ metaDescription: >-
 socialImage: /images/23/01/5 passos para se tornar um dev Web3 DiegoFornalha.png
 author: content/data/team/hilary-ouse.json
 date: '2023-01-03'
+titlePt: '5 passos para se tornar um dev Web3 '
 ---
 ## Quer fazer parte da revolução descentralizada como desenvolvedor Web3? 
 
