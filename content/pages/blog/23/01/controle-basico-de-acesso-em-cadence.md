@@ -5,9 +5,6 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-d
 date: '2023-01-20'
-excerpt: >-
-  O controle de acesso em contratos inteligentes escritos em Cadence, uma
-  linguagem de programação para a plataforma Flow. 
 featuredImage:
   type: ImageBlock
   url: /images/23/01/Controle básico de acesso em Cadence diegofornalha.png
