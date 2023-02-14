@@ -88,7 +88,6 @@ metaDescription: >-
 socialImage: >-
   /images/23/01/5 Dicas pra quem quer aprender sobre a blockchain Flow
   diegofornalha.png
-author: content/data/team/hilary-ouse.json
 date: '2023-01-02'
 titlePt: 5 Dicas pra quem quer aprender sobre a blockchain Flow
 ---
