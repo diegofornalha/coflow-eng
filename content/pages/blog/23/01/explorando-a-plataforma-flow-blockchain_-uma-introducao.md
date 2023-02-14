@@ -6,7 +6,54 @@ metaTags: []
 titlePt: 'Animoca, MotoGP e StarGirl chegam ao Flow com muito estilo'
 colors: colors-d
 excerptFr: Unindo forças para construir o Metaverse
-bottomSections: []
+bottomSections:
+  - type: CtaSection
+    colors: colors-e
+    elementId: ''
+    backgroundSize: full
+    title: CoFlow
+    titlePt: CoFlow
+    text: >
+      Nuestra empresa comparte la misma visión que Dapper Labs, que es crear
+      experiencias líderes en la industria web3 y desarrollar dapps en la cadena
+      de bloques Flow que proporcionen a los usuarios una forma sencilla de
+      administrar sus activos y usar la cadena de bloques. Nuestra misión es
+      hacer del mundo un lugar más accesible y agradable a través de la adopción
+      por los consumidores de tecnologías descentralizadas.
+    textPt: >
+      Nossa empresa compartilha a mesma visão do Dapper Labs, que é criar
+      experiências web3 líderes do setor e desenvolver dapps na blockchain da
+      Flow que possibilita aos usuários uma maneira simples de gerenciar seus
+      ativos e usar o blockchain. Nossa missão é tornar o mundo um lugar mais
+      acessível e agradável por meio da adoção pelo consumidor de tecnologias
+      descentralizadas.
+    actions:
+      - label: Servidor no Discord
+        altText: Entrar no Discord
+        url: 'https://discord.com/invite/hT8EpC5mUN'
+        showIcon: true
+        icon: arrowRight
+        style: primary
+        type: Button
+    backgroundImage: null
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
 markdown_content_pt: >+
   Você já ouviu falar da constelação de criativos, desenvolvedores e jogadores
   apaixonados que estão construindo o futuro do entretenimento digital? Eles são
