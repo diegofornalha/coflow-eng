@@ -26,7 +26,7 @@ sections:
       Tudo e mais um pouco sobre Flow!
     actions:
       - type: Button
-        label: Contact Us
+        label: Entre em Contato
         altText: Entre em Contato
         url: 'https://wa.me/5521997806363?text=Ol%C3%A1'
         showIcon: false
