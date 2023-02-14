@@ -79,3 +79,31 @@ excerpt: >-
   ¡Vamos a dar los primeros pasos juntos y hacer que el aprendizaje sea
   divertido!
 ---
+
+
+
+Cadence es un lenguaje fascinante y quiero hacer todo lo posible para iniciar más conversaciones sobre él. Pero antes de empezar, ¿qué es Flow? Flow es una nueva blockchain construida para la próxima generación de aplicaciones, juegos y activos digitales que los alimentan. La arquitectura única de Flow permite escalar sin particionamiento, al mismo tiempo que proporciona la misma descentralización y seguridad que todos esperan de una blockchain.
+
+Recientemente, ha habido mucho interés en Flow. ¿Tal vez todos hicieron resoluciones de Año Nuevo para aprender sobre Flow? ¿Tal vez Flow fue mencionado en un tweet de Elon Musk? ¿Tal vez hay un juego NFT construido en Flow que está explotando en popularidad y impulsando a los desarrolladores que quieren crear herramientas para él y otras experiencias similares? Imposible decir con certeza 😜.
+
+De cualquier manera, hay muchas personas nuevas en la comunidad de Flow y muchas personas que quieren aprender sobre Cadence. No siempre está claro por dónde empezar y hacia dónde ir después de aprender los conceptos básicos. Pero no te preocupes, estoy aquí para ayudarte en este viaje.
+
+En primer lugar, si eres completamente nuevo en el mundo de blockchain, recomiendo que encuentres una guía o curso en línea que te presente los conceptos básicos de la tecnología de ledger distribuido (fuera del alcance de esta publicación).
+
+A continuación, recomiendo que leas el Flow Primer para construir una comprensión básica de la arquitectura de la blockchain Flow.
+
+Y luego, es hora de dar los primeros pasos con Cadence. La Introducción a Cadence es genial para explicar las importantes decisiones de diseño detrás de Cadence y por qué son importantes. Es fundamental entender esto antes de intentar aprender el lenguaje.
+
+También recomiendo echar un vistazo a esta publicación del blog de Dete Shirley, CTO de Dapper Labs y uno de los principales arquitectos de Flow y Cadence. Él explica por qué el modelo de programación de Cadence, programación orientada a recursos, es el modelo ideal para activos digitales.
+
+Después de eso, es hora de profundizar en los tutoriales de Cadence, comenzando con los Primeros Pasos y terminando con el Contrato de Votación. Estos tutoriales utilizan contratos reales para guiarte a través de las principales funcionalidades de Cadence paso a paso. ¡Te ayudarán a familiarizarte con Flow Playground, una herramienta increíble para escribir y probar tus contratos inteligentes en tu navegador!
+
+Y no se detiene ahí, también hay una extensión de Visual Studio Code que puedes instalar para tener resaltado de sintaxis y un emulador de Flow integrado en VSCode. ¿Genial, verdad?
+
+Después de eso, es hora de aventurarse en el mundo de los contratos estándar. Como aprenderás en los tutoriales, muchos proyectos blockchain utilizan tokens fungibles, tokens no fungibles o ambos, incluso si no los necesitan. Hay interfaces estándar para ambos tipos que recomendamos que utilices para ser interoperable con otros contratos inteligentes. Cada uno está en un repositorio de Github separado.
+
+Entonces, ¿qué estás esperando? Comencemos este increíble viaje con Cadence y Flow. ¡No olvides que la letra F también significa DIVERSIÓN!
+
+
+
+
