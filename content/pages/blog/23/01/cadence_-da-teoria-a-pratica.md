@@ -16,7 +16,7 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: /images/23/01/CAPAS-Cadence da teoria à prática.png
+  url: /images/23/01/da teoria à prática.png
   altText: 'Cadence: da teoria à prática'
   caption: 'Cadence: da teoria à prática'
   width: 800
