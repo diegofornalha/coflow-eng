@@ -138,20 +138,32 @@ markdown_content_pt: >
 title: La anatomía de un Flow Dapp
 excerpt: Componentes fundamentales de un dapp en la blockchain Flow.
 ---
+El diagrama siguiente describe los componentes de un dapp típico construido en la blockchain Flow. Aunque muchos dapps están estructurados de manera diferente, esta arquitectura presenta conceptos fundamentales que se discutirán a lo largo de esta guía.
 
-El diagrama abajo describe los componentes de un dapp típico construido en la blockchain Flow. Aunque muchos dapps están estructurados de manera diferente, esta arquitectura presenta conceptos fundamentales que serán discutidos a lo largo de esta guía.
-Cliente Dapp
-El cliente dapp es la interfaz a través de la cual los usuarios interactúan con su dapp. Aplicaciones web y móviles son ejemplos comunes de clientes dapp.
-Contrato Inteligente
+## Cliente Dapp
+
+El cliente dapp es la interfaz a través de la cual los usuarios interactúan con su dapp. Las aplicaciones web y móviles son ejemplos comunes de clientes dapp.
+
+## Contrato Inteligente
+
 Un contrato inteligente es una colección de código, implantado en un lugar permanente en la blockchain, que define la lógica central de un dapp.
-Cuenta de usuario
-Una cuenta de usuario es un registro en la blockchain que almacena los activos digitales pertenecientes a un único usuario.
-Transacción
-Una transacción es un fragmento de código sometido a la blockchain que altera el estado de una o más cuentas de usuario y contratos inteligentes. Todas las transacciones se originan de al menos una cuenta de usuario. En la mayoría de los casos, una transacción pasa datos entre una cuenta de usuario y un contrato inteligente.
-Consulta de estado
-Una consulta de estado es una solicitud hecha a la blockchain que devuelve información sobre el estado de los contratos inteligentes de su dapp.
-Billetera del usuario
-Una billetera de usuario es un software o hardware que controla el acceso a la cuenta de un usuario en la blockchain. La aplicación cliente normalmente se conecta a la billetera del usuario para enviar transacciones a la blockchain. En muchos casos, el dapp transmite físicamente la transacción a la blockchain en nombre del usuario. Sin embargo, es importante observar que la billetera tiene la palabra final sobre lo que se firma o no y, por lo tanto, tiene control sobre todas las transacciones que interactúan con la cuenta del usuario.
-Biblioteca de cliente Flow(FCL)
-La Flow Client Library es un marco que proporciona una interfaz estándar para conectar aplicaciones clientes y billeteras de usuarios.
 
+## Cuenta de Usuario
+
+Una cuenta de usuario es un registro en la blockchain que almacena los activos digitales pertenecientes a un solo usuario.
+
+## Transacción
+
+Una transacción es un fragmento de código presentado a la blockchain que altera el estado de una o más cuentas de usuario y contratos inteligentes. Todas las transacciones son originadas por al menos una cuenta de usuario. En la mayoría de los casos, una transacción pasa datos entre una cuenta de usuario y un contrato inteligente.
+
+## Consulta de Estado
+
+Una consulta de estado es una solicitud hecha a la blockchain que devuelve información sobre el estado de los contratos inteligentes de su dapp.
+
+## Cartera de Usuario
+
+Una cartera de usuario es un software o hardware que controla el acceso a la cuenta de un usuario en la blockchain. El aplicativo cliente normalmente se conecta a la cartera del usuario para enviar transacciones a la blockchain. En muchos casos, el dapp transmite físicamente la transacción a la blockchain en nombre del usuario. Sin embargo, es importante observar que la cartera tiene la última palabra sobre lo que es firmado o no y, por lo tanto, tiene control sobre todas las transacciones que interactúan con la cuenta del usuario.
+
+## Biblioteca de Cliente Flow (FCL)
+
+La Flow Client Library es un framework que proporciona una interfaz estándar para conectar aplicativos clientes y carteras de usuarios.
