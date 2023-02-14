@@ -5,11 +5,8 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-<<<<<<< HEAD
-title: 
-titlePt: 
-=======
->>>>>>> 9343543caeb215b62e3faf94a6f444638da047df
+title: null
+titlePt: null
 numOfPostsPerPage: 10
 postFeed:
   title: null
