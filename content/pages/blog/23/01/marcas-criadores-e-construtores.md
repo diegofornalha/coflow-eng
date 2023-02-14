@@ -6,7 +6,7 @@ metaTags: []
 title: 'Marcas, Criadores e Construtores'
 titlePt: 'Marcas, Criadores e Construtores'
 colors: colors-d
-date: '2023-01-15'
+date: '2023-01-01'
 excerpt: >-
   Aproveite a nova economia de bens digitais e seja um dos primeiros a entrar em
   um mercado já valioso
