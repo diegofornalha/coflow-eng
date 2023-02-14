@@ -18,11 +18,6 @@
                 "elementId": ""
             },
             {
-                "type": "DropdownLink",
-                "label": "About",
-                "dropdownLinks": []
-            },
-            {
                 "type": "Link",
                 "label": "Blog ",
                 "altText": "Blog",
