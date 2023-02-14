@@ -46,7 +46,7 @@ export default function MyApp({ Component, pageProps }) {
 
     useEffect(() => {
         const storedLanguage = localStorage.getItem('language');
-        const defaultFR = storedLanguage === 'pt' || (storedLanguage === null && prefersFR());
+        const defaultFR = storedLanguage === 'en' || (storedLanguage === null && prefersFR());
         if (defaultFR) {
             setLanguage('pt');
         }
