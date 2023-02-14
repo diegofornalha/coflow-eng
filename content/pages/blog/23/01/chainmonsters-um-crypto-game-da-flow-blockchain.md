@@ -5,9 +5,9 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-d
 excerpt: >-
-  Chainmonsters é um jogo multijogador online onde os jogadores podem capturar,
-  batalhar, trocar e competir com monstros digitais em uma experiência de mundo
-  aberto multijogador. 
+  Chainmonsters es un juego en línea multijugador donde los jugadores pueden
+  capturar, luchar, intercambiar y competir con monstruos digitales en una
+  experiencia multijugador de mundo abierto.
 featuredImage:
   type: ImageBlock
   url: >-
