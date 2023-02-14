@@ -34,6 +34,7 @@ date: '2023-01-09'
 excerptBr: >-
   Como implantar um contrato e como interagir com contratos implantados usando
   transações e scripts.
+author: content/data/team/people/diego-fornalha.json
 ---
 O Flow Playground é um editor e emulador construído diretamente no navegador. Com o playground, os desenvolvedores podem começar a aprender a escrever contratos inteligentes Cadence e interagir com uma blockchain local Flow emulada usando scripts e transações.
 
