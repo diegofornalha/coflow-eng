@@ -107,6 +107,6 @@ fields:
   - type: image
     name: socialImage
     label: 'Image for social (default:  featured image)'
-    description: 'By default, the "og:image" meta tag set for social sharing this post points to the Featured Image field (in the Content group). You can override that image here.'
+    description: ''
     default: null
     group: seo
