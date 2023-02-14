@@ -109,4 +109,5 @@ excerptBr: >-
   O objetivo da Dapper Labs é usar a tecnologia descentralizada, especificamente
   non-fungible tokens (NFTs), para dar poder aos criadores e permitir que eles
   monetizem e promovam o próprio trabalho de maneira mais eficiente. 
+title: ¿Cómo funciona la programación orientada a recursos?
 ---
