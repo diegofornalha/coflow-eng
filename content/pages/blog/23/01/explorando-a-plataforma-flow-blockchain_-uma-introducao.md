@@ -65,7 +65,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: null
+  url: /images/23/01/Animoca MotoGP e StarGirl.png
   altText: altText of the image
   caption: Caption of the image
   width: 300
