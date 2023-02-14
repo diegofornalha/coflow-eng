@@ -12,7 +12,7 @@ fields:
     default: This is a page title
   - type: string
     name: titlePt
-    label: Title [PT]
+    label: Title [ES]
     default: Titre de la page
   - type: number
     name: numOfPostsPerPage

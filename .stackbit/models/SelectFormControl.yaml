@@ -17,7 +17,7 @@ fields:
     default: City
   - type: string
     name: labelFr
-    label: Label [PT]
+    label: Label [ES]
     default: Ville
   - type: boolean
     name: hideLabel

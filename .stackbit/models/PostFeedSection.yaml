@@ -16,7 +16,7 @@ fields:
     default: Posts
   - type: string
     name: titlePt
-    label: Title [PT]
+    label: Title [ES]
     default: Posts
   - type: string
     name: subtitle
@@ -24,7 +24,7 @@ fields:
     default: Blog posts
   - type: string
     name: subtitlePt
-    label: Subtitle [PT]
+    label: Subtitle [ES]
     default: Blog posts
   - type: boolean
     name: showDate

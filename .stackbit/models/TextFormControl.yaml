@@ -17,7 +17,7 @@ fields:
     default: Home address
   - type: string
     name: labelFr
-    label: Label [PT]
+    label: Label [ES]
     default: Home address
   - type: boolean
     name: hideLabel
@@ -29,7 +29,7 @@ fields:
     default: Your home address
   - type: string
     name: placeholderFr
-    label: Placeholder text [PT]
+    label: Placeholder text [ES]
     default: Addresse
   - type: boolean
     name: isRequired

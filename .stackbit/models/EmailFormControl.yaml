@@ -15,7 +15,7 @@ fields:
     default: Name
   - type: string
     name: labelFr
-    label: Label [PT]
+    label: Label [ES]
     default: Name
   - type: boolean
     name: hideLabel
@@ -27,7 +27,7 @@ fields:
     default: Your name
   - type: string
     name: placeholderFr
-    label: Placeholder text [PT]
+    label: Placeholder text [ES]
     default: Nom
   - type: boolean
     name: isRequired

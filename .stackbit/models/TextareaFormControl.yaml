@@ -17,7 +17,7 @@ fields:
     default: Description
   - type: string
     name: labelFr
-    label: Label [PT]
+    label: Label [ES]
     default: Description
   - type: boolean
     name: hideLabel
@@ -29,7 +29,7 @@ fields:
     default: Please describe
   - type: string
     name: placeholderFr
-    label: Placeholder text [PT]
+    label: Placeholder text [ES]
     default: Please describe
   - type: boolean
     name: isRequired
