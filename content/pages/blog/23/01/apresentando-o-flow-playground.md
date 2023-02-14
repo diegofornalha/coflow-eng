@@ -120,3 +120,35 @@ excerptBr: >-
   respaldar el desarrollo de aplicaciones descentralizadas, incluidos tokens no
   fungibles (NFT).
 ---
+
+
+
+El [**Flow Playground**](https://www.onflow.org/play) es una interfaz web interactiva que permite a las personas aprender sobre el desarrollo de aplicaciones en Flow escribiendo y ejecutando contratos y transacciones inteligentes en un entorno de prueba. En Playground, puede escribir contratos usando *Recursos*, una forma poderosa y sencilla de modelar programáticamente la propiedad de activos valiosos. Playground facilita el trabajo con los fundamentos del desarrollo de monedas en cadena, artículos coleccionables, mercados y mucho más, todo en Flow. Puede unirse a la comunidad guardando y compartiendo su trabajo con otras personas.
+
+# Presentando Cadence
+
+Flow presenta un nuevo lenguaje de programación orientado a recursos llamado [**Cadence**](https://docs.onflow.org/docs/introduction). Cadence se diseñó para garantizar que su código sea seguro, protegido y accesible. Los recursos incluyen:
+
+*   Tipos de recursos de primera clase que redefinen la propiedad programática de activos valiosos.
+
+*   Un sistema fuerte de tipos estáticos y pre y postcondiciones internas para funciones y transacciones.
+
+*   Recursos de lenguajes como Swift y Rust que hacen que la sintaxis y semántica de Cadence parezcan familiares.
+
+Puede leer más sobre Cadence y recursos [**aquí**](https://docs.onflow.org/docs/introduction)**.**
+
+# Particular en estos mundos abiertos hoy
+
+Junto con nuestra comunidad, Flow puede alimentar una internet abierta y confiable para miles de millones de consumidores. Buscamos creadores, empresas y embajadores para dar vida a este nuevo mundo digital. Puede trabajar junto a marcas que construyen Flow como [UFC](https://medium.com/dapperlabs/enter-the-octagon-ufc-on-flow-brings-mma-to-crypto-480618408510) y [Warner Music](https://www.forbes.com/sites/michaeldelcastillo/2019/09/12/exclusive-from-cryptokitties-to-cardi-b-warner-music-joins-11-million-investment-in-ethereum-replacement/#6eb810d2b21f) para llevar la blockchain a las masas. Para hacer esto posible, estamos presentando el programa de socios **Flow alpha** para proyectos principales basados en Flow. Flow Alpha otorga los siguientes beneficios:
+
+*   Acceso a nuestro canal de Discord exclusivo para miembros con los principales constructores del espacio.
+
+*   Oportunidades de co-marketing y desarrollo empresarial con nuestros socios.
+
+*   Financiación y asesoramiento en modelos de negocio, así como presentaciones a los principales inversores para proyectos calificados. Los principales proyectos de Flow Alpha serán elegibles para un acelerador más práctico, con una participación profunda con los equipos de Dapper Labs y Flow.
+
+Puede leer más sobre Flow Alpha y aplicar [**aquí**](http://www.onflow.org/flow-alpha).
+
+# Construya en [**Flow Playground**](https://www.onflow.org/play)
+
+Artículo original en inglés: <https://flow.com/post/introducing-the-flow-playground>
