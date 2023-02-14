@@ -74,3 +74,49 @@ excerptBr: >-
   batalhar, trocar e competir com monstros digitais em uma experiência de mundo
   aberto multijogador. 
 ---
+
+
+
+Desarrollado por B-Side Games, Chainmonsters es un emocionante juego en línea multiplataforma donde se capturan, luchan, intercambian y compiten con monstruos digitales en una masiva experiencia de mundo abierto. El juego ha estado en desarrollo por más de 3 años y combina una excelente experiencia de juego tradicional con características interesantes que se posibilitan gracias a la integración con Flow. Los trajes, los objetos, los monstruos y muchos otros objetos especiales del juego son todos NFT que pertenecen y son controlados por los usuarios.
+
+## Lanzamiento
+
+Los participantes tuvieron la oportunidad de reservar NFTs súper raros e ítems exclusivos, incluyendo la oportunidad de obtener la primera edición acuñada de cada Chainmon (monstruo) en el juego (por ejemplo, el número de serie #1).
+
+![](https://assets-global.website-files.com/618c953e65cc2ba3f44d1a02/62f3a4e9df914547331f76de_5f87dbe7fa21cbdcbd5ca760_j0Hx0IFmCDFRozgGRA0vT6YKYo2IPSxOLPGIQRWhQcZ6-skht9Sly_SjUBesxbIsNxuoZaYj55FNhZHOo465-uwsR-SSkj4djkSV0UHatoGzwjXbACNPFShjjYk-5r3Y6562g7T8.png)
+
+Flow se construye mediante nuevas tecnologías para la próxima generación de aplicaciones, juegos y activos digitales que los alimentan. Los principales principios de diseño que guían a Flow son los principios centrados en el consumidor y amigables para el desarrollador que han hecho que esta red blockchain altamente volátil sea un ecosistema ideal para grandes marcas globales como NBA, UFC, Ubisoft, Dr. Seuss y Warner Music Group.
+
+El ecosistema Flow se desarrolló a través del programa *Flow Alpha* hace casi un año. El diseño centrado en el consumidor permite la creación de experiencias de integración perfectas que permitirán a los Chainmonsters penetrar en el mercado masivo con mayor facilidad en comparación con otros juegos lanzados hasta la fecha.
+
+Cuando un usuario inicia nuestro juego, puede comenzar a jugar de inmediato, sin necesidad de ningún conocimiento previo. Se crea una cuenta anónima en segundo plano, y una vez que&#x20;
+
+
+deciden continuar jugando y asumir la responsabilidad total de sus activos digitales ganados, pueden reclamar el control total de su cuenta sin problemas. Esto se logra fácilmente sin exceso de ingeniería gracias al soporte multi-sig que ofrece Flow por defecto. Siempre ha sido importante para nosotros encontrar el equilibrio adecuado entre facilidad de acceso, jugabilidad altamente atractiva y propiedad descentralizada de activos digitales.
+
+**¿Cuál es la propuesta del equipo?**
+
+El equipo ha pasado más de 3 años construyendo y diseñando cada detalle de este juego. En el momento de escribir este artículo, se ha desarrollado aproximadamente el 70% de la hoja de ruta, se han creado asociaciones a largo plazo y se ha diseñado nuestra visión de cómo debe ser una verdadera economía centrada en el jugador a gran escala. El proyecto no es como los típicamente desarrollados y Kickstarter ya se ha lanzado. Chainmonsters será uno de los primeros juegos MMORPG (multijugador masivo multiplataforma) habilitados para blockchain en una transición a la Web2.
+
+**Jugabilidad y NFT**
+
+Los jugadores se embarcan en un viaje épico mientras están conectados a esta red todo el tiempo. Cada Chainmon, artículo y activo digital vive y respira en Flow.
+
+En el juego, puedes capturar un total de 135 Chainmons únicos, pero no todos son creados iguales. Los valores individuales como las estadísticas, características y mutaciones definen la fuerza de tus monstruos. Además, cada Chainmon se distingue por sus números de serie, determinados por el orden de captura de los jugadores a nivel global, y viene en 3 variaciones visuales diferentes:
+
+*   Normal
+
+*   Sombra
+
+*   Cristal
+
+La variación de Cristal solo estuvo disponible durante la campaña de Kickstarter, y las variantes de Sombra solo se pueden obtener a través de mecánicas de juego especiales. Los jugadores pueden personalizar sus Chainmons con diferentes disfraces, habilidades y movimientos, lo que les permite crear estrategias únicas y desarrollar sus propios estilos de juego.
+
+Además, todos los objetos en el juego, como disfraces, elementos de juego y Chainmons, son NFT que pertenecen y son controlados por los usuarios. Los jugadores pueden intercambiarlos en el mercado de NFT o utilizarlos en el juego para mejorar sus monstruos y progresar en la historia del juego.
+
+**Conclusión**
+
+Chainmonsters es un juego emocionante y único en su clase que ofrece una experiencia de juego tradicional combinada con tecnología de blockchain. Los jugadores pueden capturar, luchar, intercambiar y competir con monstruos digitales únicos en un mundo masivo y en constante evolución. La integración con Flow permite a los jugadores ser dueños y controlar todos los objetos del juego, lo que hace que la experiencia de juego sea más atractiva y personalizada. Con una hoja de ruta sólida y un equipo experimentado detrás del proyecto, Chainmonsters es un juego que vale la pena probar para todos los amantes de los juegos y la tecnología de blockchain.
+
+
+
