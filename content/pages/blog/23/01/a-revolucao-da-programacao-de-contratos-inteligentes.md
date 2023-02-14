@@ -135,6 +135,7 @@ metaDescription: null
 socialImage: null
 date: '2023-01-05'
 author: content/data/team/people/diego-fornalha.json
+excerptBr: '##'
 ---
 Por meio do uso de recursos, o idioma de programação do Flow, o Cadence, traz novas ideias emocionantes para o mundo dos contratos inteligentes baseados em registros.
 
