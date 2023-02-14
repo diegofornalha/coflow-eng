@@ -20,7 +20,7 @@ media:
   altText: Post image
 bottomSections:
   - type: CtaSection
-    colors: colors-d
+    colors: colors-e
     elementId: ''
     backgroundSize: full
     title: Let's do this
