@@ -3,7 +3,7 @@ layout: PostLayout
 metaTitle: 5 passos para se tornar um dev Web3
 addTitleSuffix: true
 metaTags: []
-title: '5 passos para se tornar um dev Web3 '
+title: 5 pasos para convertirse en un desarrollador Web3
 colors: colors-d
 excerpt: >-
   O Web3 é a próxima geração da web, descentralizada e baseada em blockchain.
