@@ -12,7 +12,7 @@ export default function MyApp({ Component, pageProps }) {
     const [linksTranslations] = React.useState(translatedLinks);
 
     function translateLink(input) {
-        if (input in linksTranslations) return locale === 'pt' ? linksTranslations[input] : input;
+        if (input in linksTranslations) return locale === 'en' ? linksTranslations[input] : input;
         return input;
     }
 
