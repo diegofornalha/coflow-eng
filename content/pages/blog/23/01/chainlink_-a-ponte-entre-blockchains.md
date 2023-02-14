@@ -121,3 +121,17 @@ title: 'Chainlink: El puente entre Blockchains'
 author: content/data/team/people/diego-fornalha.json
 excerpt: Conoce la historia y características de este increíble puente.
 ---
+
+
+
+## Cómo la tecnología garantiza transparencia, confianza y eficiencia en contratos inteligentes
+
+La descentralización es la gran diferencia entre blockchains y tecnologías establecidas. Sin una autoridad única gobernando la red, la comunicación con sistemas externos es un gran desafío. ¡Pero no te preocupes, Chainlink está aquí para ayudar!
+Se conoce como un "oráculo", sirviendo como intermediario entre blockchains y el mundo exterior, transmitiendo información de fuera para contratos inteligentes. Imagina una aplicación de seguro basada en blockchain que paga a sus asegurados en función de condiciones climáticas específicas. El contrato inteligente que activa el pago garantiza resultados confiables, pero necesita una forma segura de verificar datos climáticos externos, y ahí es donde entra Chainlink.
+Actúa como un oráculo, proporcionando datos para contratos inteligentes sin sacrificar la naturaleza descentralizada de la blockchain. Esto es posible porque los nodos oráculo de Chainlink operan de forma independiente en un marco de reputación que fomenta la disponibilidad y la seguridad.
+Pero, ¿por qué las empresas deberían interesarse en ella? Chainlink ofrece tres grandes ventajas: la descentralización progresiva de los procesos existentes para aumentar la transparencia y la confianza, una capa de abstracción de blockchain que permite la comunicación bidireccional con cualquier entorno de blockchain a través de una sola integración y una solución general para contratos inteligentes avanzados.
+¿Y si la adopción de la blockchain aumenta rápidamente? No hay problema. Chainlink es altamente generalizada y es compatible con varios tipos de blockchains, lo que significa que puede escalarse según las necesidades del usuario. Además, ya ha sido integrada en blockchains de alta capacidad y soluciones de capa 2, como Matic Network y Binance Smart Chain.
+En resumen, Chainlink es la elección correcta para empresas que desean aprovechar las ventajas de la blockchain sin sacrificar la confianza y la eficiencia. ¡Ven y conoce más sobre este increíble puente!
+
+
+
