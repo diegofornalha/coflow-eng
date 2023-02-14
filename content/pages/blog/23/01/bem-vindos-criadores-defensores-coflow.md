@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: 'Bem-vindos, Criadores, Defensores CoFlow'
 titlePt: 'Bem-vindos, Criadores, Defensores CoFlow'
 colors: colors-d
 date: '2023-01-12'
