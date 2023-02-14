@@ -10,7 +10,7 @@
             {
                 "type": "Link",
                 "label": "Início",
-                "altText": "Inicio",
+                "altText": "Início",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",
