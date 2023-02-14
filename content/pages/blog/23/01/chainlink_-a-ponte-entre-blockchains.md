@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: 'Chainlink: A ponte entre Blockchains'
 titlePt: 'Chainlink: A ponte entre Blockchains'
 colors: colors-d
 date: '2023-01-14'
