@@ -35,7 +35,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Join Discord
+        label: Servidor no Discord
         altText: Entre no Discod
         url: 'https://discord.com/invite/hT8EpC5mUN'
         showIcon: true
