@@ -135,4 +135,7 @@ excerptBr: >-
   Como projetar uma estrutura de dados escalável e segura para atender às
   necessidades do negócio
 title: La revolución de la programación de contratos inteligentes
+excerpt: >-
+  Cómo diseñar una estructura de datos escalable y segura para satisfacer las
+  necesidades del negocio
 ---
