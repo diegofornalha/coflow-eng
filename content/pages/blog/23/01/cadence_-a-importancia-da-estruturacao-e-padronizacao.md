@@ -130,22 +130,17 @@ excerptBr: >-
 ---
 Hoy quiero hablar sobre algo importante para todos los desarrolladores de contratos inteligentes: la organización y estandarización de su código.
 
-
-Muchos de ustedes ya deben saber que es fundamental mantener su código claro y organizado, especialmente cuando se trata de contratos inteligentes. Esto incluye cómo nombra los campos y funciones, cómo organiza las definiciones y estructuras dentro de un contrato o transacción, y la calidad de la documentación del código.&#x20;
+Muchos de ustedes ya deben saber que es fundamental mantener su código claro y organizado, especialmente cuando se trata de contratos inteligentes. Esto incluye cómo nombra los campos y funciones, cómo organiza las definiciones y estructuras dentro de un contrato o transacción, y la calidad de la documentación del código.
 
 Todos estos aspectos son muy importantes y escribiré un post en el futuro para compartir mis opiniones y consejos sobre cómo organizar el código de Cadence de manera eficiente.
-
 
 Pero hoy quiero hablar sobre algo un poco más alto nivel: cómo organizar los archivos de su proyecto en su repositorio de Github.
 Si está construyendo un proyecto que espera que otras personas quieran usar, colaborar y, eventualmente, extender o imitar, es fundamental que haga su proyecto lo más accesible posible. Una parte de esto es cómo organiza el repositorio de su proyecto.
 
-
 Los proyectos construidos en Ethereum tienen el framework Truffle, que es una herramienta para desarrolladores que ayuda a configurar fácilmente los proyectos, probarlos e implementarlos. En Flow, todavía no tenemos una solución automatizada para esto, ¡pero esperamos tenerla pronto! Tenemos un equipo increíble trabajando en Flow CLI que resuelve algunos de estos problemas, y hay algunos esfuerzos de la comunidad para simplificar la experiencia del desarrollador en Flow.
-
 
 Es importante que la comunidad de desarrolladores se alinee con estándares de flujo de trabajo de desarrollo, para que las prácticas puedan ser estandarizadas, repetidas y mejoradas, para que todos puedan beneficiarse.
 
-
-Mientras tanto, tenemos que gestionar esto solos, y creo que encontré una forma de hacerlo. Una de las maneras de gestionar esta situación es aplicando técnicas de gestión de proyectos, como la definición de objetivos claros, la creación de un cronograma detallado y el establecimiento de responsabilidades claras para cada miembro del equipo.&#x20;
+Mientras tanto, tenemos que gestionar esto solos, y creo que encontré una forma de hacerlo. Una de las maneras de gestionar esta situación es aplicando técnicas de gestión de proyectos, como la definición de objetivos claros, la creación de un cronograma detallado y el establecimiento de responsabilidades claras para cada miembro del equipo.
 
 Además, es importante establecer una comunicación clara y eficiente para garantizar que todos estén alineados y trabajando hacia el mismo objetivo.
