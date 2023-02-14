@@ -21,7 +21,7 @@ sections:
     title: ¡Crea tu mundo!
     titlePt: Crie seu Mundo!
     text: |
-      Everything and more about Flow!
+      ¡Todo y más sobre Flow!
     textPt: |
       Tudo e mais um pouco sobre Flow!
     actions:
