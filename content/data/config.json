@@ -39,16 +39,6 @@
                 "dropdownLinks": [
                     {
                         "type": "Link",
-                        "label": "2023",
-                        "altText": "Link to 2023 team's page",
-                        "url": "/registro/2023",
-                        "showIcon": false,
-                        "icon": "arrowRight",
-                        "iconPosition": "right",
-                        "elementId": ""
-                    },
-                    {
-                        "type": "Link",
                         "label": "Advocates",
                         "altText": "Advocates",
                         "url": "https://flow.coflow.com.br/flow-brasil-embaixador-aprendiz/",
