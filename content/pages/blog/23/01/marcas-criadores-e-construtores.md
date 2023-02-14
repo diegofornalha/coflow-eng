@@ -65,6 +65,9 @@ markdown_content_pt: >
   desenvolvedores.
 metaDescription: null
 socialImage: null
+excerptBr: >-
+  Aproveite a nova economia de bens digitais e seja um dos primeiros a entrar em
+  um mercado já valioso
 ---
  Descubra como aproveitar as novas oportunidades de negócios geradas pelos bens digitais baseados em blockchain e seja um dos primeiros a entrar em um mercado já avaliado em bilhões de dólares
 
