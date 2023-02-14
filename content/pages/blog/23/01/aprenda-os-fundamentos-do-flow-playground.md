@@ -3,7 +3,7 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: Aprenda os fundamentos do Flow Playground
+title: Aprende los fundamentos de Flow Playground
 titlePt: Aprenda os fundamentos do Flow Playground
 colors: colors-d
 excerptFr: >-
