@@ -74,4 +74,5 @@ markdown_content_pt: "O Cadence é uma linguagem fascinante e eu quero fazer tud
 metaDescription: null
 socialImage: null
 excerptBr: Vamos dar os primeiros passos juntos e tornar o aprendizado divertido
+author: content/data/team/people/diego-fornalha.json
 ---
