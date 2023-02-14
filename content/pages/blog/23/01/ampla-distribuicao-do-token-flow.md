@@ -68,4 +68,5 @@ markdown_content_pt: "A distribuição do token nativo é fundamental para a des
 excerptBr: >-
   A distribuição do token nativo da Flow é importante para a descentralização da
   rede e o seu sucesso a longo prazo.
+author: content/data/team/people/diego-fornalha.json
 ---
