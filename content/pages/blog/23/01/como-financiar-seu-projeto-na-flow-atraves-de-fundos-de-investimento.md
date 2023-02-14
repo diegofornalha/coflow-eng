@@ -116,7 +116,6 @@ metaDescription: >-
 socialImage: >-
   /images/23/01/Como financiar Seu Projeto na Flow Através de Fundos de
   Investimento  diegofornalha.png
-author: content/data/team/hilary-ouse.json
 date: '2023-01-19'
 titlePt: Como financiar Seu Projeto na Flow Através de Fundos de Investimento
 excerptBr: >-
