@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: 'A Revolução Financeira: O DeFi pode mudar tudo'
 titlePt: 'A Revolução Financeira: O DeFi pode mudar tudo'
 colors: colors-d
 excerpt: >-
