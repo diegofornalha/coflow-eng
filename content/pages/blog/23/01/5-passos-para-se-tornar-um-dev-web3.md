@@ -45,43 +45,7 @@ media:
     aproveitar ao máximo as oportunidades neste campo em rápido crescimento.
   width: 800
   height: 450
-bottomSections:
-  - type: FeaturedPostsSection
-    colors: colors-d
-    elementId: ''
-    showDate: true
-    showAuthor: false
-    showExcerpt: false
-    showReadMoreLink: true
-    readMoreLinkLabel: Saiba Mais
-    variant: variant-d
-    actions:
-      - type: Link
-        label: Todas as Postagens
-        altText: Todas as Postagens
-        url: /blog
-        showIcon: true
-        icon: arrowRight
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    subtitle: ''
-    posts:
-      - >-
-        content/pages/blog/5-dicas-pra-quem-quer-aprender-sobre-a-blockchain-flow.md
+bottomSections: []
 metaDescription: >-
   O Web3 é a próxima geração da web, descentralizada e baseada em blockchain.
   Para se tornar um desenvolvedor Web3 de sucesso, é importante dominar os
