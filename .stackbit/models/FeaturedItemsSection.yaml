@@ -40,7 +40,7 @@ fields:
       - type: FeaturedItem
         title: Item Title
         titlePt: Titre de l'article
-        text: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.'
+        text: ''
         textPt: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.'
         featuredImage:
           type: ImageBlock
