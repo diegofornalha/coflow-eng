@@ -36,3 +36,36 @@ excerpt: >-
   Aprende a desplegar un contrato y a interactuar con contratos desplegados
   usando transacciones y scripts.
 ---
+
+
+
+Flow Playground es un editor y emulador construido directamente en el navegador. Con Playground, los desarrolladores pueden empezar a aprender a escribir contratos inteligentes en Cadence e interactuar con una blockchain local Flow emulada usando scripts y transacciones.
+No es necesario saber Cadence para seguir el tutorial. Playground tiene modelos pre-cargados que usaremos.
+El objetivo de este tutorial es ayudarte a familiarizarte con Flow Playground y cómo funciona 🏆
+🗣️ FYI: según la documentación de Flow, se recomienda usar Google Chrome como navegador.
+
+Cuentas
+Flow Playground comienza con cinco cuentas estándar. Cada cuenta tiene una dirección diferente que comienza con 0x01. Las cuentas se encuentran en la barra lateral izquierda.
+
+Desplegando un contrato
+Para desplegar un contrato, primero debes seleccionar una cuenta. Las cuentas se encuentran en el lado izquierdo y están etiquetadas con la dirección, por ejemplo, 0x01, 0x02.
+Selecciona la cuenta 0x01. Esta es la cuenta que usaremos para desplegar nuestro contrato.
+A la derecha de las cuentas está la sección de contrato. Verás un contrato pre-cargado llamado HelloWorld.cdc. Playground se carga con un modelo de contrato, por lo que no es necesario crear el nuestro propio contrato.
+Hay muchos comentarios, pero por una buena razón, ya que los comentarios explican exactamente lo que está sucediendo con el código. Dos puntos importantes, nuestra variable de saludo se establece como "Hola Mundo" y la función hello() devuelve la variable de saludo.
+Desplegaremos el contrato en la blockchain local Flow emulada. Para hacer esto, haz clic en el botón verde Deploy ubicado en la parte derecha de la pantalla.
+Después de desplegar el contrato, la consola imprimirá Deployed Contract To: 0x01 para indicar que el contrato se ha desplegado con éxito.
+Si ves este mensaje, ¡bien hecho! Has desplegado un contrato con éxito en la cuenta 0x01!
+
+Transacciones
+Las transacciones son una forma de interactuar con la blockchain Flow. Las transacciones se utilizan para hacer cambios en la blockchain y tienen un costo que se debe pagar para ejecutarlas.
+
+En la parte izquierda de la pantalla, debajo de Cuentas, verás Plantillas de Transacción. Selecciona la plantilla de transacción llamada "Transaction". Aparecerá una transacción pre-cargada.
+Sin entrar en muchos detalles con Cadence, esta transacción registrará la variable de saludo del contrato HelloWorld que desplegamos en la cuenta 0x01. Recuerda, la variable de saludo en el contrato HelloWorld era "Hello World".
+Verás que aparece una nueva caja en la parte derecha de la pantalla: Asignatarios de Transacción. Elegirás la cuenta para firmar la transacción. En este caso, dejaremos la cuenta predeterminada como 0x01.
+Haz clic en el botón verde Enviar.
+Al hacer clic en el botón Enviar, los resultados de la transacción se mostrarán en la consola:
+¡Felicidades! ¡Acabas de ejecutar una transacción!
+
+Scripts
+Los scripts se utilizan para leer datos (no para cambiar datos) de la blockchain y no hay costos
+
