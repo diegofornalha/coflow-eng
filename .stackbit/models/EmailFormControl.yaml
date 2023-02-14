@@ -11,7 +11,7 @@ fields:
     label: Name
   - type: string
     name: label
-    label: Label [EN]
+    label: Label [BR]
     default: Name
   - type: string
     name: labelFr
@@ -23,7 +23,7 @@ fields:
     default: false
   - type: string
     name: placeholder
-    label: Placeholder text [EN]
+    label: Placeholder text [BR]
     default: Your name
   - type: string
     name: placeholderFr

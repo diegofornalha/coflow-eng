@@ -20,7 +20,7 @@ fields:
     default: Posts
   - type: string
     name: subtitle
-    label: Subtitle [EN]
+    label: Subtitle [BR]
     default: Blog posts
   - type: string
     name: subtitlePt

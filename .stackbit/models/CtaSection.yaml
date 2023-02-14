@@ -25,7 +25,7 @@ fields:
     default: full
   - type: string
     name: title
-    label: Title [EN]
+    label: Title [BR]
     default: "Let's do this"
   - type: string
     name: titlePt
@@ -33,7 +33,7 @@ fields:
     default: 'Allons-y !'
   - type: markdown
     name: text
-    label: Text [EN]
+    label: Text [BR]
     default: |-
       The Stackbit theme is flexible and scalable to every need. It can manage any layout and any screen.
   - type: markdown

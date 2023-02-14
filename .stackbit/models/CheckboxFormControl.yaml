@@ -13,7 +13,7 @@ fields:
     required: true
   - type: string
     name: label
-    label: Label [EN]
+    label: Label [BR]
     default: 'Sign me up to receive updates'
   - type: string
     name: labelFr

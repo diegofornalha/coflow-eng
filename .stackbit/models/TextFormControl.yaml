@@ -13,7 +13,7 @@ fields:
     default: home-address
   - type: string
     name: label
-    label: Label [EN]
+    label: Label [BR]
     default: Home address
   - type: string
     name: labelFr
@@ -25,7 +25,7 @@ fields:
     default: false
   - type: string
     name: placeholder
-    label: Placeholder text [EN]
+    label: Placeholder text [BR]
     default: Your home address
   - type: string
     name: placeholderFr

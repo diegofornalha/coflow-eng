@@ -15,7 +15,7 @@ fieldGroups:
 fields:
   - type: string
     name: title
-    label: Title [EN]
+    label: Title [BR]
     default: Gallery
   - type: string
     name: titlePt
@@ -23,7 +23,7 @@ fields:
     default: Galerie
   - type: string
     name: subtitle
-    label: Subtitle [EN]
+    label: Subtitle [BR]
     default: This is the subtitle
   - type: string
     name: subtitlePt

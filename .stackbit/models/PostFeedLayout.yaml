@@ -8,7 +8,7 @@ extends:
 fields:
   - type: string
     name: title
-    label: Title [EN]
+    label: Title [BR]
     default: This is a page title
   - type: string
     name: titlePt

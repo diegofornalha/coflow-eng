@@ -10,7 +10,7 @@ fieldGroups:
 fields:
   - type: string
     name: title
-    label: Title [EN]
+    label: Title [BR]
     default: This is a blog post title
     required: true
   - type: string
@@ -61,7 +61,7 @@ fields:
       - Person
   - type: string
     name: excerpt
-    label: Excerpt [EN]
+    label: Excerpt [BR]
     default: Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer condimentum dignissim justo vel faucibus.
   - type: string
     name: excerptFr

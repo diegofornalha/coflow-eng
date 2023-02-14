@@ -13,7 +13,7 @@ fields:
     default: city
   - type: string
     name: label
-    label: Label [EN]
+    label: Label [BR]
     default: City
   - type: string
     name: labelFr

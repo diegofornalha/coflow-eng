@@ -25,7 +25,7 @@ fields:
     default: full
   - type: string
     name: title
-    label: Title [EN]
+    label: Title [BR]
   - type: string
     name: titlePt
     label: Title [PT]
