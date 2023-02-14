@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: Baixa Inflação Monetária do token flow
 addTitleSuffix: true
 metaTags: []
-title: Baixa Inflação Monetária do token flow
 colors: colors-a
 excerpt: >-
   Blockchains como a Flow são alimentadas por comunidades descentralizadas que
