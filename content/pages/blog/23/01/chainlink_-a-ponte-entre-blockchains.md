@@ -6,7 +6,6 @@ metaTags: []
 titlePt: 'Chainlink: A ponte entre Blockchains'
 colors: colors-d
 date: '2023-01-14'
-excerpt: Conheça a história e as características desta ponte incrível.
 excerptFr: Conheça a história e as características desta ponte incrível.
 featuredImage:
   type: ImageBlock
