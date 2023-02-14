@@ -21,7 +21,7 @@ excerpt: >-
   Cadence antes de implantar seus projetos na rede principal.
 featuredImage:
   type: ImageBlock
-  url: /images/capas/Controle básico de acesso em Cadence diegofornalha.png
+  url: /images/23/01/Controle básico de acesso em Cadence diegofornalha.png
   altText: Controle básico de acesso em Cadence
   caption: >-
     O controle de acesso em contratos inteligentes escritos em Cadence, uma
@@ -41,7 +41,7 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: /images/capas/Controle básico de acesso em Cadence diegofornalha.png
+  url: /images/23/01/Controle básico de acesso em Cadence diegofornalha.png
   altText: Controle básico de acesso em Cadence
   caption: >-
     O controle de acesso em contratos inteligentes escritos em Cadence, uma
@@ -73,7 +73,7 @@ metaDescription: >-
   outros contratos com base em suas capacidades específicas. É recomendado que
   os desenvolvedores tenham um entendimento completo do controle de acesso em
   Cadence antes de implantar seus projetos na rede principal.
-socialImage: /images/capas/Controle básico de acesso em Cadence diegofornalha.png
+socialImage: /images/23/01/Controle básico de acesso em Cadence diegofornalha.png
 ---
 ![https://miro.medium.com/max/347/1\*M7p33-EGZPFdKcX7oR6mDg.jpeg](https://miro.medium.com/max/347/1\*M7p33-EGZPFdKcX7oR6mDg.jpeg)
 

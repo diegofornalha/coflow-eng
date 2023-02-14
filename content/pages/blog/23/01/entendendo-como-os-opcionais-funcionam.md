@@ -10,14 +10,14 @@ excerpt: Como evitar e corrigir erros de referências vazias em seu código
 excerptFr: Como evitar e corrigir erros de referências vazias em seu código
 featuredImage:
   type: ImageBlock
-  url: /images/CAPAS-Entendendo como os opcionais funcionam.png
+  url: /images/23/01/CAPAS-Entendendo como os opcionais funcionam.png
   altText: Como evitar e corrigir erros de referências vazias em seu código
   caption: Como evitar e corrigir erros de referências vazias em seu código
   width: 800
   height: 450
 media:
   type: ImageBlock
-  url: /images/CAPAS-Entendendo como os opcionais funcionam.png
+  url: /images/23/01/CAPAS-Entendendo como os opcionais funcionam.png
   altText: Como evitar e corrigir erros de referências vazias em seu código
   caption: Como evitar e corrigir erros de referências vazias em seu código
   width: 800

@@ -11,14 +11,14 @@ excerpt: Oferecendo uma experiência única
 excerptFr: Oferecendo uma experiência única
 featuredImage:
   type: ImageBlock
-  url: /images/CAPAS-Flow Smart Contract Team.png
+  url: /images/23/01/CAPAS-Flow Smart Contract Team.png
   altText: Flow Smart Contract Team
   caption: Flow Smart Contract Team
   width: 800
   height: 450
 media:
   type: ImageBlock
-  url: /images/CAPAS-Flow Smart Contract Team.png
+  url: /images/23/01/CAPAS-Flow Smart Contract Team.png
   altText: Flow Smart Contract Team
   caption: Flow Smart Contract Team
   width: 800

@@ -57,14 +57,14 @@ excerptFr: >-
   sua audiência
 featuredImage:
   type: ImageBlock
-  url: /images/CAPAS-bem vindos criadores e defensores.png
+  url: /images/23/01/CAPAS-bem vindos criadores e defensores.png
   altText: Bem vindos Criadores Defensores CoFlow
   caption: Bem vindos Criadores Defensores CoFlow
   width: 800
   height: 450
 media:
   type: ImageBlock
-  url: /images/CAPAS-bem vindos criadores e defensores.png
+  url: /images/23/01/CAPAS-bem vindos criadores e defensores.png
   altText: Bem vindos Criadores Defensores CoFlow
   caption: Bem vindos Criadores Defensores CoFlow
   width: 800

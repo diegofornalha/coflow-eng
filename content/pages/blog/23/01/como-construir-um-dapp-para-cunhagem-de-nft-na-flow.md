@@ -18,7 +18,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: >-
-    /images/capas/Como construir um Dapp para cunhagem de NFT na Flow
+    /images/23/01/Como construir um Dapp para cunhagem de NFT na Flow
     diegofornalha.png
   altText: Como construir um Dapp para cunhagem de NFT na Flow
   caption: >-
@@ -36,7 +36,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: >-
-    /images/capas/Como construir um Dapp para cunhagem de NFT na Flow
+    /images/23/01/Como construir um Dapp para cunhagem de NFT na Flow
     diegofornalha.png
   altText: Como construir um Dapp para cunhagem de NFT na Flow
   caption: >-
@@ -63,7 +63,7 @@ metaDescription: >-
   Depois de configurar a conta, você poderá implantar seu contrato inteligente
   no blockchain Flow.
 socialImage: >-
-  /images/capas/Como construir um Dapp para cunhagem de NFT na Flow
+  /images/23/01/Como construir um Dapp para cunhagem de NFT na Flow
   diegofornalha.png
 title: Como construir um Dapp para cunhagem de NFT na Flow
 author: content/data/team/hilary-ouse.json
@@ -563,7 +563,7 @@ Vários segundos depois de clicar em Aprovar, devemos receber uma mensagem de qu
 
 Aqui está um link para o nosso dapp em ação:
 
-[https://s1.gifyu.com/images/capas/flow_tutorial-min.gif](https://s1.gifyu.com/images/capas/flow_tutorial-min.gif)
+[https://s1.gifyu.com/images/23/01/flow_tutorial-min.gif](https://s1.gifyu.com/images/23/01/flow_tutorial-min.gif)
 
 Todo o código fonte deste projeto pode ser encontrado em [este repositório](https://github.com/paul-mcaviney/flow-nft-minting-dapp-project).
 

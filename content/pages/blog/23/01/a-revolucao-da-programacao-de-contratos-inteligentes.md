@@ -14,14 +14,14 @@ excerptFr: >-
   necessidades do negócio
 featuredImage:
   type: ImageBlock
-  url: /images/CAPAS-a revolução da programação de contratos inteligentes.png
+  url: /images/23/01/CAPAS-a revolução da programação de contratos inteligentes.png
   altText: A revolução da programação de contratos inteligentes
   caption: A revolução da programação de contratos inteligentes
   width: 800
   height: 450
 media:
   type: ImageBlock
-  url: /images/CAPAS-a revolução da programação de contratos inteligentes.png
+  url: /images/23/01/CAPAS-a revolução da programação de contratos inteligentes.png
   altText: A revolução da programação de contratos inteligentes
   caption: A revolução da programação de contratos inteligentes
   width: 800

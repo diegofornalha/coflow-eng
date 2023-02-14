@@ -14,14 +14,14 @@ excerptFr: >-
   uma comunicação eficiente para superar obstáculos e atingir sucesso.
 featuredImage:
   type: ImageBlock
-  url: /images/CAPAS-Cadence a importância da estruturação e padronização.png
+  url: /images/23/01/CAPAS-Cadence a importância da estruturação e padronização.png
   altText: ' Cadence: a importância da estruturação e padronização'
   caption: ' Cadence: a importância da estruturação e padronização'
   width: 800
   height: 450
 media:
   type: ImageBlock
-  url: /images/CAPAS-Cadence a importância da estruturação e padronização.png
+  url: /images/23/01/CAPAS-Cadence a importância da estruturação e padronização.png
   altText: ' Cadence: a importância da estruturação e padronização'
   caption: ' Cadence: a importância da estruturação e padronização'
   width: 800

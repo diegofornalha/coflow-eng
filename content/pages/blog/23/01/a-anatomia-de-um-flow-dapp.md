@@ -54,7 +54,7 @@ bottomSections:
         content/pages/blog/como-construir-um-dapp-para-cunhagem-de-nft-na-flow.md
       - content/pages/blog/como-a-programacao-orientada-a-recursos-funciona.md
 metaDescription: null
-socialImage: /images/capas/a anatomia da uma dapp diego fornalha.png
+socialImage: /images/23/01/a anatomia da uma dapp diego fornalha.png
 date: '2023-01-01'
 ---
 O diagrama abaixo descreve os componentes de um dapp típico construído na blockchain Flow. Embora muitos dapps sejam estruturados de maneira diferente, essa arquitetura apresenta conceitos fundamentais que serão discutidos ao longo deste guia.

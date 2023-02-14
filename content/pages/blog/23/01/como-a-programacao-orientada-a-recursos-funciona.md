@@ -22,7 +22,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: >-
-    /images/capas/Como a programação orientada a recursos funciona
+    /images/23/01/Como a programação orientada a recursos funciona
     diegofornalha.png
   altText: Como a programação orientada a recursos funciona?
   caption: >-
@@ -46,7 +46,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: >-
-    /images/capas/Como a programação orientada a recursos funciona
+    /images/23/01/Como a programação orientada a recursos funciona
     diegofornalha.png
   altText: 'Como a programação orientada a recursos funciona? '
   caption: >-

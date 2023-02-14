@@ -20,7 +20,7 @@ excerpt: >-
   recursos e consultoria para projetos qualificados.
 featuredImage:
   type: ImageBlock
-  url: /images/capas/Apresentando o Flow Playground diego fornalha.png
+  url: /images/23/01/Apresentando o Flow Playground diego fornalha.png
   altText: Apresentando o Flow Playground
   caption: >-
     O Flow é uma plataforma de blockchain de alto desempenho projetada para
@@ -40,7 +40,7 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: /images/capas/Apresentando o Flow Playground diego fornalha.png
+  url: /images/23/01/Apresentando o Flow Playground diego fornalha.png
   altText: Apresentando o Flow Playground
   caption: >-
     O Flow é uma plataforma de blockchain de alto desempenho projetada para
@@ -72,7 +72,7 @@ metaDescription: >-
   pelo público em geral. O Flow Alpha é um programa de parceiros que oferece
   acesso exclusivo a um canal de Discord, oportunidades de co-marketing,
   recursos e consultoria para projetos qualificados.
-socialImage: /images/capas/Apresentando o Flow Playground diego fornalha.png
+socialImage: /images/23/01/Apresentando o Flow Playground diego fornalha.png
 author: content/data/team/hilary-ouse.json
 date: '2023-01-06'
 ---

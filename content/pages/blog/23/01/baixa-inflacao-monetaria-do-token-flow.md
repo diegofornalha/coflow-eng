@@ -21,7 +21,7 @@ excerpt: >-
   estão usando pelos serviços de processamento de transações.
 featuredImage:
   type: ImageBlock
-  url: /images/capas/Baixa Inflação Monetária do token flow diegofornalha.png
+  url: /images/23/01/Baixa Inflação Monetária do token flow diegofornalha.png
   altText: Baixa Inflação Monetária do token flow
   caption: >-
     Blockchains como a Flow são alimentadas por comunidades descentralizadas que
@@ -41,7 +41,7 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: /images/capas/Baixa Inflação Monetária do token flow diegofornalha.png
+  url: /images/23/01/Baixa Inflação Monetária do token flow diegofornalha.png
   caption: >-
     Blockchains como a Flow são alimentadas por comunidades descentralizadas que
     executam o hardware do computador (nós validadores) que suportam a atividade
@@ -74,7 +74,7 @@ metaDescription: >-
   compensar a inflação futura indefinidamente. A Flow cobra taxas de
   processamento e taxas de cálculo dos usuários ou dos aplicativos que eles
   estão usando pelos serviços de processamento de transações.
-socialImage: /images/capas/Baixa Inflação Monetária do token flow diegofornalha.png
+socialImage: /images/23/01/Baixa Inflação Monetária do token flow diegofornalha.png
 date: '2022-12-04'
 ---
 Blockchains como a Flow são alimentados por comunidades descentralizadas que executam o hardware do computador (“nós validadores”) que suportam a atividade e protegem o valor dos ativos na rede.

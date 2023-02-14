@@ -19,7 +19,7 @@ excerpt: >-
   usar criptomoedas, mas não sabe por onde começar.
 featuredImage:
   type: ImageBlock
-  url: /images/capas/FUSD o stablecoin da flow Blockchain diegofornalha.png
+  url: /images/23/01/FUSD o stablecoin da flow Blockchain diegofornalha.png
   altText: FUSD o stablecoin da flow Blockchain
   caption: >-
     O FUSD é um stablecoin nativo da plataforma de blockchain Flow. Ele é
@@ -36,7 +36,7 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: /images/capas/FUSD o stablecoin da flow Blockchain diegofornalha.png
+  url: /images/23/01/FUSD o stablecoin da flow Blockchain diegofornalha.png
   altText: FUSD o stablecoin da flow Blockchain
   caption: >-
     O FUSD é um stablecoin nativo da plataforma de blockchain Flow. Ele é
@@ -94,7 +94,7 @@ metaDescription: >-
   Instituições financeiras e provedores de carteira podem oferecer acesso
   fiduciário globalmente ao amplo ecossistema Flow, o que é ótimo para quem quer
   usar criptomoedas, mas não sabe por onde começar.
-socialImage: /images/capas/FUSD o stablecoin da flow Blockchain diegofornalha.png
+socialImage: /images/23/01/FUSD o stablecoin da flow Blockchain diegofornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 ![Image description](https://web3dev-forem-production.s3.amazonaws.com/uploads/articles/7nmmkybv25z5puzg02py.png)

@@ -16,7 +16,7 @@ excerpt: >-
   máximo as oportunidades neste campo em rápido crescimento.
 featuredImage:
   type: ImageBlock
-  url: /images/capas/5 passos para se tornar um dev Web3 DiegoFornalha.png
+  url: /images/23/01/5 passos para se tornar um dev Web3 DiegoFornalha.png
   caption: >-
     O Web3 é a próxima geração da web, descentralizada e baseada em blockchain.
     Para se tornar um desenvolvedor Web3 de sucesso, é importante dominar os
@@ -31,7 +31,7 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: /images/capas/5 passos para se tornar um dev Web3 DiegoFornalha.png
+  url: /images/23/01/5 passos para se tornar um dev Web3 DiegoFornalha.png
   altText: 5 passos para se tornar um dev Web3
   caption: >-
     O Web3 é a próxima geração da web, descentralizada e baseada em blockchain.
@@ -90,7 +90,7 @@ metaDescription: >-
   um uso específico, e ficar atualizado sobre as últimas tendências e
   tecnologias. Mantendo-se atualizado e especializado, você poderá aproveitar ao
   máximo as oportunidades neste campo em rápido crescimento.
-socialImage: /images/capas/5 passos para se tornar um dev Web3 DiegoFornalha.png
+socialImage: /images/23/01/5 passos para se tornar um dev Web3 DiegoFornalha.png
 author: content/data/team/hilary-ouse.json
 date: '2022-12-02'
 ---

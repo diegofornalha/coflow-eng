@@ -21,7 +21,7 @@ excerpt: >-
   longo prazo, a FLOW pode ser usada para participar da governança da rede.
 featuredImage:
   type: ImageBlock
-  url: /images/capas/Diego Fornalha Diversos casos de uso da flow blockchain.png
+  url: /images/23/01/Diego Fornalha Diversos casos de uso da flow blockchain.png
   altText: Diversos casos de uso da flow blockchain
   caption: >-
     O token FLOW é a moeda nativa da rede de blockchain Flow. Ele é usado para
@@ -41,7 +41,7 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: /images/capas/Diego Fornalha Diversos casos de uso da flow blockchain.png
+  url: /images/23/01/Diego Fornalha Diversos casos de uso da flow blockchain.png
   altText: Diversos casos de uso da flow blockchain
   caption: >-
     O token FLOW é a moeda nativa da rede de blockchain Flow. Ele é usado para
@@ -74,7 +74,7 @@ metaDescription: >-
   nome. A Flow também possui a capacidade de usar leilões de lote frequentes
   para garantir a segurança de trocas descentralizadas de tokens na rede. A
   longo prazo, a FLOW pode ser usada para participar da governança da rede.
-socialImage: /images/capas/Diego Fornalha Diversos casos de uso da flow blockchain.png
+socialImage: /images/23/01/Diego Fornalha Diversos casos de uso da flow blockchain.png
 author: content/data/team/hilary-ouse.json
 date: '2022-12-11'
 ---

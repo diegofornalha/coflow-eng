@@ -14,7 +14,7 @@ excerptFr: >-
   indústria financeira
 featuredImage:
   type: ImageBlock
-  url: /images/CAPAS-A Revolução Financeira O DeFi pode mudar tudo.png
+  url: /images/23/01/CAPAS-A Revolução Financeira O DeFi pode mudar tudo.png
   altText: >-
     Da agricultura ao blockchain: como a descentralização está transformando a
     indústria financeira
@@ -25,7 +25,7 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: /images/CAPAS-A Revolução Financeira O DeFi pode mudar tudo.png
+  url: /images/23/01/CAPAS-A Revolução Financeira O DeFi pode mudar tudo.png
   altText: >-
     Da agricultura ao blockchain: como a descentralização está transformando a
     indústria financeira

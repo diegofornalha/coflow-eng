@@ -20,7 +20,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: >-
-    /images/capas/Chainmonsters Um Crypto Game da Flow Blockchain Diego
+    /images/23/01/Chainmonsters Um Crypto Game da Flow Blockchain Diego
     Fornalha.png
   altText: Chainmonsters Um Crypto Game da Flow Blockchain
   caption: >-
@@ -40,7 +40,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: >-
-    /images/capas/Chainmonsters Um Crypto Game da Flow Blockchain Diego
+    /images/23/01/Chainmonsters Um Crypto Game da Flow Blockchain Diego
     Fornalha.png
   altText: Chainmonsters Um Crypto Game da Flow Blockchain
   caption: >-
@@ -71,7 +71,7 @@ metaDescription: >-
   integração fácil com o jogo e uma conta Flow anônima criada automaticamente
   para os jogadores.
 socialImage: >-
-  /images/capas/Chainmonsters Um Crypto Game da Flow Blockchain Diego
+  /images/23/01/Chainmonsters Um Crypto Game da Flow Blockchain Diego
   Fornalha.png
 author: content/data/team/hilary-ouse.json
 date: '2022-12-05'

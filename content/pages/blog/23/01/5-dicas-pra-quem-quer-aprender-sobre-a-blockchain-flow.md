@@ -16,7 +16,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: >-
-    /images/capas/5 Dicas pra quem quer aprender sobre a blockchain Flow
+    /images/23/01/5 Dicas pra quem quer aprender sobre a blockchain Flow
     diegofornalha.png
   altText: 5 Dicas pra quem quer aprender sobre a blockchain Flow
   caption: >-
@@ -32,7 +32,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: >-
-    /images/capas/5 Dicas pra quem quer aprender sobre a blockchain Flow
+    /images/23/01/5 Dicas pra quem quer aprender sobre a blockchain Flow
     diegofornalha.png
   altText: 5 Dicas pra quem quer aprender sobre a blockchain Flow
   caption: >-
@@ -86,7 +86,7 @@ metaDescription: >-
   linguagem de programação Cadence e participar da comunidade Flow e interagir
   com outros desenvolvedores.
 socialImage: >-
-  /images/capas/5 Dicas pra quem quer aprender sobre a blockchain Flow
+  /images/23/01/5 Dicas pra quem quer aprender sobre a blockchain Flow
   diegofornalha.png
 author: content/data/team/hilary-ouse.json
 date: '2022-12-01'

@@ -14,14 +14,14 @@ excerptFr: >-
   DApp na Blockchain Flow.
 featuredImage:
   type: ImageBlock
-  url: /images/CAPAS-Desenvolva com Cadence um DApp na Blockchain Flow.png
+  url: /images/23/01/CAPAS-Desenvolva com Cadence um DApp na Blockchain Flow.png
   altText: Desenvolva com Cadence um DApp na Blockchain Flow
   caption: Desenvolva com Cadence um DApp na Blockchain Flow
   width: 800
   height: 450
 media:
   type: ImageBlock
-  url: /images/CAPAS-Desenvolva com Cadence um DApp na Blockchain Flow.png
+  url: /images/23/01/CAPAS-Desenvolva com Cadence um DApp na Blockchain Flow.png
   altText: Desenvolva com Cadence um DApp na Blockchain Flow
   caption: Desenvolva com Cadence um DApp na Blockchain Flow
   width: 800

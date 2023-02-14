@@ -14,7 +14,7 @@ date: '2023-01-13'
 featuredImage:
   type: ImageBlock
   url: >-
-    /images/CAPAS-Gerenciamento de recursos e controle de acesso para contratos
+    /images/23/01/CAPAS-Gerenciamento de recursos e controle de acesso para contratos
     inteligentes seguros.png
   altText: >-
     Gerenciamento de recursos e controle de acesso para contratos inteligentes
@@ -27,7 +27,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: >-
-    /images/CAPAS-Gerenciamento de recursos e controle de acesso para contratos
+    /images/23/01/CAPAS-Gerenciamento de recursos e controle de acesso para contratos
     inteligentes seguros.png
   altText: >-
     Gerenciamento de recursos e controle de acesso para contratos inteligentes

@@ -23,7 +23,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: >-
-    /images/capas/Como financiar Seu Projeto na Flow Através de Fundos de
+    /images/23/01/Como financiar Seu Projeto na Flow Através de Fundos de
     Investimento  diegofornalha.png
   altText: Como financiar Seu Projeto na Flow Através de Fundos de Investimento
   caption: >-
@@ -46,7 +46,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: >-
-    /images/capas/Como financiar Seu Projeto na Flow Através de Fundos de
+    /images/23/01/Como financiar Seu Projeto na Flow Através de Fundos de
     Investimento  diegofornalha.png
   altText: Como financiar Seu Projeto na Flow Através de Fundos de Investimento
   caption: >-
@@ -83,7 +83,7 @@ metaDescription: >-
   aceleração de startups especializados em blockchain, bem como oportunidades de
   financiamento governamental e empresarial.
 socialImage: >-
-  /images/capas/Como financiar Seu Projeto na Flow Através de Fundos de
+  /images/23/01/Como financiar Seu Projeto na Flow Através de Fundos de
   Investimento  diegofornalha.png
 author: content/data/team/hilary-ouse.json
 date: '2022-12-09'

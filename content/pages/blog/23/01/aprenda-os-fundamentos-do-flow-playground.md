@@ -14,14 +14,14 @@ excerptFr: >-
   transações e scripts.
 featuredImage:
   type: ImageBlock
-  url: /images/CAPAS-Aprenda os fundamentos do Flow Playground.png
+  url: /images/23/01/CAPAS-Aprenda os fundamentos do Flow Playground.png
   altText: Aprenda os fundamentos do Flow Playground
   caption: Aprenda os fundamentos do Flow Playground
   width: 800
   height: 450
 media:
   type: ImageBlock
-  url: /images/CAPAS-Aprenda os fundamentos do Flow Playground.png
+  url: /images/23/01/CAPAS-Aprenda os fundamentos do Flow Playground.png
   altText: Aprenda os fundamentos do Flow Playground
   caption: Aprenda os fundamentos do Flow Playground
   width: 800

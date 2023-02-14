@@ -9,14 +9,14 @@ colors: colors-d
 date: '2023-01-14'
 featuredImage:
   type: ImageBlock
-  url: /images/CAPAS-Interagindo com Flow usando Ruby.png
+  url: /images/23/01/CAPAS-Interagindo com Flow usando Ruby.png
   altText: Interagindo com Flow usando Ruby
   caption: Interagindo com Flow usando Ruby
   width: 800
   height: 450
 media:
   type: ImageBlock
-  url: /images/CAPAS-Interagindo com Flow usando Ruby.png
+  url: /images/23/01/CAPAS-Interagindo com Flow usando Ruby.png
   altText: Interagindo com Flow usando Ruby
   caption: Interagindo com Flow usando Ruby
   width: 800

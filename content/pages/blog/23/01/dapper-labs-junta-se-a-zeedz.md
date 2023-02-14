@@ -14,14 +14,14 @@ excerptFr: >-
   Cryptokitties, investe em jogo baseado em sustentabilidade
 featuredImage:
   type: ImageBlock
-  url: /images/CAPAS-Dapper Labs junta-se à Zeedz.png
+  url: /images/23/01/CAPAS-Dapper Labs junta-se à Zeedz.png
   altText: Dapper Labs junta-se à Zeedz
   caption: Dapper Labs junta-se à Zeedz
   width: 800
   height: 450
 media:
   type: ImageBlock
-  url: /images/CAPAS-Dapper Labs junta-se à Zeedz.png
+  url: /images/23/01/CAPAS-Dapper Labs junta-se à Zeedz.png
   altText: Dapper Labs junta-se à Zeedz
   caption: Dapper Labs junta-se à Zeedz
   width: 800
