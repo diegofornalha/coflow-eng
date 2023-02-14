@@ -3,7 +3,7 @@ layout: PostLayout
 metaTitle: 5 Dicas pra quem quer aprender sobre a blockchain Flow
 addTitleSuffix: true
 metaTags: []
-title: 5 Dicas pra quem quer aprender sobre a blockchain Flow
+title: 5 Consejos para quienes quieran aprender sobre la blockchain Flow
 colors: colors-a
 excerpt: >-
   O Flow é uma plataforma de blockchain que suporta contratos inteligentes e
