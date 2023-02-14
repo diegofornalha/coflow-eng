@@ -134,4 +134,5 @@ author: content/data/team/people/diego-fornalha.json
 excerptBr: >-
   Como projetar uma estrutura de dados escalável e segura para atender às
   necessidades do negócio
+title: La revolución de la programación de contratos inteligentes
 ---
