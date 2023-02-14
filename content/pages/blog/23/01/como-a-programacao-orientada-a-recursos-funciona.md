@@ -116,9 +116,6 @@ excerpt: >-
   específicamente tokens no fungibles (NFT), para empoderar a los creadores y
   permitirles monetizar y promover su trabajo de manera más eficiente.
 ---
-
-
-
 Entre las opciones de EVM o WASM, son una buena opción para activos digitales.
 
 Etiquetar algo como un "recurso" le informa al ambiente de programación que esta estructura de datos representa algo de valor tangible y que todo código que interactúe con esta estructura de datos necesita seguir una serie de reglas especiales que mantendrán el valor de esa estructura de datos.
@@ -136,6 +133,36 @@ Para aplicar correctamente estas reglas, se puede permitir que el activo más im
 La forma más fácil de pensar en Recursos es pensar en un ejemplo usando un token no fungible (NFT), como un CryptoKitty. Cada CryptoKitty es indivisible, no copiable y puede tener un único propietario directo, que corresponde directamente a la construcción de programación de Recursos.
 
 En un modelo de Ledger como Ethereum, todos los CryptoKitties se almacenan en un único contrato inteligente como una lista gigante. En el Modelo de Recursos, el propio Kitty se representa como un objeto de Recursos y se almacena directamente en la cuenta que lo posee.
+
+
+
+
+En el modelo de Recursos, el propio CryptoKitty se representa como un objeto de Recursos y se almacena directamente en la cuenta que lo posee.
+
+Al igual que en el mundo físico, la propiedad se representa por medio de la posesión. No es necesario buscar en un libro central para ver si se posee algo, se almacena en la cuenta o no.
+
+Y si se posee, se puede transferir o controlar de otra manera, y si no se posee, no hay forma de capturarlo o cambiarlo.
+
+```
+kotlinCopy code
+```
+
+*Nota: para mantener el enfoque en las diferencias entre los modelos de contabilidad y propiedad directa, los dos ejemplos anteriores ignoran cuestiones como el control de acceso, la definición de todas las variables y otros factores con los que el código activo tendría que preocuparse.*
+
+# **Por qué importan los recursos**
+
+Además de la ventaja obvia de incluir abstracciones para gestionar la propiedad, existen varios otros beneficios secundarios derivados del uso de Recursos, entre ellos:
+
+*   **Mayor seguridad**: El modelo de Recursos proporciona una forma más segura de gestionar la propiedad, evitando errores comunes que se producen con la gestión de datos en una estructura de contabilidad. Además, los recursos son más difíciles de duplicar o eliminar por error de programación o código malicioso.
+
+*   **Más eficiencia**: Con el modelo de Recursos, se evita la necesidad de consultar una base de datos centralizada cada vez que se requiere una actualización de propiedad o una transferencia de propiedad. En su lugar, los recursos se transfieren directamente entre las cuentas, lo que reduce la cantidad de operaciones necesarias y aumenta la eficiencia.
+
+*   **Mayor flexibilidad**: El modelo de Recursos permite una mayor flexibilidad en la gestión de la propiedad, lo que permite a los desarrolladores crear nuevos modelos de negocio y aplicaciones que no son posibles con una estructura de contabilidad tradicional.
+
+En resumen, el modelo de Recursos es una forma innovadora de gestionar la propiedad y los activos digitales en una estructura de contabilidad descentralizada. Al utilizar este modelo, los desarrolladores pueden crear aplicaciones más seguras, eficientes y flexibles que permiten a los usuarios tener un mayor control sobre sus propios activos digitales.
+
+
+
 
 
 
