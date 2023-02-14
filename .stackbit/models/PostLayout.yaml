@@ -11,12 +11,12 @@ fields:
   - type: string
     name: title
     label: Title [BR]
-    default: This is a blog post title
+    default: 
     required: true
   - type: string
     name: titlePt
     label: Title [ES]
-    default: Titre de blog
+    default: 
     required: true
   - type: enum
     name: colors
@@ -62,11 +62,11 @@ fields:
   - type: string
     name: excerpt
     label: Excerpt [BR]
-    default: Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer condimentum dignissim justo vel faucibus.
+    default: 
   - type: string
     name: excerptFr
     label: Excerpt [ES]
-    default: Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer condimentum dignissim justo vel faucibus.
+    default: 
   - type: model
     name: featuredImage
     label: Featured image
