@@ -45,38 +45,7 @@ media:
     interagir com outros desenvolvedores.
   width: 800
   height: 450
-bottomSections:
-  - type: FeaturedPostsSection
-    colors: colors-d
-    elementId: ''
-    showDate: true
-    showAuthor: false
-    showExcerpt: false
-    showReadMoreLink: true
-    readMoreLinkLabel: Saiba Mais
-    variant: variant-b
-    actions: []
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: center
-    subtitle: ''
-    posts:
-      - content/pages/blog/apresentando-o-flow-playground.md
-      - content/pages/blog/chainmonsters-um-crypto-game-da-flow-blockchain.md
-      - content/pages/blog/tomando-seus-primeiros-passos-com-cadence.md
+bottomSections: []
 metaDescription: >-
   O Flow é uma plataforma de blockchain que suporta contratos inteligentes e
   tokens não fungíveis (NFTs). Para aprender sobre o Flow, é importante
