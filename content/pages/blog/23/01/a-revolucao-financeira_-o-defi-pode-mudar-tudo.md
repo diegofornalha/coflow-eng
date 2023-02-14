@@ -164,3 +164,16 @@ excerptBr: >-
 title: 'La Revolución Financiera: DeFi puede cambiar todo'
 author: content/data/team/people/diego-fornalha.json
 ---
+
+
+
+Desde que existe el dinero, se han producido operaciones financieras que llamamos bancarias. Lo que comenzó con agricultores prestando granos entre sí se convirtió con el tiempo en las gigantes instituciones financieras de hoy, que ofrecen servicios a clientes individuales que buscan invertir o a un país moderno al borde del colapso económico. Para muchos, pensar en las finanzas descentralizadas (DeFi) con tecnología blockchain como una fuerza potencialmente disruptiva en una industria tan consolidada parece un sueño inalcanzable. Sin embargo, la innovación es una criatura extraña, ya que las ideas audaces y soluciones novedosas a veces toman caminos inesperados.
+
+La idea de Bitcoin en el whitepaper de Nakamoto era "Un sistema de efectivo electrónico peer-to-peer" que permitiría a las personas transar entre sí sin la necesidad de un tercero confiable. Si bien Bitcoin no ha logrado descentralizar completamente el comercio electrónico debido a sus altos costos de transacción y baja capacidad, esta idea creó una nueva área de tecnología y abrió el camino para innovaciones en campos que antes se consideraban intransponibles.
+
+Una analogía puede verse entre Bitcoin intentando descentralizar el comercio electrónico y DeFi tratando de resolver el problema de confianza en el sector bancario. Específicamente, busca descentralizar servicios y productos financieros que se han centralizado durante siglos. La descentralización financiera significa conectar a aquellos interesados en participar en los mercados financieros sin necesidad de una institución intermediaria, lo que es posible gracias a los contratos inteligentes basados en blockchain.
+
+A medida que la tecnología madura, la lista de casos de uso de DeFi aumenta incrementalmente. Hoy en día, estos productos financieros incluyen plataformas de préstamos, protocolos de negociación de opciones, mercados de predicción, intercambios descentralizados (DEX), integraciones de pago, protocolos de minería de liquidez, emisión de stablecoins y mucho más.
+
+Con el blockchain como tecnología subyacente, DeFi funciona de manera diferente a la industria financiera establecida. Mientras que las innovaciones permiten eliminar a los intermediarios, también presentan desafíos inesperados. Entender cómo la tecnología blockchain está cambiando la forma en que manejamos el dinero y cómo esto puede revolucionar la economía es esencial.
+
