@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: null
+title: BLOG
 titlePt: null
 numOfPostsPerPage: 10
 postFeed:
