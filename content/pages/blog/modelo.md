@@ -40,7 +40,7 @@ bottomSections:
       descentralizadas.
     actions:
       - type: Button
-        label: Try it now
+        label: Servidor no Discord
         showIcon: true
         icon: arrowRight
         url: /
