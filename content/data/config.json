@@ -79,7 +79,7 @@
             },
             {
                 "type": "Link",
-                "label": "Contact Us",
+                "label": "Entre em Contato",
                 "altText": "Contact Us",
                 "url": "https://wa.me/5521997806363?text=Ol%C3%A1",
                 "showIcon": false,
