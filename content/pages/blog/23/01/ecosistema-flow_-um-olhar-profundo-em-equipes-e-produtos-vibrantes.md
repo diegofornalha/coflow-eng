@@ -4,10 +4,6 @@ metaTitle: 'Ecosistema Flow: um olhar profundo em equipes e produtos vibrantes'
 addTitleSuffix: true
 metaTags: []
 colors: colors-d
-excerpt: >-
-  Crescimento significativo de desenvolvedores na plataforma, com um aumento de
-  2,5 vezes no número de novos desenvolvedores implantando contratos na testnet
-  e uma taxa de crescimento mensal de 31% desde novembro de 2020. 
 media:
   type: ImageBlock
   url: /images/23/01/um olhar profundo em equipes e produtos vibrantes.png
