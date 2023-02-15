@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: Escreva Contratos Inteligente em Cadence Para Votações
 addTitleSuffix: true
 metaTags: []
-title: Escreva Contratos Inteligente em Cadence Para Votações
 colors: colors-d
 date: '2023-01-26'
 excerpt: >-
