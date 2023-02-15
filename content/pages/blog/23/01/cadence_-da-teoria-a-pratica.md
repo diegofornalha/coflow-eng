@@ -9,7 +9,7 @@ date: '2023-01-13'
 excerptFr: Vamos dar os primeiros passos juntos e tornar o aprendizado divertido
 featuredImage:
   type: ImageBlock
-  url: /images/23/01/CAPAS-Cadence da teoria à prática.png
+  url: /images/23/01/da teoria à prática.png
   altText: 'Cadence: da teoria à prática'
   caption: 'Cadence: da teoria à prática'
   width: 800
