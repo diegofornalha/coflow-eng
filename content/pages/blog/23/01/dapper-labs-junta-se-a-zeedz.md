@@ -125,6 +125,9 @@ markdown_content_pt: >
 metaDescription: null
 socialImage: null
 date: '2023-01-21'
+excerptBr: >-
+  A gigante do setor de NFTs, criadora de sucessos como NBA Top Shot e
+  Cryptokitties, investe em jogo baseado em sustentabilidade
 ---
 A notícia é quente: a gigante do setor de NFTs, a Dapper Labs, criadora de sucessos como NBA Top Shot e Cryptokitties, está investindo na Zeedz. Além de um simples compromisso financeiro, a Zeedz e a Dapper Labs unem forças em uma parceria de longo prazo para tornar o web3 mais divertido, sustentável e verde ao mesmo tempo.
 
