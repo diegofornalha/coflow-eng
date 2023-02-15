@@ -292,4 +292,5 @@ markdown_content_pt: >
   Como você pode ver, a integração do FUSD no seu aplicativo pode ser feita em
   questão de minutos, instantaneamente, dando a você o poder de ingressar na
   economia de mundos abertos no Flow superalimentado pelo FUSD.
+author: content/data/team/people/diego-fornalha.json
 ---
