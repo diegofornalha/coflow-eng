@@ -112,3 +112,10 @@ author: content/data/team/people/diego-fornalha.json
 title: Equipo de Contratos Inteligentes de Flow
 excerpt: Ofreciendo una experiencia única
 ---
+En primer lugar, a principios de este año, la comunidad de desarrolladores de Flow aprobó y activó el estándar de metadatos Flow NFT, una forma poderosa de que los proyectos NFT muestren sus metadatos de manera genérica y completa, lo que permite que los contratos inteligentes y las aplicaciones de terceros se integren fácilmente con cualquier proyecto NFT que implemente el estándar. Además, ¡un equipo del ecosistema construyó el catálogo NFT para hacer que este proceso sea aún más fácil! Ha sido increíble ver cómo los proyectos están utilizando metadatos para hacer que el ecosistema de Flow sea aún más vibrante y es humilde ver cómo hemos evolucionado desde el principio.
+
+¡La comunidad de Cadence también habilitó Secure Cadence! Secure Cadence es un paso importante en el que la comunidad de Cadence ha estado trabajando durante mucho tiempo. Agregó algunas nuevas funcionalidades súper útiles, mejoró algunas de las funcionalidades existentes e incluso incluyó una auditoría formal de seguridad completa realizada por Halborn y NCC, empresas de seguridad respetadas en el campo. Como parte del paso, la comunidad de Flow también acordó y habilitó la implementación sin permiso, una funcionalidad importante en nuestro camino hacia la plena descentralización.
+
+El equipo de contratos inteligentes, incluyéndome a mí y mis colegas Satyam, Álvaro, Giovanni y Gustavo, también hemos estado haciendo cosas increíbles este año. Construimos e implementamos la segunda versión de NFT Storefront, una plataforma genérica que cualquiera puede usar para sus aplicaciones sin necesidad de implementar su propio contrato inteligente. También admite el estándar de derechos de autor NFT.
+
+Pero no nos detenemos ahí, siempre estamos buscando nuevas formas de innovar y mejorar nuestros productos y servicios para ofrecer a nuestros clientes una experiencia aún más satisfactoria.
