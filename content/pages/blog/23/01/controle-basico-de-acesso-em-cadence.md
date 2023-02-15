@@ -65,6 +65,9 @@ excerptBr: >-
   O controle de acesso em contratos inteligentes escritos em Cadence, uma
   linguagem de programação para a plataforma Flow. 
 title: Control básico de acceso en Cadence
+excerpt: >-
+  El control de acceso en contratos inteligentes escritos en Cadence, un
+  lenguaje de programación para la plataforma Flow.
 ---
 ![https://miro.medium.com/max/347/1\*M7p33-EGZPFdKcX7oR6mDg.jpeg](https://miro.medium.com/max/347/1\*M7p33-EGZPFdKcX7oR6mDg.jpeg)
 
