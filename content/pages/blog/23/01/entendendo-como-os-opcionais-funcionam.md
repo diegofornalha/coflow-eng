@@ -5,7 +5,6 @@ addTitleSuffix: true
 metaTags: []
 titlePt: Entendendo como os opcionais funcionam
 colors: colors-d
-excerpt: Como evitar e corrigir erros de referências vazias em seu código
 excerptFr: Como evitar e corrigir erros de referências vazias em seu código
 featuredImage:
   type: ImageBlock
