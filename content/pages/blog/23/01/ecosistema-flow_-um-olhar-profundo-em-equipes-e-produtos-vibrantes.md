@@ -145,4 +145,5 @@ markdown_content_pt: >
   Artigo completo original em inglês:
   https://flow.com/post/state-of-the-flow-ecosystem
 author: content/data/team/people/diego-fornalha.json
+title: 'Ecosistema Flow: un vistazo profundo a equipos y productos vibrantes'
 ---
