@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: Diversos casos de uso da flow blockchain
 addTitleSuffix: true
 metaTags: []
-title: Diversos casos de uso da flow blockchain
 colors: colors-d
 excerpt: O token FLOW é a moeda nativa da rede de blockchain Flow.
 featuredImage:
