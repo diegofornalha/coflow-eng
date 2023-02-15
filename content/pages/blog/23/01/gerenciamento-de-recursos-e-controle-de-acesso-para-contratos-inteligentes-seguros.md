@@ -172,4 +172,5 @@ socialImage: null
 author: content/data/team/people/diego-fornalha.json
 excerpt: ¿Has oído hablar de Cadence?
 title: Gestión de recursos y control de acceso para contratos inteligentes seguros
+excerptBr: 'Você já ouviu falar do Cadence? '
 ---
