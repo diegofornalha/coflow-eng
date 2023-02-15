@@ -27,6 +27,9 @@ markdown_content_pt: "**O que é Cadence?**\nCadence é a linguagem de contrato 
 metaDescription: null
 socialImage: null
 date: '2023-01-22'
+excerptBr: >-
+  Uma lista de recursos gratuitos para aprender Cadence e desenvolvimento de
+  DApp na Blockchain Flow.
 ---
 **O que é Cadence?**
 Cadence é a linguagem de contrato inteligente usada na Blockchain Flow. É uma linguagem orientada a recursos, inspirada em Swift, Kotlin e Rust.
