@@ -5,9 +5,6 @@ addTitleSuffix: true
 metaTags: []
 titlePt: Desenvolva com Cadence um DApp na Blockchain Flow
 colors: colors-d
-excerpt: >-
-  Uma lista de recursos gratuitos para aprender Cadence e desenvolvimento de
-  DApp na Blockchain Flow.
 excerptFr: >-
   Uma lista de recursos gratuitos para aprender Cadence e desenvolvimento de
   DApp na Blockchain Flow.
