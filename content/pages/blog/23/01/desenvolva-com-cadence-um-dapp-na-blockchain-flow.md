@@ -83,9 +83,6 @@ excerpt: >-
   Una lista de recursos gratuitos para aprender Cadence y desarrollo de DApp en
   la Blockchain Flow.
 ---
-
-
-
 **¿Qué es Cadence?**
 Cadence es el lenguaje de contrato inteligente utilizado en la Blockchain Flow. Es un lenguaje orientado a recursos, inspirado en Swift, Kotlin y Rust.
 
@@ -154,7 +151,28 @@ Un tutorial detallado sobre cómo construir un clon de Twitter usando Next.js
 
 2.  [Flow Playground](https://play.flow.com/)
 
-    IDE en el navegador para escribir contratos,
+    IDE en el navegador para escribir contratos,&#x20;
+
+
+    transacciones y scripts inteligentes
+
+    1.  [Documentación de Cadence](https://docs.onflow.org/cadence/language)
+
+        Documentación oficial de Cadence, que cubre la sintaxis, características y estándares de contrato inteligente para la plataforma Flow.
+
+    2.  [Flow Community](https://www.onflow.org/community)
+
+        Un lugar para conectarse con otros desarrolladores de Flow, hacer preguntas y obtener soporte en el desarrollo de DApp.
+
+    3.  [Flow Discord](https://discord.gg/flow)
+
+        Discord oficial de Flow, donde puede interactuar con la comunidad de Flow y obtener soporte en tiempo real.
+
+    4.  [Flow Developers Telegram](https://t.me/flowcommunity)
+
+        Canal de telegrama para desarrolladores de Flow donde puede hacer preguntas, compartir proyectos y obtener soporte en tiempo real.
+
+    ¡Esperamos que encuentres estos recursos útiles para aprender a desarrollar DApps en la plataforma Flow con Cadence!
 
 
 
