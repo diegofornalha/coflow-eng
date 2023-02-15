@@ -30,4 +30,5 @@ date: '2023-01-22'
 excerptBr: >-
   Uma lista de recursos gratuitos para aprender Cadence e desenvolvimento de
   DApp na Blockchain Flow.
+author: content/data/team/people/diego-fornalha.json
 ---
