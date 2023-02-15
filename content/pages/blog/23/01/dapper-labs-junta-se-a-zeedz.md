@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: Dapper Labs junta-se à Zeedz
 titlePt: Dapper Labs junta-se à Zeedz
 colors: colors-d
 excerpt: >-
