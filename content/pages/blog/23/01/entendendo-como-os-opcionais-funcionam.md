@@ -141,4 +141,5 @@ date: '2023-01-25'
 author: content/data/team/people/diego-fornalha.json
 excerptBr: Como evitar e corrigir erros de referências vazias em seu código
 title: Comprendiendo cómo funcionan los opcionales
+excerpt: Cómo evitar y corregir errores de referencias vacías en su código
 ---
