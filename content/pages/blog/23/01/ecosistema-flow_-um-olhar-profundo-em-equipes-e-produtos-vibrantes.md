@@ -69,6 +69,10 @@ featuredImage:
   elementId: ''
 date: '2023-01-24'
 titlePt: 'Ecosistema Flow: um olhar profundo em equipes e produtos vibrantes'
+excerptBr: >-
+  Crescimento significativo de desenvolvedores na plataforma, com um aumento de
+  2,5 vezes no número de novos desenvolvedores implantando contratos na testnet
+  e uma taxa de crescimento mensal de 31% desde novembro de 2020. 
 ---
 
 
