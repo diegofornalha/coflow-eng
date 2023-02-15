@@ -293,4 +293,5 @@ markdown_content_pt: >
   questão de minutos, instantaneamente, dando a você o poder de ingressar na
   economia de mundos abertos no Flow superalimentado pelo FUSD.
 author: content/data/team/people/diego-fornalha.json
+title: FUSD la stablecoin de la cadena de bloques Flow
 ---
