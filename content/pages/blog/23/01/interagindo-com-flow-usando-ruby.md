@@ -109,7 +109,7 @@ markdown_content_pt: >+
 metaDescription: null
 socialImage: null
 ---
-Você já ouviu falar do Flow? Ele é uma criptomoeda que usa tecnologias avançadas para criar uma rede descentralizada para aplicativos financeiros. E você sabe o que é incrível? Você pode interagir com ela usando o Ruby! Isso mesmo, você não precisa se preocupar em ficar limitado a linguagens específicas, com o Ruby você tem uma gama ainda maior de escolhas.
+Ele é uma criptomoeda que usa tecnologias avançadas para criar uma rede descentralizada para aplicativos financeiros. E você sabe o que é incrível? Você pode interagir com ela usando o Ruby! Isso mesmo, você não precisa se preocupar em ficar limitado a linguagens específicas, com o Ruby você tem uma gama ainda maior de escolhas.
 
 Neste artigo, vamos explorar como interagir com o Flow usando a linguagem de programação Ruby. E o melhor de tudo, o código deste artigo está disponível no Github para você brincar à vontade.
 
@@ -122,8 +122,8 @@ Depois, vamos clonar o repositório do Flow no GitHub e gerar o código Ruby a p
 Agora é hora de abrir o seu editor de código favorito e criar um novo arquivo chamado "flow.rb". Adicione o código abaixo:
 
 class Flow
-def initialize(node_address)
-@stub = Access::AccessAPI::Stub.new(node_address, :this_channel_is_insecure)
+def initialize(node\_address)
+@stub = Access::AccessAPI::Stub.new(node\_address, :this\_channel\_is\_insecure)
 end
 
 def ping
@@ -131,24 +131,21 @@ req = Access::PingRequest.new
 @stub.ping(req)
 end
 
-def get_account(address)
-req = Access::GetAccountAtLatestBlockRequest.new(address: to_bytes(address))
-res = @stub.get_account_at_latest_block(req)
+def get\_account(address)
+req = Access::GetAccountAtLatestBlockRequest.new(address: to\_bytes(address))
+res = @stub.get\_account\_at\_latest\_block(req)
 res.account
 end
 
-def execute_script(script, args = \[])
+def execute\_script(script, args = \[])
 req = Access::ExecuteScriptAtLatestBlockRequest.new(
 script: script,
 arguments: args
 )
-res = @stub.execute_script_at_latest_block(req)
-parse_json(res.value)
+res = @stub.execute\_script\_at\_latest\_block(req)
+parse\_json(res.value)
 end
 
 end
 
 E pronto! Agora você tem uma classe Flow para interagir com a rede Flow usando Ruby. Lembre-se, essa é apenas uma amostra básica do que é possível fazer, então sinta-se livre para explorar e criar coisas incríveis!
-
-
-
