@@ -61,7 +61,6 @@ metaDescription: >-
   para garantir a segurança de trocas descentralizadas de tokens na rede. A
   longo prazo, a FLOW pode ser usada para participar da governança da rede.
 socialImage: /images/23/01/Diego Fornalha Diversos casos de uso da flow blockchain.png
-author: content/data/team/hilary-ouse.json
 date: '2023-01-23'
 titlePt: Diversos casos de uso da flow blockchain
 ---
