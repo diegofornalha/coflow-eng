@@ -93,7 +93,6 @@ metaDescription: >-
   fiduciário globalmente ao amplo ecossistema Flow, o que é ótimo para quem quer
   usar criptomoedas, mas não sabe por onde começar.
 socialImage: /images/23/01/FUSD o stablecoin da flow Blockchain diegofornalha.png
-author: content/data/team/hilary-ouse.json
 date: '2023-01-28'
 titlePt: FUSD o stablecoin da flow Blockchain
 ---
