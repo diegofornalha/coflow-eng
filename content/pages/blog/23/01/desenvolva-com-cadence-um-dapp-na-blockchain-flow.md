@@ -78,4 +78,5 @@ excerptBr: >-
   Uma lista de recursos gratuitos para aprender Cadence e desenvolvimento de
   DApp na Blockchain Flow.
 author: content/data/team/people/diego-fornalha.json
+title: Desarrolle con Cadence un DApp en la Blockchain Flow
 ---
