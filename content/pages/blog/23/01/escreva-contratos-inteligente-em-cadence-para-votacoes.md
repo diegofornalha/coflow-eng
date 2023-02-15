@@ -373,4 +373,5 @@ markdown_content_pt: >
   }
 
   Try out this Playground project
+title: Escribir Smart Contracts en Cadence para Votaciones
 ---
