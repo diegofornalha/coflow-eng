@@ -343,6 +343,7 @@ author: content/data/team/people/diego-fornalha.json
 excerpt: >-
   FUSD es una stablecoin nativa de la plataforma de cadena de bloques Flow. Está
   respaldada por el dólar estadounidense en una proporción de 1:1.
+title: FUSD la stablecoin de la cadena de bloques Flow
 ---
 
 
