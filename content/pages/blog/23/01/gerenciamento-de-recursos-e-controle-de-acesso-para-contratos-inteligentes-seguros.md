@@ -170,4 +170,5 @@ markdown_content_pt: >
 metaDescription: null
 socialImage: null
 author: content/data/team/people/diego-fornalha.json
+excerpt: ¿Has oído hablar de Cadence?
 ---
