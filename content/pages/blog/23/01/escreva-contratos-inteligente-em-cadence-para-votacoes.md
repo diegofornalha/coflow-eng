@@ -5,9 +5,6 @@ addTitleSuffix: true
 metaTags: []
 colors: colors-d
 date: '2023-01-26'
-excerpt: >-
-  O smart contract em Cadence é um código que é executado em uma rede
-  blockchain, que é uma tecnologia de banco de dados descentralizada. 
 featuredImage:
   type: ImageBlock
   url: >-
