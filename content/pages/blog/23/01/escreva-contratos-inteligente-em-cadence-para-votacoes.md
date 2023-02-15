@@ -377,4 +377,5 @@ title: Escribir Smart Contracts en Cadence para Votaciones
 excerpt: >-
   El smart contract en Cadence es un código que se ejecuta en una red
   blockchain, que es una tecnología de base de datos descentralizada.
+author: content/data/team/people/diego-fornalha.json
 ---
