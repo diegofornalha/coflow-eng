@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: 'Ecosistema Flow: um olhar profundo em equipes e produtos vibrantes'
 addTitleSuffix: true
 metaTags: []
-title: 'Ecosistema Flow: um olhar profundo em equipes e produtos vibrantes'
 colors: colors-d
 excerpt: >-
   Crescimento significativo de desenvolvedores na plataforma, com um aumento de
