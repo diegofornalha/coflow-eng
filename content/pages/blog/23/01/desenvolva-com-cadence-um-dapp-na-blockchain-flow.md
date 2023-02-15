@@ -83,3 +83,78 @@ excerpt: >-
   Una lista de recursos gratuitos para aprender Cadence y desarrollo de DApp en
   la Blockchain Flow.
 ---
+
+
+
+**¿Qué es Cadence?**
+Cadence es el lenguaje de contrato inteligente utilizado en la Blockchain Flow. Es un lenguaje orientado a recursos, inspirado en Swift, Kotlin y Rust.
+
+Las características de Cadence incluyen:
+
+Uso de recursos
+
+Seguridad basada en capacidad
+
+Seguridad de tipos y sistema de tipos estáticos fuertes
+
+Precondiciones y postcondiciones incorporadas para funciones y transacciones
+
+Una explicación rápida de recursos: los recursos solo pueden existir en un único lugar a la vez, no pueden ser copiados y deben ser movidos o destruidos explícitamente.
+
+Entonces, ahora que tienes un poco más de 🤏 comprensión sobre Cadence, aquí hay algunos recursos gratuitos - sin juego de palabras - para empezar a aprender Cadence y desarrollo de DApp #noFlow.
+
+**Recursos para Aprender Cadence**
+[Curso de Cadence para Principiantes de Emerald Academy](https://github.com/emerald-dao/beginner-cadence-course)
+
+Aprenda los fundamentos de Cadence, construya un contrato NFT e implemente un contrato en la testnet
+
+[Flow 101 Quests](https://github.com/onflow/flow-101-quest)
+
+Aprenda el Flow CLI, cree una cuenta en la testnet, firme transacciones y ejecute scripts
+
+[Canal de Jacob Tucker en Youtube](https://www.youtube.com/@jacobtucker8438)
+
+Canal 💎 absoluto - cubre una amplia gama de temas de Cadence
+
+[Cadence Cookbook](https://cookbook.onflow.org/)
+
+Ejemplos de contratos, scripts y transacciones con Cadence con explicaciones
+
+[#100DaysOfCadence](https://github.com/AmethystCodes/100-days-of-cadence)
+
+Repositorio en GitHub para seguir su desafío de 100 días con Cadence
+
+## **Recursos para Aprender Desarrollo de DApp**
+
+[Curso de DApp para Principiantes de Emerald Academy](https://github.com/emerald-dao/beginner-dapp-course/fork)
+
+Construya un DApp para principiantes usando Next.js y Cadence
+
+[LearnWeb3 DAO Flow Track](https://learnweb3.io/courses/18f86037-e600-4933-aa8e-375f26055d53/lessons)
+
+Construya un servicio de nombres - similar a .find/.fn/.eth - usando Next.js y Cadence
+
+[CryptoDappy](https://www.cryptodappy.com/)
+
+Complete misiones para construir un juego de coleccionables usando React y Cadence
+
+[Kitty Items](https://developers.flow.com/learn/kitty-items/index)
+
+Aplicación de ejemplo de mercado que explica cómo las aplicaciones web interactúan con la blockchain Flow
+
+[Construyendo una aplicación similar a Twitter en Flow](https://hackmd.io/@andrea-muttoni/web3-twitter)
+
+Un tutorial detallado sobre cómo construir un clon de Twitter usando Next.js
+
+**Recursos adicionales**
+
+1.  [Recursos Flow](https://github.com/ph0ph0/Get-The-Flow-Down)
+
+    Colección de recursos de flujo - herramientas, artículos, tutoriales y mucho más
+
+2.  [Flow Playground](https://play.flow.com/)
+
+    IDE en el navegador para escribir contratos,
+
+
+
