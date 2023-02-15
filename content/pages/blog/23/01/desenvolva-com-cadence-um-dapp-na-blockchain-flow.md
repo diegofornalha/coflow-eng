@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: Desenvolva com Cadence um DApp na Blockchain Flow
 titlePt: Desenvolva com Cadence um DApp na Blockchain Flow
 colors: colors-d
 excerpt: >-
