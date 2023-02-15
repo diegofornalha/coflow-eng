@@ -3,9 +3,6 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: >-
-  Gerenciamento de recursos e controle de acesso para contratos inteligentes
-  seguros
 titlePt: >-
   Gerenciamento de recursos e controle de acesso para contratos inteligentes
   seguros
