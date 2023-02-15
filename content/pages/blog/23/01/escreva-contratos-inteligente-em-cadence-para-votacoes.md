@@ -426,9 +426,6 @@ excerpt: >-
   blockchain, que es una tecnología de base de datos descentralizada.
 author: content/data/team/people/diego-fornalha.json
 ---
-
-
-
 Hoy vamos a ver cómo es fácil programar su primer smart contract en Cadence de votación, ¡sin duda el verdadero maestro de las elecciones!
 
 Permite que los participantes voten por una de las propuestas disponibles y almacena el recuento de votos para cada una de las propuestas.
@@ -460,12 +457,41 @@ La función emitirVoto se utiliza para crear una nueva instancia del recurso Vot
 Espero que esto haya ayudado a aclarar lo que su smart contract está haciendo de forma más detallada y relajada. Si tiene más preguntas o necesita más ayuda, no dude en preguntar.
 
 ```
-cadenceCopy code
+
+pub contract MayoríaGana {
+    pub var propuestas: [String]
+    pub let votos: {Int: Int}
+
+    pub resource Voto {
+        pub let propuestas: [String]
+        pub var elección: {Int: Bool}
+
+        init() {
+            self.propuestas = MayoríaGana.propuestas
+            self.elección = {}
+            var i = 0
+            while i < self.propuestas.length {
+                self.elección[i] = false
+                i = i + 1
+            }
+        }
+        pub fun vote(_ propuesta: Int) {
+            pre {
+                propuesta >= 0
+                propuesta < self.propuestas.length
+            }
+            self.elección[propuesta] = true
+        }
+    }
+
+    pub resource Administrar {
+        pub fun initializePropostas(_ propuestas: [String]) {
+            pre {
+                MayoríaGana.propuestas.length == 0
+                propuestas.length
+
+
 ```
-
-
-
-
 
 Parece que o seu código em Cadence é uma transação que permite ao administrador inicializar uma lista de propostas para eventos. Quando a transação é executada, ela solicita ao administrador que forneça suas credenciais de autenticação e, em seguida, usa essas credenciais para obter uma referência para o recurso Administrar do contrato MayoríaGana.
 
@@ -478,6 +504,3 @@ A função procesar é usada para processar um voto quando um participante decid
 Por fim, a função init é chamada quando o contrato é criado. Ela inicializa as variáveis propuestas e votos com valores vazios e salva uma instância do recurso Administrar na storage do contrato.
 
 Espero que isso tenha ajudado a entender como programar um smart contract em Cadence para votações. Se tiver mais perguntas ou precisar de mais assistência, não hesite em perguntar.
-
-
-
