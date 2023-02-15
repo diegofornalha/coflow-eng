@@ -108,4 +108,5 @@ markdown_content_pt: >
   então sinta-se livre para explorar e criar coisas incríveis!
 metaDescription: null
 socialImage: null
+excerptBr: 'Você já ouviu falar do Flow? '
 ---
