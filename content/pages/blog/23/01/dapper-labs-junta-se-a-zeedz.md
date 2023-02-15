@@ -177,4 +177,7 @@ excerptBr: >-
   Cryptokitties, investe em jogo baseado em sustentabilidade
 title: Dapper Labs se une a Zeedz
 author: content/data/team/people/diego-fornalha.json
+excerpt: >-
+  La gigante del sector de NFTs, creadora de éxitos como NBA Top Shot y
+  Cryptokitties, invierte en un juego basado en la sostenibilidad.
 ---
