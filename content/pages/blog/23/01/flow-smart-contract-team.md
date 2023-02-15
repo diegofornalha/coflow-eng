@@ -61,4 +61,5 @@ markdown_content_pt: >+
 metaDescription: null
 socialImage: null
 excerptBr: Oferecendo uma experiência única
+author: content/data/team/people/diego-fornalha.json
 ---
