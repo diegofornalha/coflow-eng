@@ -153,7 +153,6 @@ Un tutorial detallado sobre cómo construir un clon de Twitter usando Next.js
 
     IDE en el navegador para escribir contratos,&#x20;
 
-
     transacciones y scripts inteligentes
 
     1.  [Documentación de Cadence](https://docs.onflow.org/cadence/language)
@@ -168,11 +167,7 @@ Un tutorial detallado sobre cómo construir un clon de Twitter usando Next.js
 
         Discord oficial de Flow, donde puede interactuar con la comunidad de Flow y obtener soporte en tiempo real.
 
-    4.  [Flow Developers Telegram](https://t.me/flowcommunity)
-
-        Canal de telegrama para desarrolladores de Flow donde puede hacer preguntas, compartir proyectos y obtener soporte en tiempo real.
+    4.
 
     ¡Esperamos que encuentres estos recursos útiles para aprender a desarrollar DApps en la plataforma Flow con Cadence!
-
-
 
