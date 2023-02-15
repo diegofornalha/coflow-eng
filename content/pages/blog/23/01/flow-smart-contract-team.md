@@ -60,6 +60,7 @@ markdown_content_pt: >+
 
 metaDescription: null
 socialImage: null
+excerptBr: Oferecendo uma experiência única
 ---
 Primeiramente, no início deste ano, a comunidade de desenvolvedores Flow aprovou e ativou o padrão de metadados Flow NFT, uma forma poderosa de projetos NFT exporem seus metadados de forma genérica e completa, permitindo que contratos inteligentes e aplicativos de terceiros se integrem facilmente com qualquer projeto NFT que implemente o padrão. Além disso, um time de ecossistema construiu o catálogo NFT para tornar esse processo ainda mais fácil! Tem sido incrível ver como os projetos estão usando metadados para tornar o ecossistema Flow ainda mais vibrante e é humilde ver como evoluímos desde o começo.
 
