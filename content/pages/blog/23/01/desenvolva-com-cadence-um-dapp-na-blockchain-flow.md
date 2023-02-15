@@ -79,4 +79,7 @@ excerptBr: >-
   DApp na Blockchain Flow.
 author: content/data/team/people/diego-fornalha.json
 title: Desarrolle con Cadence un DApp en la Blockchain Flow
+excerpt: >-
+  Una lista de recursos gratuitos para aprender Cadence y desarrollo de DApp en
+  la Blockchain Flow.
 ---
