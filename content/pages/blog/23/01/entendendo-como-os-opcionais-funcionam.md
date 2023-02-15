@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: Entendendo como os opcionais funcionam
 titlePt: Entendendo como os opcionais funcionam
 colors: colors-d
 excerpt: Como evitar e corrigir erros de referências vazias em seu código
