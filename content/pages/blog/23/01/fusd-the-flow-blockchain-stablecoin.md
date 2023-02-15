@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: FUSD o stablecoin da flow Blockchain
 addTitleSuffix: true
 metaTags: []
-title: FUSD o stablecoin da flow Blockchain
 colors: colors-d
 excerpt: >-
   O FUSD é um stablecoin nativo da plataforma de blockchain Flow. Ele é
