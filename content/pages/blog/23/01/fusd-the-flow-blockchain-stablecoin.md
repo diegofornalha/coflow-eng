@@ -38,38 +38,7 @@ media:
     quer usar criptomoedas, mas não sabe por onde começar.
   width: 800
   height: 450
-bottomSections:
-  - type: FeaturedPostsSection
-    colors: colors-a
-    elementId: ''
-    showDate: true
-    showAuthor: false
-    showExcerpt: false
-    showReadMoreLink: true
-    variant: variant-b
-    actions: []
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: center
-    subtitle: ''
-    posts:
-      - >-
-        content/pages/blog/5-dicas-pra-quem-quer-aprender-sobre-a-blockchain-flow.md
-      - content/pages/blog/5-passos-para-se-tornar-um-dev-web3.md
-      - content/pages/blog/usando-o-ledger-nano-com-flow.md
+bottomSections: []
 metaDescription: >-
   O FUSD é um stablecoin nativo da plataforma de blockchain Flow. Ele é
   lastreado pelo dólar americano em 1:1, o que significa que cada FUSD é
