@@ -181,3 +181,44 @@ excerpt: >-
   La gigante del sector de NFTs, creadora de éxitos como NBA Top Shot y
   Cryptokitties, invierte en un juego basado en la sostenibilidad.
 ---
+
+La noticia es candente: la gigante del sector de NFTs, Dapper Labs, creadora de éxitos como NBA Top Shot y Cryptokitties, está invirtiendo en Zeedz. Además de un simple compromiso financiero, Zeedz y Dapper Labs unen fuerzas en una asociación a largo plazo para hacer que el web3 sea más divertido, sostenible y verde al mismo tiempo.
+
+
+Dapper Labs es la empresa de NFTs por excelencia. Aquí es donde se originó la locura de los NFTs que estamos viendo hoy en día: Cryptokitties, el primer juego de NFTs creado por Dapper Labs, atrajo a tantos usuarios que casi colapsa Ethereum, al mismo tiempo que introdujo el popular estándar NFT ERC-721.
+
+
+Hoy en día, Dapper Labs es una empresa de estudio con un valor de mercado de 7 mil millones de dólares, creando aplicaciones web3 junto con grandes marcas como la NBA, NFL, La Liga o UFC en la blockchain Flow. Millones de usuarios mainstream forman comunidades vibrantes en torno a sus productos e inversores de primera línea, como a16z, apoyan a la empresa en su misión de ganar la carrera del web3 para un público mainstream.
+
+
+Zeedz y Dapper Labs: uniendo diversión y propósito
+Hoy en día, Zeedz es parte de este viaje exitoso: Dapper Labs está participando en la primera ronda de financiamiento de Zeedz y estamos increíblemente emocionados por lo que está por venir.
+
+
+Y aunque esto marca solo el comienzo, una cosa ya está clara: este paso establece una base más allá de una simple inversión financiera. El CTO y cofundador de Zeedz, Benjamin Ebner, menciona:
+
+
+"Dapper Labs es el socio y mentor ideal para nosotros, tanto desde el punto de vista técnico como estratégico. Una empresa con esta enorme experiencia en la industria nos permitirá superar lo que planeamos para Zeedz: construir un juego verdaderamente verde y verdaderamente divertido, amado y jugado por millones de usuarios".
+
+
+**Compartiendo la visión de experiencias mainstream**
+
+
+El ingrediente secreto del pasado y presente de Dapper Labs fue hacer que las experiencias de blockchain sean fáciles de entender y fáciles de usar, además de construir una comunidad vibrante en torno a un propósito mayor más allá de la escena crypto original. Un ejemplo de ello es su billetera Dapper, donde los usuarios pueden simplemente usar su tarjeta de crédito para comprar NFTs en Flow. Esta mentalidad se superpone a la misión de Zeedz, como explica Sven Junglas (CMO y cofundador de Zeedz):
+
+
+"En Zeedz, compartimos la filosofía de que el web3 aún tiene mucho crecimiento por delante: la adopción mainstream. Dapper Labs trabajará con nosotros para construir un producto con la mente mainstream, y sí, con ese fuerte apoyo, sin duda estamos apuntando a convertirnos en el NBA Top Shot de los juegos con propósitos".
+Pionerismo conjunto en un Web3 verde&#x20;
+
+
+juego con propósito creado, la sostenibilidad está en el corazón de Zeedz. La misión de Zeedz es promover el tema de la sostenibilidad en toda la industria web3 y más allá. Estamos seguros de la urgencia de actuar, así como de la huella de carbono y el propósito de un producto que se convierten en factores aún más importantes en las decisiones de los consumidores.
+
+"La asociación con Zeedz es otro compromiso para nosotros en dirección a un web3 más verde y sostenible", dice Mik Nayeem, CBO de Dapper Labs. "Lo que nos llevó a decidir invertir en Zeedz es su combinación inteligente de elementos de juego fáciles de acceder y divertidos con una estructura de propósito, enfocándose en la sostenibilidad y la acción climática. Creemos que los tipos de juegos con propósito que Zeedz es pionera verán un tremendo interés de una audiencia más amplia en el futuro".
+
+Lo que el futuro depara
+En la asociación con Dapper Labs, Zeedz también explorará ideas adicionales sobre cómo contribuir a la sostenibilidad en Flow en una capa de infraestructura más profunda, permitiendo que otras aplicaciones se compensen con Zeedz. Manténgase atento, aún hay más por venir.
+
+Por ahora, estamos increíblemente felices de tener un socio tan fuerte y dedicado a bordo. Para dar la bienvenida a Dapper Labs a la familia Zeedz, creamos dos ediciones especiales de Zeedles: Baby D. y Big D. Al igual que el Peace Zeedle, entrarán en el juego con habilidades limitadas, y solo se distribuirán a aquellos que participen en la primera venta de tokens de Zeedz. Así que asegúrese de estar atento y no perder esta oportunidad de obtener estas ediciones especiales de Zeedles.
+
+En resumen, la asociación entre Dapper Labs y Zeedz marca el comienzo de una nueva era en la industria web3, donde la sostenibilidad y el propósito se convierten en factores clave en la construcción de productos y comunidades vibrantes. Con la experiencia y la dedicación combinadas de ambas empresas, esperamos ver nuevos juegos con propósito y sostenibles que atraigan a una audiencia más amplia en el futuro.
+
