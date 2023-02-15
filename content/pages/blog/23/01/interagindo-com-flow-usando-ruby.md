@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: Interagindo com Flow usando Ruby
 titlePt: Interagindo com Flow usando Ruby
 colors: colors-d
 date: '2023-01-30'
