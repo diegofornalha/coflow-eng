@@ -97,4 +97,5 @@ markdown_content_pt: >
 
   Artigo completo original em inglês:
   https://flow.com/post/state-of-the-flow-ecosystem
+author: content/data/team/people/diego-fornalha.json
 ---
