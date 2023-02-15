@@ -73,7 +73,6 @@ metaDescription: >-
 socialImage: >-
   /images/23/01/Escreva Contratos Inteligente em Cadence Para Votações
   diegofornalha.png
-author: content/data/team/hilary-ouse.json
 titlePt: Escreva Contratos Inteligente em Cadence Para Votações
 ---
 Hoje nós vamos ver como é fácil programar seu primeiro smart contract em Cadence de votação, ele sem dúvidas é o verdadeiro mestre das eleições!
