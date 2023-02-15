@@ -3,7 +3,6 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: Flow Smart Contract Team
 titlePt: Flow Smart Contract Team
 colors: colors-d
 date: '2023-01-27'
