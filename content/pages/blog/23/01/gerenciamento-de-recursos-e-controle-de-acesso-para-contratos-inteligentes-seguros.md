@@ -174,3 +174,71 @@ excerpt: ¿Has oído hablar de Cadence?
 title: Gestión de recursos y control de acceso para contratos inteligentes seguros
 excerptBr: 'Você já ouviu falar do Cadence? '
 ---
+Es un lenguaje de programación que acelera y simplifica el desarrollo de contratos inteligentes seguros, introduciendo recursos y capacidades avanzadas, como la composición y el anidamiento de recursos. Al mismo tiempo, Cadence también es responsable de transacciones y consultas en Flow.
+
+Gestión de la propiedad
+Cadence es fácil de aprender ya que tiene muchas similitudes con otros lenguajes de programación como Rust, TypeScript y Swift. La gran diferencia es que Cadence se trata de recursos.
+
+Los recursos son fáciles de entender porque son la cosa real: un cofre de tokens, un momento NBA Topshot, y porque se almacenan directamente en la cuenta de su propietario. Es por eso que el código Cadence es fácil de leer, mantener y discutir.
+
+Los tipos de recursos son similares a las clases, representan una colección de datos y funciones. Sin embargo, introducen reglas estrictas sobre cómo un desarrollador puede manejarlos:
+
+*   Los recursos solo pueden existir en un lugar exacto y en un momento exacto
+
+*   Los recursos no se pueden copiar
+
+*   Los recursos deben ser destruidos explícitamente
+
+Esto impide la duplicación perjudicial y la eliminación accidental de un recurso, lo que los convierte en una buena opción para aplicaciones de blockchain. El operador "move", un operador especial para transferir recursos, proporciona un indicador visual al manejar recursos.
+
+Capacidades para el control de acceso
+Las capacidades son similares a los permisos: controlan las acciones que un usuario puede realizar en un recurso determinado. Si desea llamar a un método de recurso, necesita tener una capacidad válida.
+
+Las capacidades son la puerta de entrada a los recursos. Como una API REST, las capacidades tienen una ruta. Si esa ruta está en el dominio público de una cuenta, cualquier persona puede obtener la capacidad; las capacidades en el dominio privado solo son accesibles por el propietario de la cuenta.
+
+Independientemente de estar en el dominio público o privado, las capacidades siempre se relacionan con un objetivo. Este objetivo puede ser un recurso completo o solo un subconjunto de sus métodos. Para el último caso, las interfaces pueden actuar como objetivo para la capacidad. Así es como las capacidades permiten un control de acceso preciso y legible para los humanos.
+
+Para interactuar con un recurso, debe obtener la capacidad específica antes de tomar prestado su recurso subyacente. Esto se puede hacer dentro de las transacciones.
+
+account.getCapability<...>(/public/MyCapability).borrow()
+
+Interacción con transacciones y scripts
+Las transacciones permiten cambiar los datos en la cadena. En Flow, las transacciones se escriben en Cadence. Por lo general, constan de dos pasos: preparar y ejecutar.
+
+transaction {
+prepare(acct: AuthAccount) {
+...
+}
+execute {
+...
+}
+}
+
+Para cada suscriptor de la transacción, se pasa la cuenta AuthAccount correspondiente a la fase de preparación de la transacción, proporcionando acceso completo al almacenamiento, así como a los dominios público y privado de la cuenta de suscripción.
+
+Si solo desea consultar datos en la cadena sin modificarlos, puede ejecutar un script. En Cadence, los scripts constan de una función pública principal que se ejecuta en la ejecución:
+
+pub fun main()
+
+() {
+log("¡Hola mundo!")
+}
+
+[Lecturas adicionales](https://developers.flow.com/cadence/tutorial/01-first-steps)
+
+Si deseas empezar a construir rápidamente con Cadence, revisa la serie oficial de tutoriales en la que crearás un mercado completo con integraciones para tokens fungibles y no fungibles.
+
+[Serie de tutoriales de Cadence](https://developers.flow.com/cadence/language)
+
+Si en algún momento estás buscando una documentación más completa y detallada del lenguaje, consulta la documentación completa de Cadence:
+
+[Referencia del lenguaje de Cadence](https://docs.onflow.org/cadence/language)
+
+En cualquier momento en que quieras experimentar con Cadence sin tener que configurar un entorno de desarrollo local, echa un vistazo al Cadence Playground:
+
+[Playground de Cadence](https://play.onflow.org/)
+
+¡Anímate a probar Cadence para un desarrollo de contratos inteligentes más seguro y eficiente!
+
+
+
