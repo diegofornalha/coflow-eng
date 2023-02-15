@@ -109,4 +109,5 @@ metaDescription: null
 socialImage: null
 excerptBr: Oferecendo uma experiência única
 author: content/data/team/people/diego-fornalha.json
+title: Equipo de Contratos Inteligentes de Flow
 ---
