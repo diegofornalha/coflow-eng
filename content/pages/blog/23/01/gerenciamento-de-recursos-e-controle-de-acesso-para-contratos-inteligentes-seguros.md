@@ -36,11 +36,10 @@ media:
   height: 450
 bottomSections: []
 markdown_content_pt: >
-  Você já ouviu falar do Cadence? É uma linguagem de programação que acelera e
-  simplifica o desenvolvimento de contratos inteligentes seguros, introduzindo
-  recursos e capacidades avançadas, como composição e aninhamento de recursos.
-  Ao mesmo tempo, o Cadence também é responsável por transações e consultas no
-  Flow.
+  É uma linguagem de programação que acelera e simplifica o desenvolvimento de
+  contratos inteligentes seguros, introduzindo recursos e capacidades avançadas,
+  como composição e aninhamento de recursos. Ao mesmo tempo, o Cadence também é
+  responsável por transações e consultas no Flow.
 
 
   Gerenciando a propriedade
@@ -95,8 +94,6 @@ markdown_content_pt: >
   apenas um subconjunto de seus métodos. Para o último caso, as interfaces podem
   atuar como alvo para a capacidade. É assim que as capacidades permitem um
   controle de acesso fino e legível para humanos.
-
-
 
 
   Para interagir com um recurso, você precisa obter a capacidade específica
