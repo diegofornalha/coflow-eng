@@ -146,4 +146,9 @@ markdown_content_pt: >
   https://flow.com/post/state-of-the-flow-ecosystem
 author: content/data/team/people/diego-fornalha.json
 title: 'Ecosistema Flow: un vistazo profundo a equipos y productos vibrantes'
+excerpt: >-
+  Un crecimiento significativo de desarrolladores en la plataforma, con un
+  aumento de 2,5 veces en el número de nuevos desarrolladores implementando
+  contratos en la testnet y una tasa de crecimiento mensual del 31% desde
+  noviembre de 2020.
 ---
