@@ -110,4 +110,5 @@ metaDescription: null
 socialImage: null
 excerptBr: 'Você já ouviu falar do Flow? '
 title: Interactuando con Flow usando Ruby
+excerpt: ¿Has oído hablar de Flow?
 ---
