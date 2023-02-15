@@ -169,4 +169,5 @@ markdown_content_pt: >
   [Cadence playground](https://play.flow.com/local-project)
 metaDescription: null
 socialImage: null
+author: content/data/team/people/diego-fornalha.json
 ---
