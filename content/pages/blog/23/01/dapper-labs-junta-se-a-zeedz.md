@@ -5,9 +5,6 @@ addTitleSuffix: true
 metaTags: []
 titlePt: Dapper Labs junta-se à Zeedz
 colors: colors-d
-excerpt: >-
-  A gigante do setor de NFTs, criadora de sucessos como NBA Top Shot e
-  Cryptokitties, investe em jogo baseado em sustentabilidade
 excerptFr: >-
   A gigante do setor de NFTs, criadora de sucessos como NBA Top Shot e
   Cryptokitties, investe em jogo baseado em sustentabilidade
