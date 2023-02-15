@@ -152,3 +152,27 @@ excerpt: >-
   contratos en la testnet y una tasa de crecimiento mensual del 31% desde
   noviembre de 2020.
 ---
+Siguiendo nuestra primera Asamblea de Flow, donde presentamos nuestras prioridades futuras y revisamos el crecimiento de desarrolladores, hitos tecnológicos y mejoras en el protocolo principal del último año, queremos proporcionar una visión más profunda de los equipos y productos vibrantes que conforman el ecosistema de Flow.
+
+## Principales conclusiones
+
+### Crecimiento de desarrolladores:
+
+2022 fue un gran año para los constructores de Flow. En los últimos 12 meses, hemos visto 2,5 veces más nuevos desarrolladores implementando contratos en la testnet y la Biblioteca de Clientes de Flow se ha descargado 630.000 veces (2 veces más que el año anterior). Desde noviembre de 2020, el número de desarrolladores que ingresan al ecosistema de Flow ha aumentado en un promedio del 31% mes a mes. Tenemos más de 11.000 desarrolladores (medidos por el número acumulativo de cuentas de testnet) construyendo más de 2.600 contratos inteligentes activos en Flow hoy.
+
+### Crecimiento de red:
+
+Juntos, estos constructores han impulsado un aumento de ~700x en el número total de transacciones y un aumento de ~600x en las cuentas de Flow desde noviembre de 2020, para un total de más de 300 millones de transacciones y 17,5 millones de cuentas hoy.
+
+### Impacto:
+
+Flow es el socio de confianza para la propiedad intelectual de empresas establecidas que ingresan al espacio web3, incluidas Ticketmaster, Mattel, Billboard, Dr. Seuss, CNN, Zigazoo y muchos otros por venir.
+
+Flow se está convirtiendo en la cadena de bloques elegida por las principales startups centradas en consumidores y nativas digitales, incluida la plataforma de avatares Genies, que alcanzó el estado de unicornio en abril de 2022, la empresa de juguetes digitales Cryptoys, que se asoció con Mattel para transformar personajes legendarios en avatares jugables que se pueden vender como NFT y el desarrollador de juegos Joyride, que construyó dos de las aplicaciones descentralizadas más grandes en web3, con más de 17 millones de transacciones totales y más de 1 millón de usuarios únicos.
+
+Plataformas sociales importantes como Instagram y Twitter ahora admiten Flow. En 2022, Flow lanzó un piloto con Twitter para explorar un nuevo formato de tweet llamado NFT Tweet Tiles, con imágenes más grandes junto con detalles como el título y el creador y un botón de CTA visible.
+
+Artículo completo original en inglés: <https://flow.com/post/state-of-the-flow-ecosystem>
+
+
+
