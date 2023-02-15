@@ -140,6 +140,7 @@ markdown_content_pt: >+
 metaDescription: null
 socialImage: null
 date: '2023-01-25'
+author: content/data/team/people/diego-fornalha.json
 ---
 Hoje, vou falar sobre um aspecto do Cadence com o qual muitas pessoas têm dificuldade de se familiarizar: os Optionais!
 
