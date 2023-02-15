@@ -67,3 +67,45 @@ markdown_content_pt: "FLOW é a moeda nativa para aplicativos, jogos e contratos
 title: Varios casos de uso de la blockchain Flow
 excerpt: El token FLOW es la moneda nativa de la red de blockchain Flow.
 ---
+
+
+
+FLOW es la moneda nativa para aplicaciones, juegos y contratos inteligentes construidos sobre la blockchain Flow y, por lo tanto, es la moneda garantizada para estar disponible para desarrolladores y usuarios para realizar transacciones en la red. Los desarrolladores pueden crear fácilmente FLOW directamente en sus aplicaciones para pagos punto a punto, también se puede usar para cobrar servicios e incluso permitir que los consumidores ganen recompensas por el valor que crean.
+
+FLOW también puede ser retenido, transferido o negociado por usuarios de punto a punto. Los poseedores del token pueden ganar recompensas apostando su FLOW como un depósito de seguridad y trabajando para proteger la red a través de nodos validadores en ejecución o delegando su participación a operadores profesionales para ejecutar nodos validadores en su nombre.
+
+Los nodos validadores reciben recompensas de apuestas y tarifas de transacción a cambio de proporcionar los servicios de seguridad, cómputo y almacenamiento que la red necesita. ‍
+
+Pequeñas cantidades de token FLOW también son necesarias para todas las actividades en la red, desde nuevas cuentas de usuario hasta almacenamiento de activos y contratos inteligentes.
+
+A medida que la red madura, los poseedores del token FLOW podrán usar su FLOW de varias maneras:
+
+*   Pagando por servicios de cómputo y validación (es decir, tarifas de transacción)
+
+*   Se puede usar como medio de intercambio en general
+
+*   Depósito para almacenamiento de datos
+
+*   Garantía para tokens secundarios
+
+*   Participación en la gobernanza
+
+La experiencia de pago perfecta es para todas las partes: los compradores pagan en cualquier moneda que quieran.
+
+Los vendedores fijan precios y reciben en la moneda que deseen.
+
+Las aplicaciones en Flow pueden explotar esta realidad.
+
+Flow tiene alta capacidad, tarifas bajas y garantías ACID completas, lo que permite a los desarrolladores implementar intercambios en intercambios descentralizados (DEX) que actúan como una cámara de compensación entre tokens.
+
+Flow tiene la capacidad de usar para derrotar ataques avanzados a estos DEX.
+
+La omnipresencia del token FLOW en la red lo convierte en el "activo puente" obvio para intercambios de moneda entre pares de tokens poco negociados.
+
+A medida que el número de tokens secundarios en Flow aumenta, el número de pares de negociación posibles aumenta exponencialmente, lo que significa que algunos intercambios requerirán un activo intermedio como FLOW.
+
+Es importante destacar que FLOW es necesario para la creación y uso de todos los demás tokens en la red, para pagar el almacenamiento y/o servir como garantía.
+
+Estos detalles se describen en la sección de detalles técnicos en el sitio flow.com y se especificarán completamente en futuros whitepapers.
+
+El impacto económico es que a medida que se crea más valor en la blockchain Flow, se genera más demanda para el token FLOW.
