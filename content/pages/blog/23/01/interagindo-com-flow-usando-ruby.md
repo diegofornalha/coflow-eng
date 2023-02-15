@@ -158,4 +158,5 @@ socialImage: null
 excerptBr: 'Você já ouviu falar do Flow? '
 title: Interactuando con Flow usando Ruby
 excerpt: ¿Has oído hablar de Flow?
+author: content/data/team/people/diego-fornalha.json
 ---
