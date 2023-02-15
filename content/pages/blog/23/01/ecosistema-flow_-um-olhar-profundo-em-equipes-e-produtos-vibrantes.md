@@ -18,38 +18,7 @@ media:
     Instagram e Twitter.
   width: 500
   height: 300
-bottomSections:
-  - type: FeaturedPostsSection
-    colors: colors-b
-    elementId: ''
-    showDate: true
-    showAuthor: false
-    showExcerpt: false
-    showReadMoreLink: true
-    readMoreLinkLabel: Saiba Mais
-    variant: variant-b
-    actions: []
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      actions:
-        justifyContent: center
-    subtitle: ''
-    posts:
-      - content/pages/blog/chainmonsters-um-crypto-game-da-flow-blockchain.md
-      - content/pages/blog/protocolo-de-staking-liquido-(stflow)-da-increment.md
-      - content/pages/blog/a-anatomia-de-um-flow-dapp.md
+bottomSections: []
 metaDescription: >-
   Crescimento significativo de desenvolvedores na plataforma, com um aumento de
   2,5 vezes no número de novos desenvolvedores implantando contratos na testnet
